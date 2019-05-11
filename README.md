@@ -727,58 +727,47 @@
 ## 1995
 - **A Hill-Climbing Approach for Optimizing Classification Trees (AISTATS 1995)**
   - Xiaorong Sun, Steve Y. Chiu, Louis Anthony Cox Jr.
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://link.springer.com/chapter/10.1007%2F978-1-4612-2404-4_11)
 
 - **An Exact Probability Metric for Decision Tree Splitting (AISTATS 1995)**
   - J. Kent Martin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.48.6378&rep=rep1&type=pdf)
 
 - **On Pruning and Averaging Decision Trees (ICML 1995)**
   - Jonathan J. Oliver, David J. Hand
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.6733&rep=rep1&type=pdf)
 
 - **On Handling Tree-Structured Attributed in Decision Tree Learning (ICML 1995)**
   - Hussein Almuallim, Yasuhiro Akiba, Shigeo Kaneda
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/B9781558603776500116)
 
 - **Retrofitting Decision Tree Classifiers Using Kernel Density Estimation (ICML 1995)**
   - Padhraic Smyth, Alexander G. Gray, Usama M. Fayyad
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/3a05/8ab505f096b23962591bb14e495a543aa2a1.pdf)
 
 - **Increasing the Performance and Consistency of Classification Trees by Using the Accuracy Criterion at the Leaves (ICML 1995)**
   - David J. Lubinsky
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/B9781558603776500530)
 
 - **Efficient Algorithms for Finding Multi-way Splits for Decision Trees (ICML 1995)**
   - Truxton Fulton, Simon Kasif, Steven Salzberg
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/B9781558603776500384)
 
 - **Theory and Applications of Agnostic PAC-Learning with Small Decision Trees (ICML 1995)**
   - Peter Auer, Robert C. Holte, Wolfgang Maass
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://igi-web.tugraz.at/PDF/77.pdf)
 
 - **Boosting Decision Trees (NIPS 1995)**
   - Harris Drucker, Corinna Cortes
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://papers.nips.cc/paper/1059-boosting-decision-trees.pdf)
 
 - **Using Pairs of Data-Points to Define Splits for Decision Trees (NIPS 1995)**
   - Geoffrey E. Hinton, Michael Revow
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cs.toronto.edu/~hinton/absps/bcart.pdf)
 
 - **A New Pruning Method for Solving Decision Trees and Game Trees (UAI 1995)**
   - Prakash P. Shenoy
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1302.4981)
 
 ## 1994
 - **A Statistical Approach to Decision Tree Modeling (ICML 1994)**
