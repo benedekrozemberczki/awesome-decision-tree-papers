@@ -147,64 +147,54 @@ A similar collection about [[graph embedding]](https://github.com/benedekrozembe
 ## 2015
 - **Particle Gibbs for Bayesian Additive Regression Trees (AISTATS 2015)**
   - Balaji Lakshminarayanan, Daniel M. Roy, Yee Whye Teh
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1502.04622)
 
 - **DART: Dropouts meet Multiple Additive Regression Trees (AISTATS 2015)**
   - Korlakai Vinayak Rashmi, Ran Gilad-Bachrach
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1505.01866)
+  - [[Code]](https://xgboost.readthedocs.io/en/latest/)
 
 - **Single target tracking using adaptive clustered decision trees and dynamic multi-level appearance models (CVPR 2015)**
   - Jingjing Xiao, Rustam Stolkin, Ales Leonardis
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/3B_058.pdf)
 
 - **Face alignment using cascade Gaussian process regression trees (CVPR 2015)**
   - Donghoon Lee, Hyunsin Park, Chang Dong Yoo
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://slsp.kaist.ac.kr/paperdata/Face_Alignment_Using.pdf)
+  - [[Code]](https://github.com/donghoonlee04/cGPRT)
 
 - **Tracking-by-Segmentation with Online Gradient Boosting Decision Tree (ICCV 2015)**
   - Jeany Son, Ilchae Jung, Kayoung Park, Bohyung Han
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](Tracking-by-Segmentation with Online Gradient Boosting Decision Tree)
 
 - **Entropy evaluation based on confidence intervals of frequency estimates : Application to the learning of decision trees (ICML 2015)**
   - Mathieu Serrurier, Henri Prade
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v37/serrurier15.pdf)
 
 - **A Decision Tree Framework for Spatiotemporal Sequence Prediction (KDD 2015)**
   - Taehwan Kim, Yisong Yue, Sarah L. Taylor, Iain A. Matthews
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.yisongyue.com/publications/kdd2015_ssw_dt.pdf)
 
 - **Efficient Non-greedy Optimization of Decision Trees (NIPS 2015)**
   - Mohammad Norouzi, Maxwell D. Collins, Matthew Johnson, David J. Fleet, Pushmeet Kohli
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1511.04056)
 
 ## 2014
 - **On Building Decision Trees from Large-scale Data in Applications of On-line Advertising (CIKM 2014)**
   - Shivaram Kalyanakrishnan, Deepthi Singh, Ravi Kant
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cse.iitb.ac.in/~shivaram/papers/ksk_cikm_2014.pdf)
 
 - **Fast Supervised Hashing with Decision Trees for High-Dimensional Data (CVPR 2014)**
   - Guosheng Lin, Chunhua Shen, Qinfeng Shi, Anton van den Hengel, David Suter
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1404.1561)
 
 - **One Millisecond Face Alignment with an Ensemble of Regression Trees (CVPR 2014)**
   - Vahid Kazemi, Josephine Sullivan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.researchgate.net/publication/264419855_One_Millisecond_Face_Alignment_with_an_Ensemble_of_Regression_Trees)
 
 - **Diagnosis determination: decision trees optimizing simultaneously worst and expected testing cost (ICML 2014)**
   - Ferdinando Cicalese, Eduardo Sany Laber, Aline Medeiros Saettler
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/47ae/852f83b76f95b27ab00308d04f6020bdf71f.pdf)
 
 ## 2013
 - **Weakly Supervised Learning of Image Partitioning Using Decision Trees with Structured Split Criteria (ICCV 2013)**
