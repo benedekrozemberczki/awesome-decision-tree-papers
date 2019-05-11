@@ -284,7 +284,7 @@
   - [[Code]]( )
 
 ## 2012
-- **Regression Tree Fields - An efficient%2C non-parametric approach to image labeling problems (CVPR 2012)**
+- **Regression Tree Fields - An efficient, non-parametric approach to image labeling problems (CVPR 2012)**
   - Jeremy Jancsary, Sebastian Nowozin, Toby Sharp, Carsten Rother
   - [[Paper]]( )
   - [[Code]]( )
@@ -523,7 +523,7 @@
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Comparing Naive Bayes%2C Decision Trees%2C and SVM with AUC and Accuracy (ICDM 2003)**
+- **Comparing Naive Bayes, Decision Trees, and SVM with AUC and Accuracy (ICDM 2003)**
   - Jin Huang, Jingjing Lu, Charles X. Ling
   - [[Paper]]( )
   - [[Code]]( )
