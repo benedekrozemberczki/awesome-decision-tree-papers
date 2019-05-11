@@ -199,59 +199,48 @@ A similar collection about [[graph embedding]](https://github.com/benedekrozembe
 ## 2013
 - **Weakly Supervised Learning of Image Partitioning Using Decision Trees with Structured Split Criteria (ICCV 2013)**
   - Christoph N. Straehle, Ullrich Köthe, Fred A. Hamprecht
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/6751340)
 
 - **Revisiting Example Dependent Cost-Sensitive Learning with Decision Trees (ICCV 2013)**
   - Oisin Mac Aodha, Gabriel J. Brostow
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/6751133)
 
 - **Conformal Prediction Using Decision Trees (ICDM 2013)**
   - Ulf Johansson, Henrik Boström, Tuve Löfström
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/6729517)
 
 - **Focal-Test-Based Spatial Decision Tree Learning: A Summary of Results (ICDM 2013)**
   - Zhe Jiang, Shashi Shekhar, Xun Zhou, Joseph K. Knight, Jennifer Corcoran
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/f28e/df8d9eed76e4ce97cb6bd4182d590547be5e.pdf)
 
 - **Top-down particle filtering for Bayesian decision trees (ICML 2013)**
   - Balaji Lakshminarayanan, Daniel M. Roy, Yee Whye Teh
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1303.0561)
 
 - **Quickly Boosting Decision Trees - Pruning Underachieving Features Early (ICML 2013)**
   - Ron Appel, Thomas J. Fuchs, Piotr Dollár, Pietro Perona
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v28/appel13.pdf)
 
 - **Knowledge Compilation for Model Counting: Affine Decision Trees (IJCAI 2013)**
   - Frédéric Koriche, Jean-Marie Lagniez, Pierre Marquis, Samuel Thomas
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.researchgate.net/publication/262398921_Knowledge_Compilation_for_Model_Counting_Affine_Decision_Trees)
 
 ## 2012
 - **Regression Tree Fields - An efficient, non-parametric approach to image labeling problems (CVPR 2012)**
   - Jeremy Jancsary, Sebastian Nowozin, Toby Sharp, Carsten Rother
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.nowozin.net/sebastian/papers/jancsary2012rtf.pdf)
 
 - **ConfDTree: Improving Decision Trees Using Confidence Intervals (ICDM 2012)**
   - Gilad Katz, Asaf Shabtai, Lior Rokach, Nir Ofek
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/6413889)
 
 - **Improved Information Gain Estimates for Decision Tree Induction (ICML 2012)**
   - Sebastian Nowozin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1206.4620)
 
 - **Learning Partially Observable Models Using Temporally Abstract Decision Trees (NIPS 2012)**
   - Erik Talvitie
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/4662-learning-partially-observable-models-using-temporally-abstract-decision-trees)
 
 ## 2011
 - **Incorporating Boosted Regression Trees into Ecological Latent Variable Models (AAAI 2011)**
