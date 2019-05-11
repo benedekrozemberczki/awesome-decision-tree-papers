@@ -368,53 +368,43 @@ A similar collection about [[graph embedding]](https://github.com/benedekrozembe
 ## 2004
 - **On the Optimality of Probability Estimation by Random Decision Trees (AAAI 2004)**
   - Wei Fan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.447.2128&rep=rep1&type=pdf)
 
-- **Occam%27s Razor and a Non-Syntactic Measure of Decision Tree Complexity (AAAI 2004)**
+- **Occam's Razor and a Non-Syntactic Measure of Decision Tree Complexity (AAAI 2004)**
   - Goutam Paul
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/Papers/AAAI/2004/AAAI04-130.pdf)
 
 - **Using Emerging Patterns and Decision Trees in Rare-Class Classification (ICDM 2004)**
   - Hamad Alhammady, Kotagiri Ramamohanarao
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/1410299)
 
 - **Orthogonal Decision Trees (ICDM 2004)**
   - Hillol Kargupta, Haimonti Dutta
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.csee.umbc.edu/~hillol/PUBS/odtree.pdf)
 
 - **Improving the Reliability of Decision Tree and Naive Bayes Learners (ICDM 2004)**
   - David George Lindsay, Siân Cox
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.521.3127&rep=rep1&type=pdf)
 
 - **Communication Efficient Construction of Decision Trees Over Heterogeneously Distributed Data (ICDM 2004)**
   - Chris Giannella, Kun Liu, Todd Olsen, Hillol Kargupta
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.79.7119&rep=rep1&type=pdf)
 
 - **Decision Tree Evolution Using Limited Number of Labeled Data Items from Drifting Data Streams (ICDM 2004)**
   - Wei Fan, Yi-an Huang, Philip S. Yu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.9450&rep=rep1&type=pdf)
 
 - **Lookahead-based algorithms for anytime induction of decision trees (ICML 2004)**
   - Saher Esmeir, Shaul Markovitch
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.cs.technion.ac.il/~shaulm/papers/pdf/Esmeir-Markovitch-icml2004.pdf)
 
 - **Detecting Structural Metadata with Decision Trees and Transformation-Based Learning (NAACL 2004)**
   - Joungbum Kim, Sarah E. Schwarm, Mari Ostendorf
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aclweb.org/anthology/N04-1018)
 
 - **On the Adaptive Properties of Decision Trees (NIPS 2004)**
   - Clayton D. Scott, Robert D. Nowak
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/2625-on-the-adaptive-properties-of-decision-trees.pdf)
 
 ## 2003
 - **Postprocessing Decision Trees to Extract Actionable Knowledge (ICDM 2003)**
