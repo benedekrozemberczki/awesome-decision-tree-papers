@@ -4,13 +4,12 @@
 ## 2018
 - **Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees (AAAI 2018)**
   - Dennis J. N. J. Soemers, Tim Brys, Kurt Driessens, Mark H. M. Winands, Ann Nowé
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16183/16394)
 
 - **MERCS: Multi-Directional Ensembles of Regression and Classification Trees (AAAI 2018)**
   - Elia Van Wolputte, Evgeniya Korneva, Hendrik Blockeel
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16875/16735)
+  - [[Code]](https://github.com/eliavw/mercs-v5)
 
 - **Differential Performance Debugging With Discriminant Regression Trees (AAAI 2018)**
   - Saeid Tizpaz-Niari, Pavol Cerný, Bor-Yuh Evan Chang, Ashutosh Trivedi
