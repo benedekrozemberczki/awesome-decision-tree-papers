@@ -675,48 +675,39 @@ A similar collection about [[graph embedding]](https://github.com/benedekrozembe
 ## 1997
 - **Pessimistic decision tree pruning based Continuous-time (ICML 1997)**
   - Yishay Mansour
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/b6fc/e37612db10a9756b904b5e79e1144ca12574.pdf)
 
 - **PAC Learning with Constant-Partition Classification Noise and Applications to Decision Tree Induction (ICML 1997)**
   - Scott E. Decatur
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.semanticscholar.org/paper/PAC-Learning-with-Constant-Partition-Classification-Decatur/dd205073aeb512ecd1e823b35f556058fdeea5e0)
 
 - **Option Decision Trees with Majority Votes (ICML 1997)**
   - Ron Kohavi, Clayton Kunz
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/383b/381d1ac0bb41ec595e0d1603ed642809eb86.pdf)
 
 - **Integrating Feature Construction with Multiple Classifiers in Decision Tree Induction (ICML 1997)**
   - Ricardo Vilalta, Larry A. Rendell
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/1f73/d9d409a75d16871cfa1182ac72b37c839d86.pdf)
 
 - **Functional Models for Regression Tree Leaves (ICML 1997)**
   - Luís Torgo
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/48e4/b3187ca234308e97e1ac0cab84222c603bdd.pdf)
 
 - **The Effects of Training Set Size on Decision Tree Complexity (ICML 1997)**
   - Tim Oates, David D. Jensen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/e003/9dbdec3bd4cfbb3273b623fbed2d6b2f0cc9.pdf)
 
 - **Unsupervised On-line Learning of Decision Trees for Hierarchical Data Analysis (NIPS 1997)**
   - Marcus Held, Joachim M. Buhmann
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/1479-unsupervised-on-line-learning-of-decision-trees-for-hierarchical-data-analysis.pdf)
 
 - **Data-Dependent Structural Risk Minimization for Perceptron Decision Trees (NIPS 1997)**
   - John Shawe-Taylor, Nello Cristianini
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/1359-data-dependent-structural-risk-minimization-for-perceptron-decision-trees)
 
 - **Generalization in Decision Trees and DNF: Does Size Matter (NIPS 1997)**
   - Mostefa Golea, Peter L. Bartlett, Wee Sun Lee, Llew Mason
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/1340-generalization-in-decision-trees-and-dnf-does-size-matter.pdf)
 
 ## 1996
 - **Second Tier for Decision Trees (ICML 1996)**
