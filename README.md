@@ -301,59 +301,48 @@ A similar collection about [[graph embedding]](https://github.com/benedekrozembe
 
 - **A Tighter Error Bound for Decision Tree Learning Using PAC Learnability (IJCAI 2007)**
   - Chaithanya Pichuka, Raju S. Bapi, Chakravarthy Bhagvati, Arun K. Pujari, Bulusu Lakshmana Deekshatulu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/07/Papers/163.pdf)
 
 - **Keep the Decision Tree and Estimate the Class Probabilities Using its Decision Boundary (IJCAI 2007)**
   - Isabelle Alvarez, Stephan Bernard, Guillaume Deffuant
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/07/Papers/104.pdf)
 
 - **Real Boosting a la Carte with an Application to Boosting Oblique Decision Tree (IJCAI 2007)**
   - Claudia Henry, Richard Nock, Frank Nielsen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/07/Papers/135.pdf)
 
 - **Scalable look-ahead linear regression trees (KDD 2007)**
   - David S. Vogel, Ognian Asparouhov, Tobias Scheffer
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cs.uni-potsdam.de/ml/publications/kdd2007.pdf)
 
 - **Mining optimal decision trees from itemset lattices (KDD 2007)**
   - Siegfried Nijssen, Élisa Fromont
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://hal.archives-ouvertes.fr/hal-00372011/document)
 
 ## 2006
 - **Decision Tree Methods for Finding Reusable MDP Homomorphisms (AAAI 2006)**
   - Alicia P. Wolfe, Andrew G. Barto
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/Papers/AAAI/2006/AAAI06-085.pdf)
 
 - **A Fast Decision Tree Learning Algorithm (AAAI 2006)**
   - Jiang Su, Harry Zhang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.cs.unb.ca/~hzhang/publications/AAAI06.pdf)
 
 - **Anytime Induction of Decision Trees: An Iterative Improvement Approach (AAAI 2006)**
   - Saher Esmeir, Shaul Markovitch
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/Papers/AAAI/2006/AAAI06-056.pdf)
 
 - **When a Decision Tree Learner Has Plenty of Time (AAAI 2006)**
   - Saher Esmeir, Shaul Markovitch
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/Papers/AAAI/2006/AAAI06-259.pdf)
 
 - **Decision Trees for Functional Variables (ICDM 2006)**
   - Suhrid Balakrishnan, David Madigan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://archive.dimacs.rutgers.edu/Research/MMS/PAPERS/fdt17.pdf)
 
 - **A general framework for accurate and fast regression by data summarization in random decision trees (KDD 2006)**
   - Wei Fan, Joe McCloskey, Philip S. Yu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.442.2004&rep=rep1&type=pdf)
 
 ## 2005
 - **Representing Conditional Independence Using Decision Trees (AAAI 2005)**
