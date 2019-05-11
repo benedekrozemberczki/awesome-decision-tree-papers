@@ -297,8 +297,7 @@ A similar collection about [[graph embedding]](https://github.com/benedekrozembe
 ## 2007
 - **Sample compression bounds for decision trees (ICML 2007)**
   - Mohak Shah
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.331.9136&rep=rep1&type=pdf)
 
 - **A Tighter Error Bound for Decision Tree Learning Using PAC Learnability (IJCAI 2007)**
   - Chaithanya Pichuka, Raju S. Bapi, Chakravarthy Bhagvati, Arun K. Pujari, Bulusu Lakshmana Deekshatulu
