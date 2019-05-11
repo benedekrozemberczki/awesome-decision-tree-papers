@@ -26,13 +26,13 @@
 
 - **Generative Adversarial Image Synthesis With Decision Tree Latent Controller (CVPR 2018)**
   - Takuhiro Kaneko, Kaoru Hiramatsu, Kunio Kashino
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1805.10603)
+  - [[Code]](https://github.com/LynnHo/DTLC-GAN-Tensorflow)
 
 - **Enhancing Very Fast Decision Trees with Local Split-Time Predictions (ICDM 2018)**
   - Viktor Losing, Heiko Wersing, Barbara Hammer
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.techfak.uni-bielefeld.de/~hwersing/LosingHammerWersing_ICDM2018.pdf)
+  - [[Code]](https://github.com/ICDM2018Submission/VFDT-split-time-prediction)
 
 - **Finding Influential Training Samples for Gradient Boosted Decision Trees (ICML 2018)**
   - Boris Sharchilev, Yury Ustinovskiy, Pavel Serdyukov, Maarten de Rijke
