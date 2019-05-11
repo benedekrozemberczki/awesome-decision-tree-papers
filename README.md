@@ -41,28 +41,21 @@
 
 - **Learning Optimal Decision Trees with SAT (IJCAI 2018)**
   - Nina Narodytska, Alexey Ignatiev, Filipe Pereira, João Marques-Silva
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2018/0189.pdf)
 
 - **Extremely Fast Decision Tree (KDD 2018)**
   - Chaitanya Manapragada, Geoffrey I. Webb, Mahsa Salehi
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1802.08780)
+  - [[Code]](https://github.com/doubleplusplus/incremental_decision_tree-CART-Random_Forest_python)
 
-- **Extremely Fast Decision Tree (KDD 2018)**
-  - Emaad A. Manzoor, Hemank Lamba, Leman Akoglu
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Alternating optimization of decision trees%2C with application to learning sparse oblique trees (NIPS 2018)**
+- **Alternating optimization of decision trees with application to learning sparse oblique trees (NIPS 2018)**
   - Miguel Á. Carreira-Perpiñán, Pooya Tavallali
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/7397-alternating-optimization-of-decision-trees-with-application-to-learning-sparse-oblique-trees)
 
 - **Multi-Layered Gradient Boosting Decision Trees (NIPS 2018)**
   - Ji Feng, Yang Yu, Zhi-Hua Zhou
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/7614-multi-layered-gradient-boosting-decision-trees.pdf)
+  - [[Code]](https://github.com/kingfengji/mGBDT)
 
 ## 2017
 - **Strategic Sequences of Arguments for Persuasion Using Decision Trees (AAAI 2017)**
