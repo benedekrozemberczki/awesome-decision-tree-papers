@@ -844,5 +844,4 @@
 ## 1987
 - **Decision Tree Induction Systems: A Bayesian Analysis (UAI 1987)**
   - Wray L. Buntine
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1304.2732)
