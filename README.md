@@ -245,49 +245,40 @@ A similar collection about [[graph embedding]](https://github.com/benedekrozembe
 ## 2011
 - **Incorporating Boosted Regression Trees into Ecological Latent Variable Models (AAAI 2011)**
   - Rebecca A. Hutchinson, Li-Ping Liu, Thomas G. Dietterich
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/viewFile/3711/4086)
 
 - **Syntactic Decision Tree LMs: Random Selection or Intelligent Design (EMNLP 2011)**
   - Denis Filimonov, Mary P. Harper
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aclweb.org/anthology/D11-1064)
 
 - **Speeding-Up Hoeffding-Based Regression Trees With Options (ICML 2011)**
   - Elena Ikonomovska, João Gama, Bernard Zenko, Saso Dzeroski
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://icml.cc/Conferences/2011/papers/349_icmlpaper.pdf)
 
 - **On the Complexity of Decision Making in Possibilistic Decision Trees (UAI 2011)**
   - Hélène Fargier, Nahla Ben Amor, Wided Guezguez
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dslpitt.org/uai/papers/11/p203-fargier.pdf)
 
 - **Parallel boosted regression trees for web search ranking (WWW 2011)**
   - Stephen Tyree, Kilian Q. Weinberger, Kunal Agrawal, Jennifer Paykin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.cs.cornell.edu/~kilian/papers/fr819-tyreeA.pdf)
 
 ## 2010
 - **Discrimination Aware Decision Tree Learning (ICDM 2010)**
   - Faisal Kamiran, Toon Calders, Mykola Pechenizkiy
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.win.tue.nl/~mpechen/publications/pubs/KamiranICDM2010.pdf)
 
 - **Decision Trees for Uplift Modeling (ICDM 2010)**
   - Piotr Rzepakowski, Szymon Jaroszewicz
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://core.ac.uk/download/pdf/81899141.pdf)
 
 - **Learning Markov Network Structure with Decision Trees (ICDM 2010)**
   - Daniel Lowd, Jesse Davis
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ix.cs.uoregon.edu/~lowd/icdm10lowd.pdf)
 
 - **Multivariate Dyadic Regression Trees for Sparse Learning Problems (NIPS 2010)**
   - Han Liu, Xi Chen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/4178-multivariate-dyadic-regression-trees-for-sparse-learning-problems.pdf)
 
 ## 2009
 - **Stochastic gradient boosted distributed decision trees (CIKM 2009)**
