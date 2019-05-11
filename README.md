@@ -13,18 +13,16 @@
 
 - **Differential Performance Debugging With Discriminant Regression Trees (AAAI 2018)**
   - Saeid Tizpaz-Niari, Pavol Cerný, Bor-Yuh Evan Chang, Ashutosh Trivedi
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1711.04076)
+  - [[Code]](https://github.com/cuplv/DPDEBUGGER)
 
 - **Estimating the Class Prior in Positive and Unlabeled Data Through Decision Tree Induction (AAAI 2018)**
   - Jessa Bekker, Jesse Davis
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16776)
 
 - **MDP-Based Cost Sensitive Classification Using Decision Trees (AAAI 2018)**
   - Shlomi Maliah, Guy Shani
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17128)
 
 - **Generative Adversarial Image Synthesis With Decision Tree Latent Controller (CVPR 2018)**
   - Takuhiro Kaneko, Kaoru Hiramatsu, Kunio Kashino
