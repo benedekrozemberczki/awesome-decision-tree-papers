@@ -1,7 +1,6 @@
 # awesome-decision-tree
 
 #### Papers by year
-- [2019](#2019)
 - [2018](#2018)
 - [2017](#2017)
 - [2016](#2016)
@@ -25,7 +24,11 @@
 - [1997](#1997) 
 - [1996](#1996) 
 - [1995](#1995) 
-- [1994](#1994) 
+- [1994](#1994)
+- [1993](#1993) 
+- [1989](#1989) 
+- [1988](#1988) 
+- [1987](#1987) 
 
 ## 2018
 - **Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees (AAAI 2018)**
