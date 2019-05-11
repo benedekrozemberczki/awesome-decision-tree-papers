@@ -117,38 +117,32 @@ A similar collection about [[graph embedding]](https://github.com/benedekrozembe
 
 - **Learning Online Smooth Predictors for Realtime Camera Planning Using Recurrent Decision Trees (CVPR 2016)**
   - Jianhui Chen, Hoang Minh Le, Peter Carr, Yisong Yue, James J. Little
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://hoangle.info/papers/cvpr2016_online_smooth_long.pdf)
 
 - **Online Learning with Bayesian Classification Trees (CVPR 2016)**
   - Samuel Rota Bulò, Peter Kontschieder
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.dsi.unive.it/~srotabul/files/publications/CVPR2016.pdf)
 
 - **Accurate Robust and Efficient Error Estimation for Decision Trees (ICML 2016)**
   - Lixin Fan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v48/fan16.pdf)
 
 - **Meta-Gradient Boosted Decision Tree Model for Weight and Target Learning (ICML 2016)**
   - Yury Ustinovskiy, Valentina Fedorova, Gleb Gusev, Pavel Serdyukov
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v48/ustinovskiy16.html)
 
 - **Boosted Decision Tree Regression Adjustment for Variance Reduction in Online Controlled Experiments (KDD 2016)**
   - Alexey Poyarkov, Alexey Drutsa, Andrey Khalyavin, Gleb Gusev, Pavel Serdyukov
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.kdd.org/kdd2016/papers/files/adf0653-poyarkovA.pdf)
 
 - **Yggdrasil: An Optimized System for Training Deep Decision Trees at Scale (NIPS 2016)**
   - Firas Abuzaid, Joseph K. Bradley, Feynman T. Liang, Andrew Feng, Lee Yang, Matei Zaharia, Ameet S. Talwalkar
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/6366-yggdrasil-an-optimized-system-for-training-deep-decision-trees-at-scale)
 
 - **A Communication-Efficient Parallel Algorithm for Decision Tree (NIPS 2016)**
   - Qi Meng, Guolin Ke, Taifeng Wang, Wei Chen, Qiwei Ye, Zhiming Ma, Tie-Yan Liu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1611.01276)
+  - [[Code]](https://github.com/microsoft/LightGBM/blob/master/docs/Features.rst)
 
 ## 2015
 - **Particle Gibbs for Bayesian Additive Regression Trees (AISTATS 2015)**
