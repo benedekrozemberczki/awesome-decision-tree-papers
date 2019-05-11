@@ -628,49 +628,41 @@ A similar collection about [[graph embedding]](https://github.com/benedekrozembe
 ## 1999
 - **Modeling decision tree performance with the power law (AISTATS 1999)**
   - Lewis J. Frey, Douglas H. Fisher
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/ModelingTree.pdf)
 
 - **Causal Mechanisms and Classification Trees for Predicting Chemical Carcinogens (AISTATS 1999)**
   - Louis Anthony Cox Jr.
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/0d7b/1d55c5abfd024aacf645c66d0c90c283814e.pdf)
 
 - **POS Tags and Decision Trees for Language Modeling (EMNLP 1999)**
   - Peter A. Heeman
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aclweb.org/anthology/W99-0617)
 
 - **Lazy Bayesian Rules: A Lazy Semi-Naive Bayesian Learning Technique Competitive to Boosting Decision Trees (ICML 1999)**
   - Zijian Zheng, Geoffrey I. Webb, Kai Ming Ting
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/067e/86836ddbcb5e2844e955c16e058366a18c77.pdf)
 
 - **The Alternating Decision Tree Learning Algorithm (ICML 1999)**
   - Yoav Freund, Llew Mason
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://cseweb.ucsd.edu/~yfreund/papers/atrees.pdf)
+  - [[Code]](https://github.com/rajanil/mkboost)
 
 - **Boosting with Multi-Way Branching in Decision Trees (NIPS 1999)**
   - Yishay Mansour, David A. McAllester
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/1659-boosting-with-multi-way-branching-in-decision-trees.pdf)
 
 ## 1998
 - **Learning Sorting and Decision Trees with POMDPs (ICML 1998)**
   - Blai Bonet, Hector Geffner
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://bonetblai.github.io/reports/icml98-learning.pdf)
 
 - **Using a Permutation Test for Attribute Selection in Decision Trees (ICML 1998)**
   - Eibe Frank, Ian H. Witten
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/9aa9/21b0203e06e98b49bf726a33e124f4310ea3.pdf)
 
 - **A Fast and Bottom-Up Decision Tree Pruning Algorithm with Near-Optimal Generalization (ICML 1998)**
   - Michael J. Kearns, Yishay Mansour
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cis.upenn.edu/~mkearns/papers/pruning.pdf)
 
 ## 1997
 - **Pessimistic decision tree pruning based Continuous-time (ICML 1997)**
