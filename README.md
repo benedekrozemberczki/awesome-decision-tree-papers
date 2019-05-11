@@ -1,6 +1,7 @@
 # Awesome decision tree research papers
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 A curated list of decision tree, classification tree and regression tree research papers with implementations.
 
 A similar collection about [[graph embedding]](https://github.com/benedekrozemberczki/awesome-graph-embedding) and [[community detection]](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
