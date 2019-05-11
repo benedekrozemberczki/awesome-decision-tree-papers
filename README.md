@@ -838,8 +838,7 @@
 ## 1988
 - **Multiple decision trees (UAI 1988)**
   - Suk Wah Kwok, Chris Carter
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1304.2363)
 
 ## 1987
 - **Decision Tree Induction Systems: A Bayesian Analysis (UAI 1987)**
