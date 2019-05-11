@@ -625,7 +625,7 @@
   - [[Paper]]( )
   - [[Code]]( )
 
-- **A Comparison of Stacking with Meta Decision Trees to Bagging%2C Boosting%2C and Stacking with other Methods (ICDM 2001)**
+- **A Comparison of Stacking with Meta Decision Trees to Bagging, Boosting, and Stacking with other Methods (ICDM 2001)**
   - Bernard Zenko, Ljupco Todorovski, Saso Dzeroski
   - [[Paper]]( )
   - [[Code]]( )
@@ -702,7 +702,7 @@
   - [[Paper]]( )
   - [[Code]]( )
 
-- **A Fast%2C Bottom-Up Decision Tree Pruning Algorithm with Near-Optimal Generalization (ICML 1998)**
+- **A Fast and Bottom-Up Decision Tree Pruning Algorithm with Near-Optimal Generalization (ICML 1998)**
   - Michael J. Kearns, Yishay Mansour
   - [[Paper]]( )
   - [[Code]]( )
@@ -851,15 +851,13 @@
   - Claire Cardie
   - [[Paper]]( )
   - [[Code]]( )
-
-## 1992
+  
 ## 1991
 - **Context Dependent Modeling of Phones in Continuous Speech Using Decision Trees (NAACL 1991)**
   - Lalit R. Bahl, Peter V. de Souza, P. S. Gopalakrishnan, David Nahamoo, Michael Picheny
   - [[Paper]]( )
   - [[Code]]( )
 
-## 1990
 ## 1989
 - **Performance Comparisons Between Backpropagation Networks and Classification Trees on Three Real-World Applications (NIPS 1989)**
   - Les E. Atlas, Ronald A. Cole, Jerome T. Connor, Mohamed A. El-Sharkawi, Robert J. Marks II, Yeshwant K. Muthusamy, Etienne Barnard
