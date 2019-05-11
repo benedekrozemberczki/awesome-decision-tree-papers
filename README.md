@@ -347,28 +347,23 @@ A similar collection about [[graph embedding]](https://github.com/benedekrozembe
 ## 2005
 - **Representing Conditional Independence Using Decision Trees (AAAI 2005)**
   - Jiang Su, Harry Zhang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.cs.unb.ca/~hzhang/publications/AAAI051SuJ.pdf)
 
 - **Use of Expert Knowledge for Decision Tree Pruning (AAAI 2005)**
   - Jingfeng Cai, John Durkin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.aaai.org/Papers/AAAI/2005/SA05-009.pdf)
 
 - **Effective Estimation of Posterior Probabilities: Explaining the Accuracy of Randomized Decision Tree Approaches (ICDM 2005)**
   - Wei Fan, Ed Greengrass, Joe McCloskey, Philip S. Yu, Kevin Drummey
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.9713&rep=rep1&type=pdf)
 
 - **Exploiting Informative Priors for Bayesian Classification and Regression Trees (IJCAI 2005)**
   - Nicos Angelopoulos, James Cussens
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/05/Papers/1013.pdf)
 
 - **Ranking Cases with Decision Trees: a Geometric Method that Preserves Intelligibility (IJCAI 2005)**
   - Isabelle Alvarez, Stephan Bernard
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/05/Papers/1502.pdf)
 
 ## 2004
 - **On the Optimality of Probability Estimation by Random Decision Trees (AAAI 2004)**
