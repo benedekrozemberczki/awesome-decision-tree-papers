@@ -81,34 +81,29 @@
 
 - **Extremely Fast Decision Tree Mining for Evolving Data Streams (KDD 2017)**
   - Albert Bifet, Jiajin Zhang, Wei Fan, Cheng He, Jianfeng Zhang, Jianfeng Qian, Geoff Holmes, Bernhard Pfahringer
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://core.ac.uk/download/pdf/151040580.pdf)
 
 - **LightGBM: A Highly Efficient Gradient Boosting Decision Tree (NIPS 2017)**
   - Guolin Ke, Qi Meng, Thomas Finley, Taifeng Wang, Wei Chen, Weidong Ma, Qiwei Ye, Tie-Yan Liu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree)
+  - [[Code]](https://lightgbm.readthedocs.io/en/latest/)
 
 - **Variable Importance Using Decision Trees (NIPS 2017)**
   - Jalil Kazemitabar, Arash Amini, Adam Bloniarz, Ameet S. Talwalkar
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/6646-variable-importance-using-decision-trees)
 
 - **A Practical Method for Solving Contextual Bandit Problems Using Decision Trees (UAI 2017)**
   - Adam N. Elmachtoub, Ryan McNellis, Sechan Oh, Marek Petrik
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1706.04687)
 
 - **Complexity of Solving Decision Trees with Skew-Symmetric Bilinear Utility (UAI 2017)**
   - Hugo Gilbert, Olivier Spanjaard
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://auai.org/uai2017/proceedings/papers/64.pdf)
 
 ## 2016
 - **Sparse Perceptron Decision Tree for Millions of Dimensions (AAAI 2016)**
   - Weiwei Liu, Ivor W. Tsang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12111)
 
 - **Learning Online Smooth Predictors for Realtime Camera Planning Using Recurrent Decision Trees (CVPR 2016)**
   - Jianhui Chen, Hoang Minh Le, Peter Carr, Yisong Yue, James J. Little
