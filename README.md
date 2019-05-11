@@ -721,18 +721,15 @@ A similar collection about [[graph embedding]](https://github.com/benedekrozembe
 ## 1996
 - **Second Tier for Decision Trees (ICML 1996)**
   - Miroslav Kubat
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/b619/7c531b1c83dfaa52563449f9b8248cc68c5a.pdf)
 
 - **Non-Linear Decision Trees - NDT (ICML 1996)**
   - Andreas Ittner, Michael Schlosser
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.85.2133&rep=rep1&type=pdf)
 
 - **Learning Relational Concepts with Decision Trees (ICML 1996)**
   - Peter Geibel, Fritz Wysotzki
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/32f1/78d7266fee779257b87ac8f948951db57d1e.pdf)
 
 ## 1995
 - **A Hill-Climbing Approach for Optimizing Classification Trees (AISTATS 1995)**
