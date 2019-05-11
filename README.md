@@ -36,8 +36,8 @@
 
 - **Finding Influential Training Samples for Gradient Boosted Decision Trees (ICML 2018)**
   - Boris Sharchilev, Yury Ustinovskiy, Pavel Serdyukov, Maarten de Rijke
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1802.06640)
+  - [[Code]](https://github.com/bsharchilev/influence_boosting)
 
 - **Learning Optimal Decision Trees with SAT (IJCAI 2018)**
   - Nina Narodytska, Alexey Ignatiev, Filipe Pereira, João Marques-Silva
