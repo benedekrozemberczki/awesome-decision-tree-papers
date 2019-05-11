@@ -283,19 +283,16 @@ A similar collection about [[graph embedding]](https://github.com/benedekrozembe
 ## 2009
 - **Stochastic gradient boosted distributed decision trees (CIKM 2009)**
   - Jerry Ye, Jyh-Herng Chow, Jiang Chen, Zhaohui Zheng
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=1646301)
 
 ## 2008
 - **Predicting Future Decision Trees from Evolving Data (ICDM 2008)**
   - Mirko Böttcher, Martin Spott, Rudolf Kruse
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/4781098)
 
 - **Bayes optimal classification for decision trees (ICML 2008)**
   - Siegfried Nijssen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://icml2008.cs.helsinki.fi/papers/455.pdf)
 
 ## 2007
 - **Sample compression bounds for decision trees (ICML 2007)**
