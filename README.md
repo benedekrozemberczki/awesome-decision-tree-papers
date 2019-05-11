@@ -809,25 +809,21 @@
 
 - **An Improved Algorithm for Incremental Induction of Decision Trees (ICML 1994)**
   - Paul E. Utgoff
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/B9781558603356500465)
+  
 - **Decision Tree Parsing using a Hidden Derivation Model (NAACL 1994)**
   - Frederick Jelinek, John D. Lafferty, David M. Magerman, Robert L. Mercer, Adwait Ratnaparkhi, Salim Roukos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://acl-arc.comp.nus.edu.sg/archives/acl-arc-090501d3/data/pdf/anthology-PDF/H/H94/H94-1052.pdf)
 
 ## 1993
 - **Using Decision Trees to Improve Case-Based Learning (ICML 1993)**
   - Claire Cardie
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cs.cornell.edu/home/cardie/papers/ml-93.ps)
   
 ## 1991
 - **Context Dependent Modeling of Phones in Continuous Speech Using Decision Trees (NAACL 1991)**
   - Lalit R. Bahl, Peter V. de Souza, P. S. Gopalakrishnan, David Nahamoo, Michael Picheny
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aclweb.org/anthology/H91-1051.pdf)
 
 ## 1989
 - **Performance Comparisons Between Backpropagation Networks and Classification Trees on Three Real-World Applications (NIPS 1989)**
