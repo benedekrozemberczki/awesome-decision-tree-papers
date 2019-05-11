@@ -832,8 +832,7 @@
 ## 1989
 - **Performance Comparisons Between Backpropagation Networks and Classification Trees on Three Real-World Applications (NIPS 1989)**
   - Les E. Atlas, Ronald A. Cole, Jerome T. Connor, Mohamed A. El-Sharkawi, Robert J. Marks II, Yeshwant K. Muthusamy, Etienne Barnard
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/203-performance-comparisons-between-backpropagation-networks-and-classification-trees-on-three-real-world-applications)
 
 ## 1988
 - **Multiple decision trees (UAI 1988)**
