@@ -804,8 +804,7 @@
 
 - **In Defense of C4.5: Notes Learning One-Level Decision Trees (ICML 1994)**
   - Tapio Elomaa
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.30.9386)
 
 - **An Improved Algorithm for Incremental Induction of Decision Trees (ICML 1994)**
   - Paul E. Utgoff
