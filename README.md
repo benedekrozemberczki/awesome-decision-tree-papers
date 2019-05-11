@@ -799,8 +799,7 @@
 ## 1994
 - **A Statistical Approach to Decision Tree Modeling (ICML 1994)**
   - Michael I. Jordan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/B9781558603356500519)
 
 - **In Defense of C4.5: Notes Learning One-Level Decision Trees (ICML 1994)**
   - Tapio Elomaa
