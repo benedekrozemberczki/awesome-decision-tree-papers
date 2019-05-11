@@ -60,28 +60,24 @@
 ## 2017
 - **Strategic Sequences of Arguments for Persuasion Using Decision Trees (AAAI 2017)**
   - Emmanuel Hadoux, Anthony Hunter
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www0.cs.ucl.ac.uk/staff/a.hunter/papers/aaai17.pdf)
 
 - **BoostVHT: Boosting Distributed Streaming Decision Trees (CIKM 2017)**
   - Theodore Vasiloudis, Foteini Beligianni, Gianmarco De Francisci Morales
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://melmeric.files.wordpress.com/2010/05/boostvht-boosting-distributed-streaming-decision-trees.pdf)
 
 - **Latency Reduction via Decision Tree Based Query Construction (CIKM 2017)**
   - Aman Grover, Dhruv Arya, Ganesh Venkataraman
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=3132865)
 
 - **Enumerating Distinct Decision Trees (ICML 2017)**
   - Salvatore Ruggieri
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v70/ruggieri17a/ruggieri17a.pdf)
 
 - **Gradient Boosted Decision Trees for High Dimensional Sparse Output (ICML 2017)**
   - Si Si, Huan Zhang, S. Sathiya Keerthi, Dhruv Mahajan, Inderjit S. Dhillon, Cho-Jui Hsieh
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v70/si17a.html)
+  - [[Code]](https://github.com/springdaisy/GBDT)
 
 - **Extremely Fast Decision Tree Mining for Evolving Data Streams (KDD 2017)**
   - Albert Bifet, Jiajin Zhang, Wei Fan, Cheng He, Jianfeng Zhang, Jianfeng Qian, Geoff Holmes, Bernhard Pfahringer
