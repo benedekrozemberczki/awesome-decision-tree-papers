@@ -2,6 +2,10 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+<p align="center">
+  <img width="460" src="tree.png">
+</p>
+
 A curated list of decision tree, classification tree and regression tree research papers with implementations from the following conferences:
 
 - Machine learning
@@ -26,11 +30,6 @@ A curated list of decision tree, classification tree and regression tree researc
    * [UAI](http://www.auai.org/)
 
 A similar collection about [[graph embedding]](https://github.com/benedekrozemberczki/awesome-graph-embedding) and [[community detection]](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
-
-<p align="center">
-  <img width="460" src="tree.png">
-</p>
-
 
 ## 2018
 - **Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees (AAAI 2018)**
