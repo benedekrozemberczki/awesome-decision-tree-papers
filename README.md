@@ -483,63 +483,51 @@ A similar collection about [[graph embedding]](https://github.com/benedekrozembe
 ## 2001
 - **Japanese Named Entity Recognition based on a Simple Rule Generator and Decision Tree Learning (ACL 2001)**
   - Hideki Isozaki
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aclweb.org/anthology/P01-1041)
 
 - **Message Length as an Effective Ockham's Razor in Decision Tree Induction (AISTATS 2001)**
   - Scott Needham, David L. Dowe
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](www.gatsby.ucl.ac.uk/aistats/aistats2001/files/needham122.ps)
 
 - **SQL Database Primitives for Decision Tree Classifiers (CIKM 2001)**
   - Kai-Uwe Sattler, Oliver Dunemann
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://fusion.cs.uni-magdeburg.de/pubs/classprim.pdf)
 
 - **Mining Decision Trees from Data Streams in a Mobile Environment (ICDM 2001)**
   - Hillol Kargupta, Byung-Hoon Park
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/989530)
 
 - **Efficient Determination of Dynamic Split Points in a Decision Tree (ICDM 2001)**
   - David Maxwell Chickering, Christopher Meek, Robert Rounthwaite
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/3587/a245c34ea415b205a903bde3220eb533d1a7.pdf)
 
 - **A Comparison of Stacking with Meta Decision Trees to Bagging, Boosting, and Stacking with other Methods (ICDM 2001)**
   - Bernard Zenko, Ljupco Todorovski, Saso Dzeroski
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.23.3118&rep=rep1&type=pdf)
 
 - **Efficient algorithms for decision tree cross-validation (ICML 2001)**
   - Hendrik Blockeel, Jan Struyf
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.jmlr.org/papers/volume3/blockeel02a/blockeel02a.pdf)
 
 - **Bias Correction in Classification Tree Construction (ICML 2001)**
   - Alin Dobra, Johannes Gehrke
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.cs.cornell.edu/people/dobra/papers/icml2001-bias.pdf)
 
 - **Breeding Decision Trees Using Evolutionary Techniques (ICML 2001)**
   - Athanassios Papagelis, Dimitrios Kalles
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.gatree.com/data/BreedinDecisioTreeUsinEvo.pdf)
 
 - **Obtaining calibrated probability estimates from decision trees and naive Bayesian classifiers (ICML 2001)**
   - Bianca Zadrozny, Charles Elkan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://cseweb.ucsd.edu/~elkan/calibrated.pdf)
 
 - **Temporal Decision Trees or the lazy ECU vindicated (IJCAI 2001)**
   - Luca Console, Claudia Picardi, Daniele Theseider Dupré
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.researchgate.net/publication/220815333_Temporal_Decision_Trees_or_the_lazy_ECU_vindicated)
 
 - **A Decision Tree of Bigrams is an Accurate Predictor of Word Sense (NAACL 2001)**
   - Ted Pedersen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aclweb.org/anthology/N01-1011)
 
 ## 1999
 - **Modeling decision tree performance with the power law (AISTATS 1999)**
