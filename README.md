@@ -454,38 +454,31 @@ A similar collection about [[graph embedding]](https://github.com/benedekrozembe
 ## 2002
 - **Solving the Fragmentation Problem of Decision Trees by Discovering Boundary Emerging Patterns (ICDM 2002)**
   - Jinyan Li, Limsoon Wong
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.comp.nus.edu.sg/~wongls/psZ/decisionTreeandEP-2.ps)
 
 - **Learning Decision Trees Using the Area Under the ROC Curve (ICML 2002)**
   - César Ferri, Peter A. Flach, José Hernández-Orallo
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://dmip.webs.upv.es/papers/ICML2002.pdf)
 
 - **Finding an Optimal Gain-Ratio Subset-Split Test for a Set-Valued Attribute in Decision Tree Induction (ICML 2002)**
   - Fumio Takechi, Einoshin Suzuki
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.researchgate.net/publication/221346121_Finding_an_Optimal_Gain-Ratio_Subset-Split_Test_for_a_Set-Valued_Attribute_in_Decision_Tree_Induction)
 
 - **SECRET: a scalable linear regression tree algorithm (KDD 2002)**
   - Alin Dobra, Johannes Gehrke
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.cs.cornell.edu/people/dobra/papers/secret-extended.pdf)
 
 - **Instability of decision tree classification algorithms (KDD 2002)**
   - Ruey-Hsia Li, Geneva G. Belford
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.12.8094&rep=rep1&type=pdf)
 
 - **Extracting decision trees from trained neural networks (KDD 2002)**
   - Olcay Boz
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://dspace.library.iitb.ac.in/jspui/bitstream/10054/1285/1/5664.pdf)
 
 - **Dyadic Classification Trees via Structural Risk Minimization (NIPS 2002)**
   - Clayton D. Scott, Robert D. Nowak
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/2198-dyadic-classification-trees-via-structural-risk-minimization.pdf)
 
 ## 2001
 - **Japanese Named Entity Recognition based on a Simple Rule Generator and Decision Tree Learning (ACL 2001)**
@@ -493,7 +486,7 @@ A similar collection about [[graph embedding]](https://github.com/benedekrozembe
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Message Length as an Effective Ockham%27s Razor in Decision Tree Induction (AISTATS 2001)**
+- **Message Length as an Effective Ockham's Razor in Decision Tree Induction (AISTATS 2001)**
   - Scott Needham, David L. Dowe
   - [[Paper]]( )
   - [[Code]]( )
