@@ -2,7 +2,28 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-A curated list of decision tree, classification tree and regression tree research papers with implementations.
+A curated list of decision tree, classification tree and regression tree research papers with implementations from the following conferences:
+
+- Machine learning
+   * [NeurIPS](https://nips.cc/) 
+   * [ICML](https://icml.cc/) 
+   * [ICLR](https://iclr.cc/)
+- Computer vision
+   * [CVPR](http://cvpr2019.thecvf.com/)
+   * [ICCV](http://iccv2019.thecvf.com/)
+   * [ECCV](https://eccv2018.org/)
+- Natural language processing
+   * [ACL](http://www.acl2019.org/EN/index.xhtml)
+   * [NAACL](https://naacl2019.org/)
+   * [EMNLP](https://www.emnlp-ijcnlp2019.org/) 
+- Data
+   * [KDD](https://www.kdd.org/)
+   * [ICDM](http://icdm2019.bigke.org/)
+   * [WWW](https://www2019.thewebconf.org/)
+- Artificial intelligence
+   * [AAAI](https://www.aaai.org/)
+   * [IJCAI](https://www.ijcai.org/)
+   * [UAI](http://www.auai.org/)
 
 A similar collection about [[graph embedding]](https://github.com/benedekrozemberczki/awesome-graph-embedding) and [[community detection]](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
