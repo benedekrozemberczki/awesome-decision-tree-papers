@@ -409,58 +409,47 @@ A similar collection about [[graph embedding]](https://github.com/benedekrozembe
 ## 2003
 - **Postprocessing Decision Trees to Extract Actionable Knowledge (ICDM 2003)**
   - Qiang Yang, Jie Yin, Charles X. Ling, Tielin Chen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/b2c6/ff54c7aeefc70820ff04a8fc8b804012c504.pdf)
 
 - **K-D Decision Tree: An Accelerated and Memory Efficient Nearest Neighbor Classifier (ICDM 2003)**
   - Tomoyuki Shibata, Takekazu Kato, Toshikazu Wada
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/1250997)
 
 - **Identifying Markov Blankets with Decision Tree Induction (ICDM 2003)**
   - Lewis J. Frey, Douglas H. Fisher, Ioannis Tsamardinos, Constantin F. Aliferis, Alexander R. Statnikov
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.semanticscholar.org/paper/Identifying-Markov-Blankets-with-Decision-Tree-Frey-Fisher/1aa0b0ede22f3963c923ea320a8bed91ac5aafbf)
 
 - **Comparing Naive Bayes, Decision Trees, and SVM with AUC and Accuracy (ICDM 2003)**
   - Jin Huang, Jingjing Lu, Charles X. Ling
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/8a73/74b98a9d94b8c01e996e72340f86a4327869.pdf)
 
 - **Boosting Lazy Decision Trees (ICML 2003)**
   - Xiaoli Zhang Fern, Carla E. Brodley
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/Papers/ICML/2003/ICML03-026.pdf)
 
 - **Decision Tree with Better Ranking (ICML 2003)**
   - Charles X. Ling, Robert J. Yan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/Papers/ICML/2003/ICML03-064.pdf)
 
 - **Skewing: An Efficient Alternative to Lookahead for Decision Tree Induction (IJCAI 2003)**
   - David Page, Soumya Ray
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://pages.cs.wisc.edu/~dpage/ijcai3.pdf)
 
 - **Efficient decision tree construction on streaming data (KDD 2003)**
   - Ruoming Jin, Gagan Agrawal
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://web.cse.ohio-state.edu/~agrawal.28/p/sigkdd03.pdf)
 
 - **PaintingClass: interactive construction%2C visualization and exploration of decision trees (KDD 2003)**
   - Soon Tee Teoh, Kwan-Liu Ma
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.researchgate.net/publication/220272011_PaintingClass_interactive_construction_visualization_and_exploration_of_decision_trees)
 
 - **Accurate decision trees for mining high-speed data streams (KDD 2003)**
   - João Gama, Ricardo Rocha, Pedro Medas
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://staff.icar.cnr.it/manco/Teaching/2006/datamining/Esami2006/ArticoliSelezionatiDM/SEMINARI/Mining%20Data%20Streams/kdd03.pdf)
 
 - **Near-Minimax Optimal Classification with Dyadic Classification Trees (NIPS 2003)**
   - Clayton D. Scott, Robert D. Nowak
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://nowak.ece.wisc.edu/nips03.pdf)
 
 ## 2002
 - **Solving the Fragmentation Problem of Decision Trees by Discovering Boundary Emerging Patterns (ICDM 2002)**
