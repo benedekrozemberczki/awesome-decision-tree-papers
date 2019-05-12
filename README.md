@@ -29,7 +29,7 @@ A curated list of decision tree, classification tree and regression tree researc
    * [IJCAI](https://www.ijcai.org/)
    * [UAI](http://www.auai.org/)
 
-A similar collection about [[graph embedding]](https://github.com/benedekrozemberczki/awesome-graph-embedding) and [[community detection]](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
+A similar collection about [graph embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 ## 2018
 - **Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees (AAAI 2018)**
