@@ -3,7 +3,11 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 <p align="center">
-  <img width="460" src="tree.png">
+  <img width="300" src="tree.png">
+</p>
+<p align="center">
+	<img src="https://img.shields.io/badge/stars-30+-blue.svg"/>
+	<img src="https://img.shields.io/badge/license-CC0-blue.svg"/>
 </p>
 
 A curated list of decision, classification and regression tree research papers with implementations from the following conferences:
