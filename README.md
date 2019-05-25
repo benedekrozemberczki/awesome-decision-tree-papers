@@ -34,7 +34,7 @@ A curated list of decision, classification and regression tree research papers w
    * [IJCAI](https://www.ijcai.org/)
    * [UAI](http://www.auai.org/)
 
-A similar collection about [graph embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
+Similar collections about [graph embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 ## 2018
 - **Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees (AAAI 2018)**
