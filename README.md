@@ -35,6 +35,8 @@ A curated list of decision, classification and regression tree research papers w
    * [WSDM](www.wsdm-conference.org) 
 - Artificial intelligence
    * [AAAI](https://www.aaai.org/)
+   * [AISTATS](https://www.aistats.org/)
+   * [ICANN](https://e-nns.org/icann2019/)   
    * [IJCAI](https://www.ijcai.org/)
    * [UAI](http://www.auai.org/)
 
