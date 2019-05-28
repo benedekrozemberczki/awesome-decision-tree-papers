@@ -254,6 +254,10 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Diagnosis determination: decision trees optimizing simultaneously worst and expected testing cost (ICML 2014)**
   - Ferdinando Cicalese, Eduardo Sany Laber, Aline Medeiros Saettler
   - [[Paper]](https://pdfs.semanticscholar.org/47ae/852f83b76f95b27ab00308d04f6020bdf71f.pdf)
+  
+- **Learning multiple-question decision trees for cold-start recommendation (WSDM 2013)**
+  - Mingxuan Sun, Fuxin Li, Joonseok Lee, Ke Zhou, Guy Lebanon, Hongyuan Zha
+  - [[Paper]](http://www.joonseok.net/papers/coldstart.pdf)
 
 ## 2013
 - **Weakly Supervised Learning of Image Partitioning Using Decision Trees with Structured Split Criteria (ICCV 2013)**
@@ -300,6 +304,10 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Learning Partially Observable Models Using Temporally Abstract Decision Trees (NIPS 2012)**
   - Erik Talvitie
   - [[Paper]](https://papers.nips.cc/paper/4662-learning-partially-observable-models-using-temporally-abstract-decision-trees)
+  
+- **Subtree Replacement in Decision Tree Simplification (SDM 2012)**
+  - Salvatore Ruggieri
+  - [[Paper]](http://pages.di.unipi.it/ruggieri/Papers/sdm2012.pdf)
 
 ## 2011
 - **Incorporating Boosted Regression Trees into Ecological Latent Variable Models (AAAI 2011)**
@@ -313,10 +321,18 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Speeding-Up Hoeffding-Based Regression Trees With Options (ICML 2011)**
   - Elena Ikonomovska, João Gama, Bernard Zenko, Saso Dzeroski
   - [[Paper]](https://icml.cc/Conferences/2011/papers/349_icmlpaper.pdf)
+  
+- **Bagging gradient-boosted trees for high precision, low variance ranking models (SIGIR 2011)**
+  - Yasser Ganjisaffar, Rich Caruana, Cristina Videira Lopes
+  - [[Paper]](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/materials/bagging_lmbamart_jforests.pdf)
 
 - **On the Complexity of Decision Making in Possibilistic Decision Trees (UAI 2011)**
   - Hélène Fargier, Nahla Ben Amor, Wided Guezguez
   - [[Paper]](https://dslpitt.org/uai/papers/11/p203-fargier.pdf)
+
+- **Adaptive bootstrapping of recommender systems using decision trees (WSDM 2011)**
+  - Nadav Golbandi, Yehuda Koren, Ronny Lempel
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=1935910)
 
 - **Parallel boosted regression trees for web search ranking (WWW 2011)**
   - Stephen Tyree, Kilian Q. Weinberger, Kunal Agrawal, Jennifer Paykin
@@ -338,6 +354,14 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Multivariate Dyadic Regression Trees for Sparse Learning Problems (NIPS 2010)**
   - Han Liu, Xi Chen
   - [[Paper]](https://papers.nips.cc/paper/4178-multivariate-dyadic-regression-trees-for-sparse-learning-problems.pdf)
+  
+- **Fast and Accurate Gene Prediction by Decision Tree Classification (SDM 2010)**
+  - Rong She, Jeffrey Shih-Chieh Chu, Ke Wang, Nansheng Chen
+  - [[Paper]](http://www.sfu.ca/~chenn/genBlastDT_sdm.pdf)
+
+- **A Robust Decision Tree Algorithm for Imbalanced Data Sets (SDM 2010)**
+  - Wei Liu, Sanjay Chawla, David A. Cieslak, Nitesh V. Chawla
+  - [[Paper]](https://www3.nd.edu/~nchawla/papers/SDM10.pdf)
 
 ## 2009
 - **Stochastic gradient boosted distributed decision trees (CIKM 2009)**
