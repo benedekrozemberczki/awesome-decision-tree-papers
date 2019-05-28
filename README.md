@@ -97,6 +97,14 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Ji Feng, Yang Yu, Zhi-Hua Zhou
   - [[Paper]](https://papers.nips.cc/paper/7614-multi-layered-gradient-boosting-decision-trees.pdf)
   - [[Code]](https://github.com/kingfengji/mGBDT)
+  
+- **Transparent Tree Ensembles (SIGIR 2018)**
+  - Alexander Moore, Vanessa Murdock, Yaxiong Cai, Kristine Jones
+  - [[Paper]](http://delivery.acm.org/10.1145/3220000/3210151/p1241-moore.pdf?ip=129.215.164.203&id=3210151&acc=ACTIVE%20SERVICE&key=C2D842D97AC95F7A%2EEB9E991028F4E1F1%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1559054892_a29816c683aa83a0ce0fbb777c68daba)
+
+- **Privacy-aware Ranking with Tree Ensembles on the Cloud (SIGIR 2018)**
+  - Shiyu Ji, Jinjin Shao, Daniel Agun, Tao Yang
+  - [[Paper]](https://sites.cs.ucsb.edu/projects/ds/sigir18.pdf)
 
 ## 2017
 - **Strategic Sequences of Arguments for Persuasion Using Decision Trees (AAAI 2017)**
@@ -132,6 +140,10 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Variable Importance Using Decision Trees (NIPS 2017)**
   - Jalil Kazemitabar, Arash Amini, Adam Bloniarz, Ameet S. Talwalkar
   - [[Paper]](https://papers.nips.cc/paper/6646-variable-importance-using-decision-trees)
+  
+- **Pruning Decision Trees via Max-Heap Projection (SDM 2017)**
+  - Zhi Nie, Binbin Lin, Shuai Huang, Naren Ramakrishnan, Wei Fan, Jieping Ye
+  - [[Paper]](https://www.researchgate.net/publication/317485748_Pruning_Decision_Trees_via_Max-Heap_Projection)
 
 - **A Practical Method for Solving Contextual Bandit Problems Using Decision Trees (UAI 2017)**
   - Adam N. Elmachtoub, Ryan McNellis, Sechan Oh, Marek Petrik
@@ -175,6 +187,16 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]](https://arxiv.org/abs/1611.01276)
   - [[Code]](https://github.com/microsoft/LightGBM/blob/master/docs/Features.rst)
 
+- **Exploiting CPU SIMD Extensions to Speed-up Document Scoring with Tree Ensembles (SIGIR 2016)**
+  - Claudio Lucchese, Franco Maria Nardini, Salvatore Orlando, Raffaele Perego, Nicola Tonellotto, Rossano Venturini
+  - [[Paper]](http://pages.di.unipi.it/rossano/wp-content/uploads/sites/7/2016/07/SIGIR16a.pdf)
+  - [[Code]](https://github.com/hpclab/vectorized-quickscorer)
+
+- **Post-Learning Optimization of Tree Ensembles for Efficient Ranking (SIGIR 2016)**
+  - Claudio Lucchese, Franco Maria Nardini, Salvatore Orlando, Raffaele Perego, Fabrizio Silvestri, Salvatore Trani
+  - [[Paper]](https://www.researchgate.net/publication/305081572_Post-Learning_Optimization_of_Tree_Ensembles_for_Efficient_Ranking)
+  - [[Code]](https://github.com/hpclab/quickrank)
+
 ## 2015
 - **Particle Gibbs for Bayesian Additive Regression Trees (AISTATS 2015)**
   - Balaji Lakshminarayanan, Daniel M. Roy, Yee Whye Teh
@@ -209,6 +231,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Efficient Non-greedy Optimization of Decision Trees (NIPS 2015)**
   - Mohammad Norouzi, Maxwell D. Collins, Matthew Johnson, David J. Fleet, Pushmeet Kohli
   - [[Paper]](https://arxiv.org/abs/1511.04056)
+  
+- **QuickScorer: A Fast Algorithm to Rank Documents with Additive Ensembles of Regression Trees (SIGIR 2015)**
+  - Claudio Lucchese, Franco Maria Nardini, Salvatore Orlando, Raffaele Perego, Nicola Tonellotto, Rossano Venturini
+  - [[Paper]](http://pages.di.unipi.it/rossano/wp-content/uploads/sites/7/2015/11/sigir15.pdf)
+  - [[Code]](https://github.com/hpclab/quickrank)
 
 ## 2014
 - **On Building Decision Trees from Large-scale Data in Applications of On-line Advertising (CIKM 2014)**
