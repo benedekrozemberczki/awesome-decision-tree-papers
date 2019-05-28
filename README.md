@@ -30,7 +30,8 @@ A curated list of decision, classification and regression tree research papers w
    * [ICDM](http://icdm2019.bigke.org/)
    * [SDM](https://www.siam.org/Conferences/CM/Conference/sdm19)   
    * [PAKDD](http://pakdd2019.medmeeting.org)
-   * [PKDD/ECML](http://ecmlpkdd2019.org) 
+   * [PKDD/ECML](http://ecmlpkdd2019.org)
+   * [SIGIR](https://sigir.org/)
    * [WWW](https://www2019.thewebconf.org/)
    * [WSDM](www.wsdm-conference.org) 
 - Artificial intelligence
