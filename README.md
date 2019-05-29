@@ -75,6 +75,10 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Viktor Losing, Heiko Wersing, Barbara Hammer
   - [[Paper]](https://www.techfak.uni-bielefeld.de/~hwersing/LosingHammerWersing_ICDM2018.pdf)
   - [[Code]](https://github.com/ICDM2018Submission/VFDT-split-time-prediction)
+  
+- **Realization of Random Forest for Real-Time Evaluation through Tree Framing (ICDM 2018)**
+  - Sebastian Buschjäger, Kuan-Hsun Chen, Jian-Jia Chen, Katharina Morik
+  - [[Paper]](https://sfb876.tu-dortmund.de/PublicPublicationFiles/buschjaeger_2018a.pdf)
 
 - **Finding Influential Training Samples for Gradient Boosted Decision Trees (ICML 2018)**
   - Boris Sharchilev, Yury Ustinovskiy, Pavel Serdyukov, Maarten de Rijke
@@ -89,6 +93,14 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Chaitanya Manapragada, Geoffrey I. Webb, Mahsa Salehi
   - [[Paper]](https://arxiv.org/abs/1802.08780)
   - [[Code]](https://github.com/doubleplusplus/incremental_decision_tree-CART-Random_Forest_python)
+  
+- **RapidScorer: Fast Tree Ensemble Evaluation by Maximizing Compactness in Data Level Parallelization (KDD 2018)**
+  - Ting Ye, Hucheng Zhou, Will Y. Zou, Bin Gao, Ruofei Zhang
+  - [[Paper]](http://ai.stanford.edu/~wzou/kdd_rapidscorer.pdf)
+  
+- **Active Learning for Non-Parametric Regression Using Purely Random Trees (NIPS 2018)**
+  - Jack Goetz, Ambuj Tewari, Paul Zimmerman
+  - [[Paper]](https://papers.nips.cc/paper/7520-active-learning-for-non-parametric-regression-using-purely-random-trees.pdf)
 
 - **Alternating optimization of decision trees with application to learning sparse oblique trees (NIPS 2018)**
   - Miguel Á. Carreira-Perpiñán, Pooya Tavallali
@@ -153,6 +165,10 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Complexity of Solving Decision Trees with Skew-Symmetric Bilinear Utility (UAI 2017)**
   - Hugo Gilbert, Olivier Spanjaard
   - [[Paper]](http://auai.org/uai2017/proceedings/papers/64.pdf)
+  
+- **GB-CENT: Gradient Boosted Categorical Embedding and Numerical Trees (WWW 2017)**
+  - Qian Zhao, Yue Shi, Liangjie Hong
+  - [[Paper]](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p1311.pdf)
 
 ## 2016
 - **Sparse Perceptron Decision Tree for Millions of Dimensions (AAAI 2016)**
@@ -178,6 +194,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Boosted Decision Tree Regression Adjustment for Variance Reduction in Online Controlled Experiments (KDD 2016)**
   - Alexey Poyarkov, Alexey Drutsa, Andrey Khalyavin, Gleb Gusev, Pavel Serdyukov
   - [[Paper]](https://www.kdd.org/kdd2016/papers/files/adf0653-poyarkovA.pdf)
+  
+- **XGBoost: A Scalable Tree Boosting System (KDD 2016)**
+  - Tianqi Chen, Carlos Guestrin
+  - [[Paper]](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)
+  - [[Code]](https://xgboost.readthedocs.io/en/latest/)
 
 - **Yggdrasil: An Optimized System for Training Deep Decision Trees at Scale (NIPS 2016)**
   - Firas Abuzaid, Joseph K. Bradley, Feynman T. Liang, Andrew Feng, Lee Yang, Matei Zaharia, Ameet S. Talwalkar
@@ -224,6 +245,14 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Entropy evaluation based on confidence intervals of frequency estimates : Application to the learning of decision trees (ICML 2015)**
   - Mathieu Serrurier, Henri Prade
   - [[Paper]](http://proceedings.mlr.press/v37/serrurier15.pdf)
+  
+- **Large-scale Distributed Dependent Nonparametric Trees (ICML 2015)**
+  - Zhiting Hu, Qirong Ho, Avinava Dubey, Eric P. Xing
+  - [[Paper]](https://www.cs.cmu.edu/~zhitingh/data/icml15hu.pdf)
+
+- **Optimal Action Extraction for Random Forests and Boosted Trees (KDD 2015)**
+  - Zhicheng Cui, Wenlin Chen, Yujie He, Yixin Chen
+  - [[Paper]](https://www.cse.wustl.edu/~ychen/public/OAE.pdf)
 
 - **A Decision Tree Framework for Spatiotemporal Sequence Prediction (KDD 2015)**
   - Taehwan Kim, Yisong Yue, Sarah L. Taylor, Iain A. Matthews
@@ -239,6 +268,11 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Code]](https://github.com/hpclab/quickrank)
 
 ## 2014
+
+- **A Mixtures-of-Trees Framework for Multi-Label Classification (CIKM 2014)**
+  - Charmgil Hong, Iyad Batal, Milos Hauskrecht
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4410801/)
+  
 - **On Building Decision Trees from Large-scale Data in Applications of On-line Advertising (CIKM 2014)**
   - Shivaram Kalyanakrishnan, Deepthi Singh, Ravi Kant
   - [[Paper]](https://www.cse.iitb.ac.in/~shivaram/papers/ksk_cikm_2014.pdf)
@@ -250,6 +284,10 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **One Millisecond Face Alignment with an Ensemble of Regression Trees (CVPR 2014)**
   - Vahid Kazemi, Josephine Sullivan
   - [[Paper]](https://www.researchgate.net/publication/264419855_One_Millisecond_Face_Alignment_with_an_Ensemble_of_Regression_Trees)
+  
+- **The return of AdaBoost.MH: multi-class Hamming trees (ICLR 2014)**
+  - Balázs Kégl
+  - [[Paper]](https://arxiv.org/pdf/1312.6086.pdf)
 
 - **Diagnosis determination: decision trees optimizing simultaneously worst and expected testing cost (ICML 2014)**
   - Ferdinando Cicalese, Eduardo Sany Laber, Aline Medeiros Saettler
