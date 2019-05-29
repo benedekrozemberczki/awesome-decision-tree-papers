@@ -612,6 +612,70 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Ted Pedersen
   - [[Paper]](https://www.aclweb.org/anthology/N01-1011)
 
+- **Intuitive Representation of Decision Trees Using General Rules and Exceptions (AAAI 2000)**
+  - Bing Liu, Minqing Hu, Wynne Hsu
+  - [[Paper]](https://pdfs.semanticscholar.org/e284/96551e595f1850a53f93affa98919147712f.pdf)
+
+- **Tagging Unknown Proper Names Using Decision Trees (ACL 2000)**
+  - Frédéric Béchet, Alexis Nasr, Franck Genet
+  - [[Paper]](https://www.aclweb.org/anthology/P00-1011)
+
+- **Clustering Through Decision Tree Construction (CIKM 2000)**
+  - Bing Liu, Yiyuan Xia, Philip S. Yu
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=354775)
+
+- **Handling Continuous-Valued Attributes in Decision Tree with Neural Network Modelling (ECML 2000)**
+  - DaeEun Kim, Jaeho Lee
+  - [[Paper]](https://link.springer.com/content/pdf/10.1007/3-540-45164-1_22.pdf)
+
+- **Investigation and Reduction of Discretization Variance in Decision Tree Induction (ECML 2000)**
+  - Pierre Geurts, Louis Wehenkel
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-45164-1_17)
+
+- **Nonparametric Regularization of Decision Trees (ECML 2000)**
+  - Tobias Scheffer
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-45164-1_36)
+
+- **Exploiting the Cost (In)sensitivity of Decision Tree Splitting Criteria (ICML 2000)**
+  - Chris Drummond, Robert C. Holte
+  - [[Paper]](https://pdfs.semanticscholar.org/160e/21c3acc925b60dc040cb1705e58bb166b045.pdf)
+
+- **Multi-agent Q-learning and Regression Trees for Automated Pricing Decisions (ICML 2000)**
+  - Manu Sridharan, Gerald Tesauro
+  - [[Paper]](https://manu.sridharan.net/files/icml00.pdf)
+
+- **Growing decision trees on support-less association rules (KDD 2000)**
+  - Ke Wang, Senqiang Zhou, Yu He
+  - [[Paper]](https://www2.cs.sfu.ca/~wangk/pub/kdd002.pdf)
+
+- **Efficient algorithms for constructing decision trees with constraints (KDD 2000)**
+  - Minos N. Garofalakis, Dongjoon Hyun, Rajeev Rastogi, Kyuseok Shim
+  - [[Paper]](http://www.softnet.tuc.gr/~minos/Papers/kdd00-cam.pdf)
+
+- **Interactive Visualization in Mining Large Decision Trees (PAKDD 2000)**
+  - Trong Dung Nguyen, Tu Bao Ho, Hiroshi Shimodaira
+  - [[Paper]](https://link.springer.com/content/pdf/10.1007/3-540-45571-X_40.pdf)
+
+- **VQTree: Vector Quantization for Decision Tree Induction (PAKDD 2000)**
+  - Shlomo Geva, Lawrence Buckingham
+  - [[Paper]](https://link.springer.com/chapter/10.1007%2F3-540-45571-X_41)
+
+- **Some Enhencements of Decision Tree Bagging (PKDD 2000)**
+  - Pierre Geurts
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-45372-5_14)
+
+- **Combining Multiple Models with Meta Decision Trees (PKDD 2000)**
+  - Ljupco Todorovski, Saso Dzeroski
+  - [[Paper]](http://kt.ijs.si/bernard/mdts/pub01.pdf)
+
+- **Induction of Multivariate Decision Trees by Using Dipolar Criteria (PKDD 2000)**
+  - Leon Bobrowski, Marek Kretowski
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-45372-5_33)
+
+- **Decision Tree Toolkit: A Component-Based Library of Decision Tree Algorithms (PKDD 2000)**
+  - Nikos Drossos, Athanassios Papagelis, Dimitrios Kalles
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-45372-5_40)
+
 ## 1999
 - **Modeling decision tree performance with the power law (AISTATS 1999)**
   - Lewis J. Frey, Douglas H. Fisher
