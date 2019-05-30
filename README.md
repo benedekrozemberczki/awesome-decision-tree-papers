@@ -518,6 +518,14 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Lookahead-based algorithms for anytime induction of decision trees (ICML 2004)**
   - Saher Esmeir, Shaul Markovitch
   - [[Paper]](http://www.cs.technion.ac.il/~shaulm/papers/pdf/Esmeir-Markovitch-icml2004.pdf)
+  
+- **Decision trees with minimal costs (ICML 2004)**
+  - Charles X. Ling, Qiang Yang, Jianning Wang, Shichao Zhang
+  - [[Paper]](https://icml.cc/Conferences/2004/proceedings/papers/136.pdf)
+
+- **Training conditional random fields via gradient tree boosting (ICML 2004)**
+  - Thomas G. Dietterich, Adam Ashenfelter, Yaroslav Bulatov
+  - [[Paper]](http://web.engr.oregonstate.edu/~tgd/publications/ml2004-treecrf.pdf)
 
 - **Detecting Structural Metadata with Decision Trees and Transformation-Based Learning (NAACL 2004)**
   - Joungbum Kim, Sarah E. Schwarm, Mari Ostendorf
@@ -526,6 +534,10 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **On the Adaptive Properties of Decision Trees (NIPS 2004)**
   - Clayton D. Scott, Robert D. Nowak
   - [[Paper]](https://papers.nips.cc/paper/2625-on-the-adaptive-properties-of-decision-trees.pdf)
+  
+- **A Metric Approach to Building Decision Trees Based on Goodman-Kruskal Association Index (PAKDD 2004)**
+  - Dan A. Simovici, Szymon Jaroszewicz
+  - [[Paper]](https://www.researchgate.net/publication/2906289_A_Metric_Approach_to_Building_Decision_Trees_Based_on_Goodman-Kruskal_Association_Index)
 
 ## 2003
 - **Postprocessing Decision Trees to Extract Actionable Knowledge (ICDM 2003)**
