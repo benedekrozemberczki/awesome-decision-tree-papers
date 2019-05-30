@@ -454,6 +454,26 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Bayes optimal classification for decision trees (ICML 2008)**
   - Siegfried Nijssen
   - [[Paper]](http://icml2008.cs.helsinki.fi/papers/455.pdf)
+  
+- **A New Credit Scoring Method Based on Rough Sets and Decision Tree (PAKDD 2008)**
+  - XiYue Zhou, Defu Zhang, Yi Jiang
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-540-68125-0_117)
+
+- **A Comparison of Different Off-Centered Entropies to Deal with Class Imbalance for Decision Trees (PAKDD 2008)**
+  - Philippe Lenca, Stéphane Lallich, Thanh-Nghi Do, Nguyen-Khang Pham
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-540-68125-0_59)
+
+- **BOAI: Fast Alternating Decision Tree Induction Based on Bottom-Up Evaluation (PAKDD 2008)**
+  - Bishan Yang, Tengjiao Wang, Dongqing Yang, Lei Chang
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-540-68125-0_36)
+
+- **A general framework for estimating similarity of datasets and decision trees: exploring semantic similarity of decision trees (SDM 2008)**
+  - Irene Ntoutsi, Alexandros Kalousis, Yannis Theodoridis
+  - [[Paper]](https://www.researchgate.net/publication/220907047_A_general_framework_for_estimating_similarity_of_datasets_and_decision_trees_exploring_semantic_similarity_of_decision_trees)
+
+- **ROC-tree: A Novel Decision Tree Induction Algorithm Based on Receiver Operating Characteristics to Classify Gene Expression Data (SDM 2008)**
+  - M. Maruf Hossain, Md. Rafiul Hassan, James Bailey
+  - [[Paper]](https://pdfs.semanticscholar.org/bd80/db2f0903169b7611d34b2cc85f60a736375d.pdf)
 
 ## 2007
 - **Sample compression bounds for decision trees (ICML 2007)**
