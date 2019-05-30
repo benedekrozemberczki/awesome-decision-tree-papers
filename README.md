@@ -476,6 +476,27 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]](https://pdfs.semanticscholar.org/bd80/db2f0903169b7611d34b2cc85f60a736375d.pdf)
 
 ## 2007
+
+- **Tree-based Classifiers for Bilayer Video Segmentation (CVPR 2007)**
+  - Pei Yin, Antonio Criminisi, John M. Winn, Irfan A. Essa
+  - [[Paper]](https://ieeexplore.ieee.org/document/4270033)
+
+- **Additive Groves of Regression Trees (ECML 2007)**
+  - Daria Sorokina, Rich Caruana, Mirek Riedewald
+  - [[Paper]](http://additivegroves.net/papers/groves.pdf)
+
+- **Decision Tree Instability and Active Learning (ECML 2007)**
+  - Kenneth Dwyer, Robert Holte
+  - [[Paper]](https://webdocs.cs.ualberta.ca/~holte/Publications/ecml07.pdf)
+
+- **Ensembles of Multi-Objective Decision Trees (ECML 2007)**
+  - Dragi Kocev, Celine Vens, Jan Struyf, Saso Dzeroski
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-540-74958-5_61)
+
+- **Seeing the Forest Through the Trees: Learning a Comprehensible Model from an Ensemble (ECML 2007)**
+  - Anneleen Van Assche, Hendrik Blockeel
+  - [[Paper]](http://ftp.cs.wisc.edu/machine-learning/shavlik-group/ilp07wip/ilp07_assche.pdf)
+
 - **Sample compression bounds for decision trees (ICML 2007)**
   - Mohak Shah
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.331.9136&rep=rep1&type=pdf)
@@ -499,6 +520,10 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Mining optimal decision trees from itemset lattices (KDD 2007)**
   - Siegfried Nijssen, Élisa Fromont
   - [[Paper]](https://hal.archives-ouvertes.fr/hal-00372011/document)
+  
+- **A Hybrid Multi-group Privacy-Preserving Approach for Building Decision Trees (PAKDD 2007)**
+  - Zhouxuan Teng, Wenliang Du
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-540-71701-0_30)
 
 ## 2006
 - **Decision Tree Methods for Finding Reusable MDP Homomorphisms (AAAI 2006)**
