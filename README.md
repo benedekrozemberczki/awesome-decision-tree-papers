@@ -613,6 +613,18 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **SQL Database Primitives for Decision Tree Classifiers (CIKM 2001)**
   - Kai-Uwe Sattler, Oliver Dunemann
   - [[Paper]](http://fusion.cs.uni-magdeburg.de/pubs/classprim.pdf)
+  
+- **A Unified Framework for Evaluation Metrics in Classification Using Decision Trees (ECML 2001)**
+  - Ricardo Vilalta, Mark Brodie, Daniel Oblinger, Irina Rish
+  - [[Paper]](https://scholar.harvard.edu/files/nkc/files/2015_framework_for_benefit_risk_assessment_value_in_health.pdf)
+
+- **Backpropagation in Decision Trees for Regression (ECML 2001)**
+  - Victor Medina-Chico, Alberto Suárez, James F. Lutsko
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-44795-4_30)
+
+- **Consensus Decision Trees: Using Consensus Hierarchical Clustering for Data Relabelling and Reduction (ECML 2001)**
+  - Branko Kavsek, Nada Lavrac, Anuska Ferligoj
+  - [[Paper]](https://link.springer.com/content/pdf/10.1007/3-540-44795-4_22.pdf)
 
 - **Mining Decision Trees from Data Streams in a Mobile Environment (ICDM 2001)**
   - Hillol Kargupta, Byung-Hoon Park
@@ -645,10 +657,36 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Temporal Decision Trees or the lazy ECU vindicated (IJCAI 2001)**
   - Luca Console, Claudia Picardi, Daniele Theseider Dupré
   - [[Paper]](https://www.researchgate.net/publication/220815333_Temporal_Decision_Trees_or_the_lazy_ECU_vindicated)
+  
+- **Data mining criteria for tree-based regression and classification (KDD 2001)**
+  - Andreas Buja, Yung-Seop Lee
+  - [[Paper]](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1406&context=statistics_papers)
 
 - **A Decision Tree of Bigrams is an Accurate Predictor of Word Sense (NAACL 2001)**
   - Ted Pedersen
   - [[Paper]](https://www.aclweb.org/anthology/N01-1011)
+  
+- **Rule Reduction over Numerical Attributes in Decision Tree Using Multilayer Perceptron (PAKDD 2001)**
+  - DaeEun Kim, Jaeho Lee
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=693490)
+
+- **A Scalable Algorithm for Rule Post-pruning of Large Decision Trees (PAKDD 2001)**
+  - Trong Dung Nguyen, Tu Bao Ho, Hiroshi Shimodaira
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-45357-1_49)
+
+- **Optimizing the Induction of Alternating Decision Trees (PAKDD 2001)**
+  - Bernhard Pfahringer, Geoffrey Holmes, Richard Kirkby
+  - [[Paper]](https://www.researchgate.net/publication/33051701_Optimizing_the_Induction_of_Alternating_Decision_Trees)
+
+- **Interactive Construction of Decision Trees (PAKDD 2001)**
+  - Jianchao Han, Nick Cercone
+  - [[Paper]](https://pure.tue.nl/ws/files/3522084/672434611234867.pdf)
+
+- **Bloomy Decision Tree for Multi-objective Classification (PKDD 2001)**
+  - Einoshin Suzuki, Masafumi Gotoh, Yuta Choki
+  - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-44794-6_36)
+  
+## 2000
 
 - **Intuitive Representation of Decision Trees Using General Rules and Exceptions (AAAI 2000)**
   - Bing Liu, Minqing Hu, Wynne Hsu
