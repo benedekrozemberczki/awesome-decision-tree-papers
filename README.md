@@ -473,6 +473,18 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Use of Expert Knowledge for Decision Tree Pruning (AAAI 2005)**
   - Jingfeng Cai, John Durkin
   - [[Paper]](http://www.aaai.org/Papers/AAAI/2005/SA05-009.pdf)
+  
+- **Model Selection in Omnivariate Decision Trees (ECML 2005)**
+  - Olcay Taner Yildiz, Ethem Alpaydin
+  - [[Paper]](https://www.cmpe.boun.edu.tr/~ethem/files/papers/yildiz_ecml05.pdf)
+
+- **Combining Bias and Variance Reduction Techniques for Regression Trees (ECML 2005)**
+  - Yuk Lai Suen, Prem Melville, Raymond J. Mooney
+  - [[Paper]](http://www.cs.utexas.edu/users/ml/papers/bv-ecml-05.pdf)
+
+- **Simple Test Strategies for Cost-Sensitive Decision Trees (ECML 2005)**
+  - Shengli Sheng, Charles X. Ling, Qiang Yang
+  - [[Paper]](https://www.researchgate.net/publication/3297582_Test_strategies_for_cost-sensitive_decision_trees)
 
 - **Effective Estimation of Posterior Probabilities: Explaining the Accuracy of Randomized Decision Tree Approaches (ICDM 2005)**
   - Wei Fan, Ed Greengrass, Joe McCloskey, Philip S. Yu, Kevin Drummey
@@ -485,6 +497,30 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Ranking Cases with Decision Trees: a Geometric Method that Preserves Intelligibility (IJCAI 2005)**
   - Isabelle Alvarez, Stephan Bernard
   - [[Paper]](https://www.ijcai.org/Proceedings/05/Papers/1502.pdf)
+  
+- **Maximizing Tree Diversity by Building Complete-Random Decision Trees (PAKDD 2005)**
+  - Fei Tony Liu, Kai Ming Ting, Wei Fan
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.7805&rep=rep1&type=pdf)
+
+- **Hybrid Cost-Sensitive Decision Tree (PKDD 2005)**
+  - Shengli Sheng, Charles X. Ling
+  - [[Paper]](https://cling.csd.uwo.ca/papers/pkdd05a.pdf)
+
+- **Tree2 - Decision Trees for Tree Structured Data (PKDD 2005)**
+  - Björn Bringmann, Albrecht Zimmermann
+  - [[Paper]](https://link.springer.com/chapter/10.1007/11564126_10)
+
+- **Building Decision Trees on Records Linked through Key References (SDM 2005)**
+  - Ke Wang, Yabo Xu, Philip S. Yu, Rong She
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.215.7181&rep=rep1&type=pdf)
+
+- **Decision Tree Induction in High Dimensional, Hierarchically Distributed Databases (SDM 2005)**
+  - Amir Bar-Or, Ran Wolff, Assaf Schuster, Daniel Keren
+  - [[Paper]](https://www.semanticscholar.org/paper/Decision-Tree-Induction-in-High-Dimensional%2C-Bar-Or-Wolff/90235fc35c27dae273681f7847c2b20ff37928a9)
+
+- **Boosted decision trees for word recognition in handwritten document retrieval (SIGIR 2005)**
+  - Nicholas R. Howe, Toni M. Rath, R. Manmatha
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.152.1551&rep=rep1&type=pdf)
 
 ## 2004
 - **On the Optimality of Probability Estimation by Random Decision Trees (AAAI 2004)**
