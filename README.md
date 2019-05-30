@@ -540,6 +540,14 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]](https://www.researchgate.net/publication/2906289_A_Metric_Approach_to_Building_Decision_Trees_Based_on_Goodman-Kruskal_Association_Index)
 
 ## 2003
+- **Rademacher Penalization over Decision Tree Prunings (ECML 2003)**
+  - Matti Kääriäinen, Tapio Elomaa
+  - [[Paper]](https://www.researchgate.net/publication/221112653_Rademacher_Penalization_over_Decision_Tree_Prunings)
+  
+- **Ensembles of Cascading Trees (ICDM 2003)**
+  - Jinyan Li, Huiqing Liu
+  - [[Paper]](https://www.researchgate.net/publication/4047523_Ensembles_of_cascading_trees)
+
 - **Postprocessing Decision Trees to Extract Actionable Knowledge (ICDM 2003)**
   - Qiang Yang, Jie Yin, Charles X. Ling, Tielin Chen
   - [[Paper]](https://pdfs.semanticscholar.org/b2c6/ff54c7aeefc70820ff04a8fc8b804012c504.pdf)
@@ -583,6 +591,22 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Near-Minimax Optimal Classification with Dyadic Classification Trees (NIPS 2003)**
   - Clayton D. Scott, Robert D. Nowak
   - [[Paper]](http://nowak.ece.wisc.edu/nips03.pdf)
+  
+- **Improving Performance of Decision Tree Algorithms with Multi-edited Nearest Neighbor Rule (PAKDD 2003)**
+  - Chenzhou Ye, Jie Yang, Lixiu Yao, Nian-yi Chen
+  - [[Paper]](https://www.researchgate.net/publication/220895462_Improving_Performance_of_Decision_Tree_Algorithms_with_Multi-edited_Nearest_Neighbor_Rule)
+
+- **Arbogodai: a New Approach for Decision Trees (PKDD 2003)**
+  - Djamel A. Zighed, Gilbert Ritschard, Walid Erray, Vasile-Marian Scuturici
+  - [[Paper]](http://mephisto.unige.ch/pub/publications/gr/zig_rit_arbo_pkdd03.pdf)
+
+- **Communication and Memory Efficient Parallel Decision Tree Construction (SDM 2003)**
+  - Ruoming Jin, Gagan Agrawal
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.4.3059&rep=rep1&type=pdf)
+
+- **Decision Tree Classification of Spatial Data Patterns from Videokeratography using Zernicke Polynomials (SDM 2003)**
+  - Michael D. Twa, Srinivasan Parthasarathy, Thomas W. Raasch, Mark Bullimore
+  - [[Paper]](https://www.researchgate.net/publication/220907147_Decision_Tree_Classification_of_Spatial_Data_Patterns_From_Videokeratography_Using_Zernike_Polynomials)
 
 ## 2002
 - **Solving the Fragmentation Problem of Decision Trees by Discovering Boundary Emerging Patterns (ICDM 2002)**
