@@ -380,6 +380,10 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Elena Ikonomovska, João Gama, Bernard Zenko, Saso Dzeroski
   - [[Paper]](https://icml.cc/Conferences/2011/papers/349_icmlpaper.pdf)
   
+- **Density estimation trees (KDD 2011)**
+  - Parikshit Ram, Alexander G. Gray
+  - [[Paper]](https://mlpack.org/papers/det.pdf)
+  
 - **Bagging gradient-boosted trees for high precision, low variance ranking models (SIGIR 2011)**
   - Yasser Ganjisaffar, Rich Caruana, Cristina Videira Lopes
   - [[Paper]](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/materials/bagging_lmbamart_jforests.pdf)
