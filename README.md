@@ -325,6 +325,18 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Knowledge Compilation for Model Counting: Affine Decision Trees (IJCAI 2013)**
   - Frédéric Koriche, Jean-Marie Lagniez, Pierre Marquis, Samuel Thomas
   - [[Paper]](https://www.researchgate.net/publication/262398921_Knowledge_Compilation_for_Model_Counting_Affine_Decision_Trees)
+  
+- **Understanding variable importances in forests of randomized trees (NIPS 2013)**
+  - Gilles Louppe, Louis Wehenkel, Antonio Sutera, Pierre Geurts
+  - [[Paper]](https://papers.nips.cc/paper/4928-understanding-variable-importances-in-forests-of-randomized-trees)
+
+- **Regression-tree Tuning in a Streaming Setting (NIPS 2013)**
+  - Samory Kpotufe, Francesco Orabona
+  - [[Paper]](https://papers.nips.cc/paper/4898-regression-tree-tuning-in-a-streaming-setting)
+
+- **Learning Max-Margin Tree Predictors (UAI 2013)**
+  - Ofer Meshi, Elad Eban, Gal Elidan, Amir Globerson
+  - [[Paper]](https://ttic.uchicago.edu/~meshi/papers/mtreen.pdf)
 
 ## 2012
 - **Regression Tree Fields - An efficient, non-parametric approach to image labeling problems (CVPR 2012)**
