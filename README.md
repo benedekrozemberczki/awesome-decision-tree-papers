@@ -609,6 +609,19 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - [[Paper]](https://www.researchgate.net/publication/220907147_Decision_Tree_Classification_of_Spatial_Data_Patterns_From_Videokeratography_Using_Zernike_Polynomials)
 
 ## 2002
+
+- **Multiclass Alternating Decision Trees (ECML 2002)**
+  - Geoffrey Holmes, Bernhard Pfahringer, Richard Kirkby, Eibe Frank, Mark A. Hall
+  - [[Paper]](https://www.cs.waikato.ac.nz/~bernhard/papers/ecml2002.pdf)
+  
+- **Heterogeneous Forests of Decision Trees (ICANN 2002)**
+  - Krzysztof Grabczewski, Wlodzislaw Duch
+  - [[Paper]](https://fizyka.umk.pl/publications/kmk/02forest.pdf)
+
+- **Solving the Fragmentation Problem of Decision Trees by Discovering Boundary Emerging Patterns (ICDM 2002)**
+  - Jinyan Li, Limsoon Wong
+  - [[Paper]](https://ieeexplore.ieee.org/document/1184021)
+
 - **Solving the Fragmentation Problem of Decision Trees by Discovering Boundary Emerging Patterns (ICDM 2002)**
   - Jinyan Li, Limsoon Wong
   - [[Paper]](https://www.comp.nus.edu.sg/~wongls/psZ/decisionTreeandEP-2.ps)
@@ -620,6 +633,10 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Finding an Optimal Gain-Ratio Subset-Split Test for a Set-Valued Attribute in Decision Tree Induction (ICML 2002)**
   - Fumio Takechi, Einoshin Suzuki
   - [[Paper]](https://www.researchgate.net/publication/221346121_Finding_an_Optimal_Gain-Ratio_Subset-Split_Test_for_a_Set-Valued_Attribute_in_Decision_Tree_Induction)
+
+- **Efficiently mining frequent trees in a forest (KDD 2002)**
+  - Mohammed Javeed Zaki
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.8511&rep=rep1&type=pdf)
 
 - **SECRET: a scalable linear regression tree algorithm (KDD 2002)**
   - Alin Dobra, Johannes Gehrke
@@ -636,6 +653,10 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Dyadic Classification Trees via Structural Risk Minimization (NIPS 2002)**
   - Clayton D. Scott, Robert D. Nowak
   - [[Paper]](https://papers.nips.cc/paper/2198-dyadic-classification-trees-via-structural-risk-minimization.pdf)
+  
+- **Approximate Splitting for Ensembles of Trees using Histograms (SDM 2002)**
+  - Chandrika Kamath, Erick Cantú-Paz, David Littau
+  - [[Paper]](https://pdfs.semanticscholar.org/0855/0a94993a268e4e3e99c41e7e0ee43eabd993.pdf)
 
 ## 2001
 - **Japanese Named Entity Recognition based on a Simple Rule Generator and Decision Tree Learning (ACL 2001)**
