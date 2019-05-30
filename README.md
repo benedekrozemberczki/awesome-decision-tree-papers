@@ -545,10 +545,38 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Decision Trees for Functional Variables (ICDM 2006)**
   - Suhrid Balakrishnan, David Madigan
   - [[Paper]](http://archive.dimacs.rutgers.edu/Research/MMS/PAPERS/fdt17.pdf)
+  
+- **Cost-Sensitive Decision Tree Learning for Forensic Classification (ECML 2006)**
+  - Jason V. Davis, Jungwoo Ha, Christopher J. Rossbach, Hany E. Ramadan, Emmett Witchel
+  - [[Paper]](https://www.cs.utexas.edu/users/witchel/pubs/davis-ecml06.pdf)
+
+- **Improving the Ranking Performance of Decision Trees (ECML 2006)**
+  - Bin Wang, Harry Zhang
+  - [[Paper]](https://link.springer.com/chapter/10.1007/11871842_44)
 
 - **A general framework for accurate and fast regression by data summarization in random decision trees (KDD 2006)**
   - Wei Fan, Joe McCloskey, Philip S. Yu
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.442.2004&rep=rep1&type=pdf)
+  
+- **Constructing Decision Trees for Graph-Structured Data by Chunkingless Graph-Based Induction (PAKDD 2006)**
+  - Phu Chien Nguyen, Kouzou Ohara, Akira Mogi, Hiroshi Motoda, Takashi Washio
+  - [[Paper]](http://www.ar.sanken.osaka-u.ac.jp/~motoda/papers/pakdd06.pdf)
+
+- **Variable Randomness in Decision Tree Ensembles (PAKDD 2006)**
+  - Fei Tony Liu, Kai Ming Ting
+  - [[Paper]](https://link.springer.com/chapter/10.1007/11731139_12)
+
+- **Generalized Conditional Entropy and a Metric Splitting Criterion for Decision Trees (PAKDD 2006)**
+  - Dan A. Simovici, Szymon Jaroszewicz
+  - [[Paper]](https://www.researchgate.net/profile/Szymon_Jaroszewicz/publication/220895184_Generalized_Conditional_Entropy_and_a_Metric_Splitting_Criterion_for_Decision_Trees/links/0fcfd50b1267f7b868000000/Generalized-Conditional-Entropy-and-a-Metric-Splitting-Criterion-for-Decision-Trees.pdf)
+
+- **Decision Trees for Hierarchical Multilabel Classification: A Case Study in Functional Genomics (PKDD 2006)**
+  - Hendrik Blockeel, Leander Schietgat, Jan Struyf, Saso Dzeroski, Amanda Clare
+  - [[Paper]](https://link.springer.com/chapter/10.1007/11871637_7)
+
+- **k-Anonymous Decision Tree Induction (PKDD 2006)**
+  - Arik Friedman, Assaf Schuster, Ran Wolff
+  - [[Paper]](http://www.cs.technion.ac.il/~arikf/online-publications/kADET06.pdf)
 
 ## 2005
 - **Representing Conditional Independence Using Decision Trees (AAAI 2005)**
