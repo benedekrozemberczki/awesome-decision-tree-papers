@@ -367,6 +367,14 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Syntactic Decision Tree LMs: Random Selection or Intelligent Design (EMNLP 2011)**
   - Denis Filimonov, Mary P. Harper
   - [[Paper]](https://www.aclweb.org/anthology/D11-1064)
+  
+- **Decision tree fields (ICCV 2011)**
+  - Sebastian Nowozin, Carsten Rother, Shai Bagon, Toby Sharp, Bangpeng Yao, Pushmeet Kohli
+  - [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/nrbsyk_iccv11.pdf)
+
+- **Confidence in Predictions from Random Tree Ensembles (ICDM 2011)**
+  - Siddhartha Bhattacharyya
+  - [[Paper]](https://link.springer.com/article/10.1007/s10115-012-0600-z)
 
 - **Speeding-Up Hoeffding-Based Regression Trees With Options (ICML 2011)**
   - Elena Ikonomovska, João Gama, Bernard Zenko, Saso Dzeroski
