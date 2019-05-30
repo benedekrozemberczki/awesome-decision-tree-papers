@@ -417,6 +417,22 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **Stochastic gradient boosted distributed decision trees (CIKM 2009)**
   - Jerry Ye, Jyh-Herng Chow, Jiang Chen, Zhaohui Zheng
   - [[Paper]](https://dl.acm.org/citation.cfm?id=1646301)
+  
+- **Feature selection for ranking using boosted trees (CIKM 2009)**
+  - Feng Pan, Tim Converse, David Ahn, Franco Salvetti, Gianluca Donato
+  - [[Paper]](http://www.francosalvetti.com/cikm09_camera2.pdf)
+  
+- **Thai Word Segmentation with Hidden Markov Model and Decision Tree (PAKDD 2009)**
+  - Poramin Bheganan, Richi Nayak, Yue Xu
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-642-01307-2_10)
+
+- **Parameter Estimdation in Semi-Random Decision Tree Ensembling on Streaming Data (PAKDD 2009)**
+  - Pei-Pei Li, Qianhui Liang, Xindong Wu, Xuegang Hu
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-642-01307-2_35)
+
+- **DTU: A Decision Tree for Uncertain Data (PAKDD 2009)**
+  - Biao Qin, Yuni Xia, Fang Li
+  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-642-01307-2_4)
 
 ## 2008
 - **Predicting Future Decision Trees from Evolving Data (ICDM 2008)**
