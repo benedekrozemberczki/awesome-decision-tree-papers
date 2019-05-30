@@ -686,6 +686,10 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Einoshin Suzuki, Masafumi Gotoh, Yuta Choki
   - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-44794-6_36)
   
+- **A Fourier Analysis Based Approach to Learning Decision Trees in a Distributed Environment (SDM 2001)**
+  - Byung-Hoon Park, Rajeev Ayyagari, Hillol Kargupta
+  - [[Paper]](https://archive.siam.org/meetings/sdm01/pdf/sdm01_19.pdf)
+  
 ## 2000
 
 - **Intuitive Representation of Decision Trees Using General Rules and Exceptions (AAAI 2000)**
