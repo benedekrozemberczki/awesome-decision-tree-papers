@@ -44,6 +44,9 @@ A curated list of decision, classification and regression tree research papers w
 Similar collections about [graph embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 ## 2019
+- **Entity Personalized Talent Search Models with Tree Interaction Features (WWW 2019)**
+  - Cagri Ozcaglar, Sahin Cem Geyik, Brian Schmitz, Prakhar Sharma, Alex Shelkovnykov, Yiming Ma, Erik Buchanan
+  - [[Paper]](https://arxiv.org/pdf/1902.09041.pdf)
 
 ## 2018
 - **Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees (AAAI 2018)**
