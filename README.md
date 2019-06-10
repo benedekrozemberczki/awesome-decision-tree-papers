@@ -44,6 +44,14 @@ A curated list of decision, classification and regression tree research papers w
 Similar collections about [graph embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 ## 2019
+- **XBART: Accelerated Bayesian Additive Regression Trees (AISTATS 2019)**
+  - Jingyu He, Saar Yalov, P. Richard Hahn
+  - [[Paper]](https://arxiv.org/abs/1810.02215)
+
+- **Interaction Detection with Bayesian Decision Tree Ensembles (AISTATS 2019)**
+  - Junliang Du, Antonio R. Linero
+  - [[Paper]](https://arxiv.org/abs/1809.08524)
+
 - **Entity Personalized Talent Search Models with Tree Interaction Features (WWW 2019)**
   - Cagri Ozcaglar, Sahin Cem Geyik, Brian Schmitz, Prakhar Sharma, Alex Shelkovnykov, Yiming Ma, Erik Buchanan
   - [[Paper]](https://arxiv.org/pdf/1902.09041.pdf)
