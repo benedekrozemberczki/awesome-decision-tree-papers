@@ -7,7 +7,7 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/stars-600+-blue.svg"/>
-        <img src="https://img.shields.io/badge/forks-85+-blue.svg"/>
+        <img src="https://img.shields.io/badge/forks-90+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-CC0-blue.svg"/>
 </p>
 
