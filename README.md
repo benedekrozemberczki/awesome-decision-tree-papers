@@ -146,6 +146,10 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
   - Shiyu Ji, Jinjin Shao, Daniel Agun, Tao Yang
   - [[Paper]](https://sites.cs.ucsb.edu/projects/ds/sigir18.pdf)
 
+- **CatBoost: unbiased boosting with categorical features (NIPS 2018)**
+  - Liudmila Prokhorenkova, Gleb Gusev, Aleksandr Vorobev, Anna Veronika Dorogush, Andrey Gulin
+  - [[Paper]](https://arxiv.org/abs/1706.09516)
+
 ## 2017
 - **Strategic Sequences of Arguments for Persuasion Using Decision Trees (AAAI 2017)**
   - Emmanuel Hadoux, Anthony Hunter
@@ -196,6 +200,10 @@ Similar collections about [graph embedding](https://github.com/benedekrozembercz
 - **GB-CENT: Gradient Boosted Categorical Embedding and Numerical Trees (WWW 2017)**
   - Qian Zhao, Yue Shi, Liangjie Hong
   - [[Paper]](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p1311.pdf)
+
+- **CatBoost: gradient boosting with categorical features support (NIPS 2017)**
+  - Anna Veronika Dorogush, Vasily Ershov, Andrey Gulin
+  - [[Paper]](http://learningsys.org/nips17/assets/papers/paper_11.pdf)
 
 ## 2016
 - **Sparse Perceptron Decision Tree for Millions of Dimensions (AAAI 2016)**
