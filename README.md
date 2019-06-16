@@ -5,8 +5,8 @@
 <p align="center">
   <img width="300" src="tree.png">
 </p>
-<p align="center">
-	<img src="https://img.shields.io/badge/stars-630+-blue.svg"/>
+<p align="center"
+	<img src="https://img.shields.io/badge/stars-650+-blue.svg"/>
         <img src="https://img.shields.io/badge/forks-90+-blue.svg"/>
 	<img src="https://img.shields.io/badge/license-CC0-blue.svg"/>
 </p>
