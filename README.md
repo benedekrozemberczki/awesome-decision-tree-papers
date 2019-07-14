@@ -36,7 +36,7 @@ A curated list of decision, classification and regression tree research papers w
    * [IJCAI](https://www.ijcai.org/)
    * [UAI](http://www.auai.org/)
 
-Similar collections about [graph embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
+Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 ## 2019
 - **XBART: Accelerated Bayesian Additive Regression Trees (AISTATS 2019)**
