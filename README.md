@@ -64,6 +64,21 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Hongge Chen, Huan Zhang, Duane S. Boning, Cho-Jui Hsieh
   - [[Paper]](https://arxiv.org/abs/1902.10660)
   - [[Code]](https://github.com/chenhongge/RobustTrees)
+  
+- **Block-distributed Gradient Boosted Trees (SIGIR 2019)**
+  - Theodore Vasiloudis, Hyunsu Cho, Henrik Boström
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Guaranteed Scalable Learning of Latent Tree Models (UAI 2019)**
+  - Furong Huang, U. N. Niranjan, Ioakeim Perros, Robert Chen, Jimeng Sun, Anima Anandkumar
+  - [[Paper]]( )
+  - [[Code]]( )
+  
+- **Entity Personalized Talent Search Models with Tree Interaction Features (WWW 2019)**
+  - Cagri Ozcaglar, Sahin Cem Geyik, Brian Schmitz, Prakhar Sharma, Alex Shelkovnykov, Yiming Ma, Erik Buchanan
+  - [[Paper]]( )
+  - [[Code]]( )
 
 ## 2018
 - **Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees (AAAI 2018)**
