@@ -67,13 +67,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 - **Block-distributed Gradient Boosted Trees (SIGIR 2019)**
   - Theodore Vasiloudis, Hyunsu Cho, Henrik Boström
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Guaranteed Scalable Learning of Latent Tree Models (UAI 2019)**
-  - Furong Huang, U. N. Niranjan, Ioakeim Perros, Robert Chen, Jimeng Sun, Anima Anandkumar
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1904.10522)
   
 - **Entity Personalized Talent Search Models with Tree Interaction Features (WWW 2019)**
   - Cagri Ozcaglar, Sahin Cem Geyik, Brian Schmitz, Prakhar Sharma, Alex Shelkovnykov, Yiming Ma, Erik Buchanan
