@@ -71,8 +71,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 - **Entity Personalized Talent Search Models with Tree Interaction Features (WWW 2019)**
   - Cagri Ozcaglar, Sahin Cem Geyik, Brian Schmitz, Prakhar Sharma, Alex Shelkovnykov, Yiming Ma, Erik Buchanan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1902.09041)
 
 ## 2018
 - **Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees (AAAI 2018)**
