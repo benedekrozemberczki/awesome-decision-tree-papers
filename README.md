@@ -45,18 +45,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 - **Learning Optimal and Fair Decision Trees for Non-Discriminative Decision-Making (AAAI 2019)**
   - Sina Aghaei, Mohammad Javad Azizi, Phebe Vayanos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1903.10598)
 
 - **Desiderata for Interpretability: Explaining Decision Tree Predictions with Counterfactuals (AAAI 2019)**
   - Kacper Sokol, Peter A. Flach
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/5154)
+  
 - **Weighted Oblique Decision Trees (AAAI 2019)**
   - Bin-Bin Yang, Song-Qing Shen, Wei Gao
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/4505)
 
 - **Learning Optimal Classification Trees Using a Binary Linear Program Formulation (AAAI 2019)**
   - Sicco Verwer, Yingqian Zhang
