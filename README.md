@@ -61,8 +61,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Learning Optimal Classification Trees Using a Binary Linear Program Formulation (AAAI 2019)**
   - Sicco Verwer, Yingqian Zhang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://yingqianzhang.net/wp-content/uploads/2018/12/VerwerZhangAAAI-final.pdf)
 
 - **XBART: Accelerated Bayesian Additive Regression Trees (AISTATS 2019)**
   - Jingyu He, Saar Yalov, P. Richard Hahn
