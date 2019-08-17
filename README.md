@@ -107,8 +107,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 - **Combining Decision Trees and Neural Networks for Learning-to-Rank in Personal Search (KDD 2019)**
   - Pan Li, Zhen Qin, Xuanhui Wang, Donald Metzler
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ai.google/research/pubs/pub48133/)
   
 - **Block-distributed Gradient Boosted Trees (SIGIR 2019)**
   - Theodore Vasiloudis, Hyunsu Cho, Henrik Boström
