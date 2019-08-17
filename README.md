@@ -85,6 +85,36 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/1902.10660)
   - [[Code]](https://github.com/chenhongge/RobustTrees)
   
+- **FAHT: An Adaptive Fairness-aware Decision Tree Classifier (IJCAI 2019)**
+  - Wenbin Zhang, Eirini Ntoutsi
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Learn Smart with Less: Building Better Online Decision Trees with Fewer Training Examples (IJCAI 2019)**
+  - Ariyam Das, Jin Wang, Sahil M. Gandhi, Jae Lee, Wei Wang, Carlo Zaniolo
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Inter-node Hellinger Distance based Decision Tree (IJCAI 2019)**
+  - Pritom Saha Akash, Md. Eusha Kadir, Amin Ahsan Ali, Mohammad Shoyaib
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Gradient Boosting with Piece-Wise Linear Regression Trees (IJCAI 2019)**
+  - Yu Shi, Jian Li, Zhize Li
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **A Gradient-Based Split Criterion for Highly Accurate and Transparent Model Trees (IJCAI 2019)**
+  - Klaus Broelemann, Gjergji Kasneci
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Combining Decision Trees and Neural Networks for Learning-to-Rank in Personal Search (KDD 2019)**
+  - Pan Li, Zhen Qin, Xuanhui Wang, Donald Metzler
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 - **Block-distributed Gradient Boosted Trees (SIGIR 2019)**
   - Theodore Vasiloudis, Hyunsu Cho, Henrik Boström
   - [[Paper]](https://arxiv.org/abs/1904.10522)
