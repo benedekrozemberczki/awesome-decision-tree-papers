@@ -90,15 +90,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/1907.07237)
   - [[Code]](https://github.com/vanbanTruong/FAHT)
 
-- **Learn Smart with Less: Building Better Online Decision Trees with Fewer Training Examples (IJCAI 2019)**
-  - Ariyam Das, Jin Wang, Sahil M. Gandhi, Jae Lee, Wei Wang, Carlo Zaniolo
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **Inter-node Hellinger Distance based Decision Tree (IJCAI 2019)**
   - Pritom Saha Akash, Md. Eusha Kadir, Amin Ahsan Ali, Mohammad Shoyaib
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2019/0272.pdf)
+  - [[Matlab Code]](https://github.com/ZDanielsResearch/HellingerTreesMatlab)
+  - [[R Code]](https://github.com/kaustubhrpatil/HDDT)
 
 - **Gradient Boosting with Piece-Wise Linear Regression Trees (IJCAI 2019)**
   - Yu Shi, Jian Li, Zhize Li
