@@ -103,9 +103,8 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **A Gradient-Based Split Criterion for Highly Accurate and Transparent Model Trees (IJCAI 2019)**
   - Klaus Broelemann, Gjergji Kasneci
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]]https://arxiv.org/abs/1809.09703)
+  
 - **Combining Decision Trees and Neural Networks for Learning-to-Rank in Personal Search (KDD 2019)**
   - Pan Li, Zhen Qin, Xuanhui Wang, Donald Metzler
   - [[Paper]]( )
