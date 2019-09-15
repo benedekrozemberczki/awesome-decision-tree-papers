@@ -39,6 +39,11 @@ A curated list of decision, classification and regression tree research papers w
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 ## 2019
+- **Provably Robust Boosted Decision Stumps and Trees against Adversarial Attacks (NeurIPS 2019)**
+  - Maksym Andriushchenko, Matthias Hein
+  - [[Paper]](https://arxiv.org/abs/1906.03526)
+  - [[Code]](https://github.com/max-andr/provably-robust-boosting)
+  
 - **Induction of Non-Monotonic Logic Programs to Explain Boosted Tree Models Using LIME (AAAI 2019)**
   - Farhad Shakerin, Gopal Gupta
   - [[Paper]](https://arxiv.org/abs/1808.00629)
