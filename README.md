@@ -105,6 +105,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Pan Li, Zhen Qin, Xuanhui Wang, Donald Metzler
   - [[Paper]](https://ai.google/research/pubs/pub48133/)
   
+- **Provably Robust Boosted Decision Stumps and Trees against Adversarial Attacks (NeurIPS 2019)**
+  - Maksym Andriushchenko, Matthias Hein
+  - [[Paper]](https://arxiv.org/abs/1906.03526)
+  - [[Code]](https://github.com/max-andr/provably-robust-boosting)
+  
 - **Block-distributed Gradient Boosted Trees (SIGIR 2019)**
   - Theodore Vasiloudis, Hyunsu Cho, Henrik Boström
   - [[Paper]](https://arxiv.org/abs/1904.10522)
