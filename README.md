@@ -66,10 +66,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Interaction Detection with Bayesian Decision Tree Ensembles (AISTATS 2019)**
   - Junliang Du, Antonio R. Linero
   - [[Paper]](https://arxiv.org/abs/1809.08524)
-
-- **Entity Personalized Talent Search Models with Tree Interaction Features (WWW 2019)**
-  - Cagri Ozcaglar, Sahin Cem Geyik, Brian Schmitz, Prakhar Sharma, Alex Shelkovnykov, Yiming Ma, Erik Buchanan
-  - [[Paper]](https://arxiv.org/pdf/1902.09041.pdf)
   
 - **Incorporating Grouping Information into Bayesian Decision Tree Ensembles (ICML 2019)**
   - Junliang Du, Antonio R. Linero
