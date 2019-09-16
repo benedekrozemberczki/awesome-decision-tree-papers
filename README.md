@@ -173,6 +173,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Ting Ye, Hucheng Zhou, Will Y. Zou, Bin Gao, Ruofei Zhang
   - [[Paper]](http://ai.stanford.edu/~wzou/kdd_rapidscorer.pdf)
   
+- **CatBoost: Unbiased Boosting with Categorical Features (NIPS 2018)**
+  - Liudmila Prokhorenkova, Gleb Gusev, Aleksandr Vorobev, Anna Veronika Dorogush, Andrey Gulin
+  - [[Paper]](https://papers.nips.cc/paper/7898-catboost-unbiased-boosting-with-categorical-features.pdf)
+  - [[Code]](https://catboost.ai/)
+  
 - **Active Learning for Non-Parametric Regression Using Purely Random Trees (NIPS 2018)**
   - Jack Goetz, Ambuj Tewari, Paul Zimmerman
   - [[Paper]](https://papers.nips.cc/paper/7520-active-learning-for-non-parametric-regression-using-purely-random-trees.pdf)
