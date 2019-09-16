@@ -219,6 +219,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Extremely Fast Decision Tree Mining for Evolving Data Streams (KDD 2017)**
   - Albert Bifet, Jiajin Zhang, Wei Fan, Cheng He, Jianfeng Zhang, Jianfeng Qian, Geoff Holmes, Bernhard Pfahringer
   - [[Paper]](https://core.ac.uk/download/pdf/151040580.pdf)
+  
+- **CatBoost: Gradient Boosting with Categorical Features Support (NIPS 2017)**
+  - Anna Veronika Dorogush, Vasily Ershov, Andrey Gulin
+  - [[Paper]](https://arxiv.org/abs/1810.11363)
+  - [[Code]](https://catboost.ai/)
 
 - **LightGBM: A Highly Efficient Gradient Boosting Decision Tree (NIPS 2017)**
   - Guolin Ke, Qi Meng, Thomas Finley, Taifeng Wang, Wei Chen, Weidong Ma, Qiwei Ye, Tie-Yan Liu
