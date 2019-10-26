@@ -111,6 +111,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/1906.03526)
   - [[Code]](https://github.com/max-andr/provably-robust-boosting)
   
+- **Calibrating Probability Estimation Trees using Venn-Abers Predictors (SDM 2019)**
+  - Ulf Johansson, Tuwe Löfström, Henrik Boström
+  - [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975673.4)
+  - [[Code]]( )
+  
 - **Block-distributed Gradient Boosted Trees (SIGIR 2019)**
   - Theodore Vasiloudis, Hyunsu Cho, Henrik Boström
   - [[Paper]](https://arxiv.org/abs/1904.10522)
