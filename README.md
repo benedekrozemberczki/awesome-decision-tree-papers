@@ -60,6 +60,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Sicco Verwer, Yingqian Zhang
   - [[Paper]](https://yingqianzhang.net/wp-content/uploads/2018/12/VerwerZhangAAAI-final.pdf)
 
+- **Optimization of Hierarchical Regression Model with Application to Optimizing Multi-Response Regression K-ary Trees (AAAI 2019)**
+  - Pooya Tavallali, Peyman Tavallali, Mukesh Singhal
+  - [[Paper]]( )
+
 - **XBART: Accelerated Bayesian Additive Regression Trees (AISTATS 2019)**
   - Jingyu He, Saar Yalov, P. Richard Hahn
   - [[Paper]](https://arxiv.org/abs/1810.02215)
