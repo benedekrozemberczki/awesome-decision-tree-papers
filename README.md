@@ -86,6 +86,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/1902.10660)
   - [[Code]](https://github.com/chenhongge/RobustTrees)
   
+- **Learn Smart with Less: Building Better Online Decision Trees with Fewer Training Examples (IJCAI 2019)**
+  - Ariyam Das, Jin Wang, Sahil M. Gandhi, Jae Lee, Wei Wang, Carlo Zaniolo
+  - [[Paper]]( )
+  
 - **FAHT: An Adaptive Fairness-aware Decision Tree Classifier (IJCAI 2019)**
   - Wenbin Zhang, Eirini Ntoutsi
   - [[Paper]](https://arxiv.org/abs/1907.07237)
