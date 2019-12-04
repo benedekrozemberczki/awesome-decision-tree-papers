@@ -656,7 +656,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Bin Wang, Harry Zhang
   - [[Paper]](https://link.springer.com/chapter/10.1007/11871842_44)
 
-- **A general framework for accurate and fast regression by data summarization in random decision trees (KDD 2006)**
+- **A General Framework for Accurate and Fast Regression by Data Summarization in Random Decision Trees (KDD 2006)**
   - Wei Fan, Joe McCloskey, Philip S. Yu
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.442.2004&rep=rep1&type=pdf)
   
@@ -733,7 +733,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Amir Bar-Or, Ran Wolff, Assaf Schuster, Daniel Keren
   - [[Paper]](https://www.semanticscholar.org/paper/Decision-Tree-Induction-in-High-Dimensional%2C-Bar-Or-Wolff/90235fc35c27dae273681f7847c2b20ff37928a9)
 
-- **Boosted decision trees for word recognition in handwritten document retrieval (SIGIR 2005)**
+- **Boosted Decision Trees for Word Recognition in Handwritten Document Retrieval (SIGIR 2005)**
   - Nicholas R. Howe, Toni M. Rath, R. Manmatha
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.152.1551&rep=rep1&type=pdf)
 
