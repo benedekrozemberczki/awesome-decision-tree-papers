@@ -482,7 +482,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Elena Ikonomovska, João Gama, Bernard Zenko, Saso Dzeroski
   - [[Paper]](https://icml.cc/Conferences/2011/papers/349_icmlpaper.pdf)
   
-- **Density estimation trees (KDD 2011)**
+- **Density Estimation Trees (KDD 2011)**
   - Parikshit Ram, Alexander G. Gray
   - [[Paper]](https://mlpack.org/papers/det.pdf)
   
