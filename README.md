@@ -1104,7 +1104,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://www.cis.upenn.edu/~mkearns/papers/pruning.pdf)
 
 ## 1997
-- **Pessimistic decision tree pruning based Continuous-time (ICML 1997)**
+- **Pessimistic Decision Tree Pruning Based Continuous-Time (ICML 1997)**
   - Yishay Mansour
   - [[Paper]](https://pdfs.semanticscholar.org/b6fc/e37612db10a9756b904b5e79e1144ca12574.pdf)
 
