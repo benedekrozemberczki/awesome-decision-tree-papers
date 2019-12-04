@@ -599,7 +599,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Anneleen Van Assche, Hendrik Blockeel
   - [[Paper]](http://ftp.cs.wisc.edu/machine-learning/shavlik-group/ilp07wip/ilp07_assche.pdf)
 
-- **Sample compression bounds for decision trees (ICML 2007)**
+- **Sample Compression Bounds for Decision Trees (ICML 2007)**
   - Mohak Shah
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.331.9136&rep=rep1&type=pdf)
 
@@ -615,11 +615,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Claudia Henry, Richard Nock, Frank Nielsen
   - [[Paper]](https://www.ijcai.org/Proceedings/07/Papers/135.pdf)
 
-- **Scalable look-ahead linear regression trees (KDD 2007)**
+- **Scalable Look-ahead Linear Regression Trees (KDD 2007)**
   - David S. Vogel, Ognian Asparouhov, Tobias Scheffer
   - [[Paper]](https://www.cs.uni-potsdam.de/ml/publications/kdd2007.pdf)
 
-- **Mining optimal decision trees from itemset lattices (KDD 2007)**
+- **Mining Optimal Decision Trees from Itemset Lattices (KDD 2007)**
   - Siegfried Nijssen, Élisa Fromont
   - [[Paper]](https://hal.archives-ouvertes.fr/hal-00372011/document)
   
