@@ -1231,7 +1231,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://papers.nips.cc/paper/203-performance-comparisons-between-backpropagation-networks-and-classification-trees-on-three-real-world-applications)
 
 ## 1988
-- **Multiple decision trees (UAI 1988)**
+- **Multiple Decision Trees (UAI 1988)**
   - Suk Wah Kwok, Chris Carter
   - [[Paper]](https://arxiv.org/abs/1304.2363)
 
