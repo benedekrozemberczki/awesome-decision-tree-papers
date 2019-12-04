@@ -966,7 +966,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Luca Console, Claudia Picardi, Daniele Theseider Dupré
   - [[Paper]](https://www.researchgate.net/publication/220815333_Temporal_Decision_Trees_or_the_lazy_ECU_vindicated)
   
-- **Data mining criteria for tree-based regression and classification (KDD 2001)**
+- **Data Mining Criteria for Tree-based Regression and Classification (KDD 2001)**
   - Andreas Buja, Yung-Seop Lee
   - [[Paper]](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1406&context=statistics_papers)
 
@@ -1032,11 +1032,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Manu Sridharan, Gerald Tesauro
   - [[Paper]](https://manu.sridharan.net/files/icml00.pdf)
 
-- **Growing decision trees on support-less association rules (KDD 2000)**
+- **Growing Decision Trees on Support-less Association Rules (KDD 2000)**
   - Ke Wang, Senqiang Zhou, Yu He
   - [[Paper]](https://www2.cs.sfu.ca/~wangk/pub/kdd002.pdf)
 
-- **Efficient algorithms for constructing decision trees with constraints (KDD 2000)**
+- **Efficient Algorithms for Constructing Decision Trees with Constraints (KDD 2000)**
   - Minos N. Garofalakis, Dongjoon Hyun, Rajeev Rastogi, Kyuseok Shim
   - [[Paper]](http://www.softnet.tuc.gr/~minos/Papers/kdd00-cam.pdf)
 
