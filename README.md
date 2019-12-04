@@ -827,15 +827,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - David Page, Soumya Ray
   - [[Paper]](http://pages.cs.wisc.edu/~dpage/ijcai3.pdf)
 
-- **Efficient decision tree construction on streaming data (KDD 2003)**
+- **Efficient Decision Tree Construction on Streaming Data (KDD 2003)**
   - Ruoming Jin, Gagan Agrawal
   - [[Paper]](http://web.cse.ohio-state.edu/~agrawal.28/p/sigkdd03.pdf)
 
-- **PaintingClass: interactive construction%2C visualization and exploration of decision trees (KDD 2003)**
+- **PaintingClass: Interactive Construction Visualization and Exploration of Decision Trees (KDD 2003)**
   - Soon Tee Teoh, Kwan-Liu Ma
   - [[Paper]](https://www.researchgate.net/publication/220272011_PaintingClass_interactive_construction_visualization_and_exploration_of_decision_trees)
 
-- **Accurate decision trees for mining high-speed data streams (KDD 2003)**
+- **Accurate Decision Trees for Mining High-Speed Data Streams (KDD 2003)**
   - João Gama, Ricardo Rocha, Pedro Medas
   - [[Paper]](http://staff.icar.cnr.it/manco/Teaching/2006/datamining/Esami2006/ArticoliSelezionatiDM/SEMINARI/Mining%20Data%20Streams/kdd03.pdf)
 
