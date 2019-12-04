@@ -528,11 +528,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://www3.nd.edu/~nchawla/papers/SDM10.pdf)
 
 ## 2009
-- **Stochastic gradient boosted distributed decision trees (CIKM 2009)**
+- **Stochastic Gradient Boosted Distributed Decision Trees (CIKM 2009)**
   - Jerry Ye, Jyh-Herng Chow, Jiang Chen, Zhaohui Zheng
   - [[Paper]](https://dl.acm.org/citation.cfm?id=1646301)
   
-- **Feature selection for ranking using boosted trees (CIKM 2009)**
+- **Feature Selection for Ranking Using Boosted Trees (CIKM 2009)**
   - Feng Pan, Tim Converse, David Ahn, Franco Salvetti, Gianluca Donato
   - [[Paper]](http://www.francosalvetti.com/cikm09_camera2.pdf)
   
@@ -553,7 +553,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Mirko Böttcher, Martin Spott, Rudolf Kruse
   - [[Paper]](https://ieeexplore.ieee.org/document/4781098)
 
-- **Bayes optimal classification for decision trees (ICML 2008)**
+- **Bayes Optimal Classification for Decision Trees (ICML 2008)**
   - Siegfried Nijssen
   - [[Paper]](http://icml2008.cs.helsinki.fi/papers/455.pdf)
   
@@ -569,7 +569,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Bishan Yang, Tengjiao Wang, Dongqing Yang, Lei Chang
   - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-540-68125-0_36)
 
-- **A general framework for estimating similarity of datasets and decision trees: exploring semantic similarity of decision trees (SDM 2008)**
+- **A General Framework for Estimating Similarity of Datasets and Decision Trees: Exploring Semantic Similarity of Decision Trees (SDM 2008)**
   - Irene Ntoutsi, Alexandros Kalousis, Yannis Theodoridis
   - [[Paper]](https://www.researchgate.net/publication/220907047_A_general_framework_for_estimating_similarity_of_datasets_and_decision_trees_exploring_semantic_similarity_of_decision_trees)
 
