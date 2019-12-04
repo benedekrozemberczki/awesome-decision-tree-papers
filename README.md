@@ -326,16 +326,16 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Balaji Lakshminarayanan, Daniel M. Roy, Yee Whye Teh
   - [[Paper]](https://arxiv.org/abs/1502.04622)
 
-- **DART: Dropouts meet Multiple Additive Regression Trees (AISTATS 2015)**
+- **DART: Dropouts Meet Multiple Additive Regression Trees (AISTATS 2015)**
   - Korlakai Vinayak Rashmi, Ran Gilad-Bachrach
   - [[Paper]](https://arxiv.org/abs/1505.01866)
   - [[Code]](https://xgboost.readthedocs.io/en/latest/)
 
-- **Single target tracking using adaptive clustered decision trees and dynamic multi-level appearance models (CVPR 2015)**
+- **Single Target Tracking Using Adaptive Clustered Decision Trees and Dynamic Multi-level Appearance Models (CVPR 2015)**
   - Jingjing Xiao, Rustam Stolkin, Ales Leonardis
   - [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/3B_058.pdf)
 
-- **Face alignment using cascade Gaussian process regression trees (CVPR 2015)**
+- **Face Alignment Using Cascade Gaussian Process Regression Trees (CVPR 2015)**
   - Donghoon Lee, Hyunsin Park, Chang Dong Yoo
   - [[Paper]](https://slsp.kaist.ac.kr/paperdata/Face_Alignment_Using.pdf)
   - [[Code]](https://github.com/donghoonlee04/cGPRT)
@@ -344,7 +344,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Jeany Son, Ilchae Jung, Kayoung Park, Bohyung Han
   - [[Paper]](Tracking-by-Segmentation with Online Gradient Boosting Decision Tree)
 
-- **Entropy evaluation based on confidence intervals of frequency estimates : Application to the learning of decision trees (ICML 2015)**
+- **Entropy Evaluation Based on Confidence Intervals of Frequency Estimates : Application to the Learning of Decision Trees (ICML 2015)**
   - Mathieu Serrurier, Henri Prade
   - [[Paper]](http://proceedings.mlr.press/v37/serrurier15.pdf)
   
@@ -391,11 +391,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Balázs Kégl
   - [[Paper]](https://arxiv.org/pdf/1312.6086.pdf)
 
-- **Diagnosis determination: decision trees optimizing simultaneously worst and expected testing cost (ICML 2014)**
+- **Diagnosis Determination: Decision Trees Optimizing Simultaneously Worst and Expected Testing Cost (ICML 2014)**
   - Ferdinando Cicalese, Eduardo Sany Laber, Aline Medeiros Saettler
   - [[Paper]](https://pdfs.semanticscholar.org/47ae/852f83b76f95b27ab00308d04f6020bdf71f.pdf)
   
-- **Learning multiple-question decision trees for cold-start recommendation (WSDM 2013)**
+- **Learning Multiple-Question Decision Trees for Cold-Start Recommendation (WSDM 2013)**
   - Mingxuan Sun, Fuxin Li, Joonseok Lee, Ke Zhou, Guy Lebanon, Hongyuan Zha
   - [[Paper]](http://www.joonseok.net/papers/coldstart.pdf)
 
