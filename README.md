@@ -199,7 +199,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Jack Goetz, Ambuj Tewari, Paul Zimmerman
   - [[Paper]](https://papers.nips.cc/paper/7520-active-learning-for-non-parametric-regression-using-purely-random-trees.pdf)
 
-- **Alternating optimization of decision trees with application to learning sparse oblique trees (NIPS 2018)**
+- **Alternating Optimization of Decision Trees with Application to Learning Sparse Oblique Trees (NIPS 2018)**
   - Miguel Á. Carreira-Perpiñán, Pooya Tavallali
   - [[Paper]](https://papers.nips.cc/paper/7397-alternating-optimization-of-decision-trees-with-application-to-learning-sparse-oblique-trees)
 
@@ -441,7 +441,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://ttic.uchicago.edu/~meshi/papers/mtreen.pdf)
 
 ## 2012
-- **Regression Tree Fields - An efficient, non-parametric approach to image labeling problems (CVPR 2012)**
+- **Regression Tree Fields - An Efficient, Non-parametric Approach to Image Labeling Problems (CVPR 2012)**
   - Jeremy Jancsary, Sebastian Nowozin, Toby Sharp, Carsten Rother
   - [[Paper]](http://www.nowozin.net/sebastian/papers/jancsary2012rtf.pdf)
 
@@ -470,7 +470,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Denis Filimonov, Mary P. Harper
   - [[Paper]](https://www.aclweb.org/anthology/D11-1064)
   
-- **Decision tree fields (ICCV 2011)**
+- **Decision Tree Fields (ICCV 2011)**
   - Sebastian Nowozin, Carsten Rother, Shai Bagon, Toby Sharp, Bangpeng Yao, Pushmeet Kohli
   - [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/nrbsyk_iccv11.pdf)
 
@@ -486,7 +486,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Parikshit Ram, Alexander G. Gray
   - [[Paper]](https://mlpack.org/papers/det.pdf)
   
-- **Bagging gradient-boosted trees for high precision, low variance ranking models (SIGIR 2011)**
+- **Bagging Gradient-Boosted Trees for High Precision, Low Variance Ranking Models (SIGIR 2011)**
   - Yasser Ganjisaffar, Rich Caruana, Cristina Videira Lopes
   - [[Paper]](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/materials/bagging_lmbamart_jforests.pdf)
 
@@ -494,11 +494,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Hélène Fargier, Nahla Ben Amor, Wided Guezguez
   - [[Paper]](https://dslpitt.org/uai/papers/11/p203-fargier.pdf)
 
-- **Adaptive bootstrapping of recommender systems using decision trees (WSDM 2011)**
+- **Adaptive Bootstrapping of Recommender Systems Using Decision Trees (WSDM 2011)**
   - Nadav Golbandi, Yehuda Koren, Ronny Lempel
   - [[Paper]](https://dl.acm.org/citation.cfm?id=1935910)
 
-- **Parallel boosted regression trees for web search ranking (WWW 2011)**
+- **Parallel Boosted Regression Trees for Web Search Ranking (WWW 2011)**
   - Stephen Tyree, Kilian Q. Weinberger, Kunal Agrawal, Jennifer Paykin
   - [[Paper]](http://www.cs.cornell.edu/~kilian/papers/fr819-tyreeA.pdf)
 
