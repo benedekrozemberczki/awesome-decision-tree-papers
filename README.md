@@ -1065,7 +1065,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://link.springer.com/chapter/10.1007/3-540-45372-5_40)
 
 ## 1999
-- **Modeling decision tree performance with the power law (AISTATS 1999)**
+- **Modeling Decision Tree Performance with the Power Law (AISTATS 1999)**
   - Lewis J. Frey, Douglas H. Fisher
   - [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/ModelingTree.pdf)
 
