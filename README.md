@@ -885,19 +885,19 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Fumio Takechi, Einoshin Suzuki
   - [[Paper]](https://www.researchgate.net/publication/221346121_Finding_an_Optimal_Gain-Ratio_Subset-Split_Test_for_a_Set-Valued_Attribute_in_Decision_Tree_Induction)
 
-- **Efficiently mining frequent trees in a forest (KDD 2002)**
+- **Efficiently Mining Frequent Trees in a Forest (KDD 2002)**
   - Mohammed Javeed Zaki
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.8511&rep=rep1&type=pdf)
 
-- **SECRET: a scalable linear regression tree algorithm (KDD 2002)**
+- **SECRET: a Scalable Linear Regression Tree Algorithm (KDD 2002)**
   - Alin Dobra, Johannes Gehrke
   - [[Paper]](http://www.cs.cornell.edu/people/dobra/papers/secret-extended.pdf)
 
-- **Instability of decision tree classification algorithms (KDD 2002)**
+- **Instability of Decision Tree Classification Algorithms (KDD 2002)**
   - Ruey-Hsia Li, Geneva G. Belford
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.12.8094&rep=rep1&type=pdf)
 
-- **Extracting decision trees from trained neural networks (KDD 2002)**
+- **Extracting Decision Trees From Trained Neural Networks (KDD 2002)**
   - Olcay Boz
   - [[Paper]](http://dspace.library.iitb.ac.in/jspui/bitstream/10054/1285/1/5664.pdf)
 
