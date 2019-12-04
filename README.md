@@ -766,15 +766,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Wei Fan, Yi-an Huang, Philip S. Yu
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.9450&rep=rep1&type=pdf)
 
-- **Lookahead-based algorithms for anytime induction of decision trees (ICML 2004)**
+- **Lookahead-based Algorithms for Anytime Induction of Decision Trees (ICML 2004)**
   - Saher Esmeir, Shaul Markovitch
   - [[Paper]](http://www.cs.technion.ac.il/~shaulm/papers/pdf/Esmeir-Markovitch-icml2004.pdf)
   
-- **Decision trees with minimal costs (ICML 2004)**
+- **Decision Trees with Minimal Costs (ICML 2004)**
   - Charles X. Ling, Qiang Yang, Jianning Wang, Shichao Zhang
   - [[Paper]](https://icml.cc/Conferences/2004/proceedings/papers/136.pdf)
 
-- **Training conditional random fields via gradient tree boosting (ICML 2004)**
+- **Training Conditional Random Fields via Gradient Tree Boosting (ICML 2004)**
   - Thomas G. Dietterich, Adam Ashenfelter, Yaroslav Bulatov
   - [[Paper]](http://web.engr.oregonstate.edu/~tgd/publications/ml2004-treecrf.pdf)
 
