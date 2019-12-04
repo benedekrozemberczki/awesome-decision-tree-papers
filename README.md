@@ -416,7 +416,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Zhe Jiang, Shashi Shekhar, Xun Zhou, Joseph K. Knight, Jennifer Corcoran
   - [[Paper]](https://pdfs.semanticscholar.org/f28e/df8d9eed76e4ce97cb6bd4182d590547be5e.pdf)
 
-- **Top-down particle filtering for Bayesian decision trees (ICML 2013)**
+- **Top-down Particle Filtering for Bayesian Decision Trees (ICML 2013)**
   - Balaji Lakshminarayanan, Daniel M. Roy, Yee Whye Teh
   - [[Paper]](https://arxiv.org/abs/1303.0561)
 
@@ -428,7 +428,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Frédéric Koriche, Jean-Marie Lagniez, Pierre Marquis, Samuel Thomas
   - [[Paper]](https://www.researchgate.net/publication/262398921_Knowledge_Compilation_for_Model_Counting_Affine_Decision_Trees)
   
-- **Understanding variable importances in forests of randomized trees (NIPS 2013)**
+- **Understanding Variable Importances in Forests of Randomized Trees (NIPS 2013)**
   - Gilles Louppe, Louis Wehenkel, Antonio Sutera, Pierre Geurts
   - [[Paper]](https://papers.nips.cc/paper/4928-understanding-variable-importances-in-forests-of-randomized-trees)
 
