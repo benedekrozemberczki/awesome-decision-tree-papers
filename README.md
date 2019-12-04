@@ -946,7 +946,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Bernard Zenko, Ljupco Todorovski, Saso Dzeroski
   - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.23.3118&rep=rep1&type=pdf)
 
-- **Efficient algorithms for decision tree cross-validation (ICML 2001)**
+- **Efficient Algorithms for Decision Tree Cross-Validation (ICML 2001)**
   - Hendrik Blockeel, Jan Struyf
   - [[Paper]](http://www.jmlr.org/papers/volume3/blockeel02a/blockeel02a.pdf)
 
@@ -958,7 +958,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Athanassios Papagelis, Dimitrios Kalles
   - [[Paper]](http://www.gatree.com/data/BreedinDecisioTreeUsinEvo.pdf)
 
-- **Obtaining calibrated probability estimates from decision trees and naive Bayesian classifiers (ICML 2001)**
+- **Obtaining Calibrated Probability Estimates from Decision Trees and Naive Bayesian Classifiers (ICML 2001)**
   - Bianca Zadrozny, Charles Elkan
   - [[Paper]](http://cseweb.ucsd.edu/~elkan/calibrated.pdf)
 
