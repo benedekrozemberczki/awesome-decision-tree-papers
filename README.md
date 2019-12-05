@@ -77,6 +77,21 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Junliang Du, Antonio R. Linero
   - [[Paper]](https://arxiv.org/abs/1809.08524)
   
+- **Adversarial Training of Gradient-Boosted Decision Trees (CIKM 2019)**
+  - Stefano Calzavara, Claudio Lucchese, Gabriele Tolomei
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Interpretable MTL from Heterogeneous Domains using Boosted Tree (CIKM 2019)**
+  - Ya-Lin Zhang, Longfei Li
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Interpreting CNNs via Decision Trees (CVPR 2019)**
+  - Quanshi Zhang, Yu Yang, Haotian Ma, Ying Nian Wu
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 - **Incorporating Grouping Information into Bayesian Decision Tree Ensembles (ICML 2019)**
   - Junliang Du, Antonio R. Linero
   - [[Paper]](http://proceedings.mlr.press/v97/du19d.html)
