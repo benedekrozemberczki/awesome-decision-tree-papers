@@ -40,6 +40,12 @@ A curated list of decision, classification and regression tree research papers w
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 ## 2019
+
+- **Multi-Level Deep Cascade Trees for Conversion Rate Prediction in Recommendation System (AAAI 2019)**
+  - Hong Wen, Jing Zhang, Quan Lin, Keping Yang, Pipei Huang
+  - [[Paper]](https://arxiv.org/pdf/1805.09484.pdf)
+  - [[Code]]( )
+  
 - **Induction of Non-Monotonic Logic Programs to Explain Boosted Tree Models Using LIME (AAAI 2019)**
   - Farhad Shakerin, Gopal Gupta
   - [[Paper]](https://arxiv.org/abs/1808.00629)
