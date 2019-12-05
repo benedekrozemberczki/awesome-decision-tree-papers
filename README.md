@@ -89,8 +89,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Interpreting CNNs via Decision Trees (CVPR 2019)**
   - Quanshi Zhang, Yu Yang, Haotian Ma, Ying Nian Wu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1802.00121)
   
 - **Incorporating Grouping Information into Bayesian Decision Tree Ensembles (ICML 2019)**
   - Junliang Du, Antonio R. Linero
