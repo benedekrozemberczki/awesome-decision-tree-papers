@@ -135,7 +135,21 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Maksym Andriushchenko, Matthias Hein
   - [[Paper]](https://arxiv.org/abs/1906.03526)
   - [[Code]](https://github.com/max-andr/provably-robust-boosting)
-  
+
+- **Optimal Decision Tree with Noisy Outcomes (NeurIPS 2019)**
+  - Su Jia, Viswanath Nagarajan, Fatemeh Navidi, R. Ravi
+  - [[Paper]](https://papers.nips.cc/paper/8592-optimal-decision-tree-with-noisy-outcomes.pdf)
+  - [[Code]](https://github.com/sjia1/ODT-with-noisy-outcomes)
+
+- **Regularized Gradient Boosting (NeurIPS 2019)**
+  - Corinna Cortes, Mehryar Mohri, Dmitry Storcheus
+  - [[Paper]](https://papers.nips.cc/paper/8784-regularized-gradient-boosting.pdf)
+
+- **Optimal Sparse Decision Trees (NeurIPS 2019)**
+  - Xiyang Hu, Cynthia Rudin, Margo Seltzer
+  - [[Paper]](https://papers.nips.cc/paper/8947-optimal-sparse-decision-trees.pdf)
+  - [[Code]](https://github.com/xiyanghu/OSDT)
+
 - **Calibrating Probability Estimation Trees using Venn-Abers Predictors (SDM 2019)**
   - Ulf Johansson, Tuwe Löfström, Henrik Boström
   - [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975673.4)
