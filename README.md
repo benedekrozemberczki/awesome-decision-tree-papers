@@ -292,7 +292,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Jalil Kazemitabar, Arash Amini, Adam Bloniarz, Ameet S. Talwalkar
   - [[Paper]](https://papers.nips.cc/paper/6646-variable-importance-using-decision-trees)
 
-- **A Unified Approach to Interpreting Model Predictions. (NIPS 2017)**
+- **A Unified Approach to Interpreting Model Predictions (NIPS 2017)**
   - Scott M. Lundberg, Su-In Lee
   - [[Paper]](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions)
   - [[Code]](https://github.com/slundberg/shap)
