@@ -269,6 +269,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](http://proceedings.mlr.press/v70/si17a.html)
   - [[Code]](https://github.com/springdaisy/GBDT)
 
+- **Consistent Feature Attribution for Tree Ensembles (ICML 2017)**
+  - Scott M. Lundberg, Su-In Lee
+  - [[Paper]](https://arxiv.org/abs/1706.06060)
+  - [[Code]](https://github.com/slundberg/shap)
+
 - **Extremely Fast Decision Tree Mining for Evolving Data Streams (KDD 2017)**
   - Albert Bifet, Jiajin Zhang, Wei Fan, Cheng He, Jianfeng Zhang, Jianfeng Qian, Geoff Holmes, Bernhard Pfahringer
   - [[Paper]](https://core.ac.uk/download/pdf/151040580.pdf)
@@ -286,7 +291,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Variable Importance Using Decision Trees (NIPS 2017)**
   - Jalil Kazemitabar, Arash Amini, Adam Bloniarz, Ameet S. Talwalkar
   - [[Paper]](https://papers.nips.cc/paper/6646-variable-importance-using-decision-trees)
-  
+
+- **A Unified Approach to Interpreting Model Predictions. (NIPS 2017)**
+  - Scott M. Lundberg, Su-In Lee
+  - [[Paper]](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions)
+  - [[Code]](https://github.com/slundberg/shap)
+
 - **Pruning Decision Trees via Max-Heap Projection (SDM 2017)**
   - Zhi Nie, Binbin Lin, Shuai Huang, Naren Ramakrishnan, Wei Fan, Jieping Ye
   - [[Paper]](https://www.researchgate.net/publication/317485748_Pruning_Decision_Trees_via_Max-Heap_Projection)
