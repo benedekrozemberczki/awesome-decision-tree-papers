@@ -131,6 +131,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Pan Li, Zhen Qin, Xuanhui Wang, Donald Metzler
   - [[Paper]](https://ai.google/research/pubs/pub48133/)
   
+- **Partitioning Structure Learning for Segmented Linear Regression Trees (NeurIPS 2019)**
+  - Xiangyu Zheng, Song Xi Chen
+  - [[Paper]](https://papers.nips.cc/paper/8494-partitioning-structure-learning-for-segmented-linear-regression-trees)
+  
 - **Provably Robust Boosted Decision Stumps and Trees against Adversarial Attacks (NeurIPS 2019)**
   - Maksym Andriushchenko, Matthias Hein
   - [[Paper]](https://arxiv.org/abs/1906.03526)
