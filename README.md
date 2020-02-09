@@ -387,7 +387,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Tracking-by-Segmentation with Online Gradient Boosting Decision Tree (ICCV 2015)**
   - Jeany Son, Ilchae Jung, Kayoung Park, Bohyung Han
-  - [[Paper]](Tracking-by-Segmentation with Online Gradient Boosting Decision Tree)
+  - [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Son_Tracking-by-Segmentation_With_Online_ICCV_2015_paper.pdf)
 
 - **Entropy Evaluation Based on Confidence Intervals of Frequency Estimates : Application to the Learning of Decision Trees (ICML 2015)**
   - Mathieu Serrurier, Henri Prade
