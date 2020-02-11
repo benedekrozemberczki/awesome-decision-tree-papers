@@ -39,6 +39,14 @@ A curated list of decision, classification and regression tree research papers w
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
+
+## 2020
+
+- **Learning Optimal Decision Trees Using Caching Branch-and-Bound Search (AAAI 2020)**
+  - Gael Aglin, Siegfried Nijssen, Pierre Schaus
+  - [[Paper]](https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A223390/datastream/PDF_01/view)
+  - [[Code]](https://pypi.org/project/dl8.5/)
+  
 ## 2019
 
 - **Multi-Level Deep Cascade Trees for Conversion Rate Prediction in Recommendation System (AAAI 2019)**
