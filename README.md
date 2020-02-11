@@ -89,6 +89,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Quanshi Zhang, Yu Yang, Haotian Ma, Ying Nian Wu
   - [[Paper]](https://arxiv.org/abs/1802.00121)
   
+- **EDiT: Interpreting Ensemble Models via Compact Soft Decision Trees (ICDM 2019)**
+  - Jaemin Yoo, Lee Sael
+  - [[Paper]](https://github.com/leesael/EDiT/blob/master/docs/YooS19.pdf)
+  - [[Code]](https://github.com/leesael/EDiT)
+
+- **Fair Adversarial Gradient Tree Boosting (ICDM 2019)**
+  - Vincent Grari, Boris Ruf, Sylvain Lamprier, Marcin Detyniecki
+  - [[Paper]]( )
+
 - **Incorporating Grouping Information into Bayesian Decision Tree Ensembles (ICML 2019)**
   - Junliang Du, Antonio R. Linero
   - [[Paper]](http://proceedings.mlr.press/v97/du19d.html)
