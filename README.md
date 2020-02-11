@@ -96,7 +96,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Fair Adversarial Gradient Tree Boosting (ICDM 2019)**
   - Vincent Grari, Boris Ruf, Sylvain Lamprier, Marcin Detyniecki
-  - [[Paper]]( )
+  - [[Paper]](https://arxiv.org/abs/1911.05369)
 
 - **Incorporating Grouping Information into Bayesian Decision Tree Ensembles (ICML 2019)**
   - Junliang Du, Antonio R. Linero
