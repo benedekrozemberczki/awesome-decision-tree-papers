@@ -170,6 +170,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Xiyang Hu, Cynthia Rudin, Margo Seltzer
   - [[Paper]](https://papers.nips.cc/paper/8947-optimal-sparse-decision-trees.pdf)
   - [[Code]](https://github.com/xiyanghu/OSDT)
+  
+- **MonoForest framework for tree ensemble analysis (NeurIPS 2019)**
+  - Igor Kuralenok, Vasilii Ershov, Igor Labutin
+  - [[Paper]](https://papers.nips.cc/paper/9530-monoforest-framework-for-tree-ensemble-analysis)
+  - [[Code]](https://github.com/xiyanghu/OSDT)
 
 - **Calibrating Probability Estimation Trees using Venn-Abers Predictors (SDM 2019)**
   - Ulf Johansson, Tuwe Löfström, Henrik Boström
