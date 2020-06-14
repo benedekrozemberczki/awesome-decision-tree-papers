@@ -53,7 +53,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Efficient Inference of Optimal Decision Trees (AAAI 2020)**
   - Florent Avellaneda
   - [[Paper]](http://florent.avellaneda.free.fr/dl/AAAI20.pdf)
-  - [[Code]]( )
+  - [[Code]](https://github.com/FlorentAvellaneda/InferDT)
 
 - **Learning Optimal Decision Trees Using Caching Branch-and-Bound Search (AAAI 2020)**
   - Gael Aglin, Siegfried Nijssen, Pierre Schaus
