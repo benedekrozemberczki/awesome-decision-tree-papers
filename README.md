@@ -41,11 +41,35 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 
 ## 2020
+  - **Privacy-Preserving Gradient Boosting Decision Trees (AAAI 2020)**
+  - Qinbin Li, Zhaomin Wu, Zeyi Wen, Bingsheng He
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **A Forest from the Trees: Generation through Neighborhoods (AAAI 2020)**
+  - Yang Li, Tianxiang Gao, Junier Oliva
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Practical Federated Gradient Boosting Decision Trees (AAAI 2020)**
+  - Qinbin Li, Zeyi Wen, Bingsheng He
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Efficient Inference of Optimal Decision Trees (AAAI 2020)**
+  - Florent Avellaneda
+  - [[Paper]]( )
+  - [[Code]]( )
 
 - **Learning Optimal Decision Trees Using Caching Branch-and-Bound Search (AAAI 2020)**
   - Gael Aglin, Siegfried Nijssen, Pierre Schaus
   - [[Paper]](https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A223390/datastream/PDF_01/view)
   - [[Code]](https://pypi.org/project/dl8.5/)
+
+- **Abstract Interpretation of Decision Tree Ensemble Classifiers (AAAI 2020)**
+  - Francesco Ranzato, Marco Zanella
+  - [[Paper]]( )
+  - [[Code]]( )
   
 ## 2019
 
