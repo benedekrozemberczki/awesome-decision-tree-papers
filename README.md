@@ -53,8 +53,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Practical Federated Gradient Boosting Decision Trees (AAAI 2020)**
   - Qinbin Li, Zeyi Wen, Bingsheng He
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1911.04206)
 
 - **Efficient Inference of Optimal Decision Trees (AAAI 2020)**
   - Florent Avellaneda
