@@ -41,10 +41,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 
 ## 2020
-  - **Privacy-Preserving Gradient Boosting Decision Trees (AAAI 2020)**
+
+- **Privacy-Preserving Gradient Boosting Decision Trees (AAAI 2020)**
   - Qinbin Li, Zhaomin Wu, Zeyi Wen, Bingsheng He
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1911.04209)
 
 - **A Forest from the Trees: Generation through Neighborhoods (AAAI 2020)**
   - Yang Li, Tianxiang Gao, Junier Oliva
