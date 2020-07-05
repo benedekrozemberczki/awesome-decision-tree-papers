@@ -64,6 +64,31 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Francesco Ranzato, Marco Zanella
   - [[Paper]](https://www.math.unipd.it/~ranzato/papers/aaai20.pdf)
   - [[Code]](https://github.com/abstract-machine-learning/silva)
+
+- **Scalable Feature Selection for %28Multitask%29 Gradient Boosted Trees (AISTATS 2020)**
+  - Cuize Han, Nikhil Rao, Daria Sorokina, Karthik Subbian
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Additive Tree-Structured Covariance Function for Conditional Parameter Spaces in Bayesian Optimization (AISTATS 2020)**
+  - Xingchen Ma, Matthew B. Blaschko
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Optimization Methods for Interpretable Differentiable Decision Trees Applied to Reinforcement Learning (AISTATS 2020)**
+  - Andrew Silva, Matthew C. Gombolay, Taylor W. Killian, Ivan Dario Jimenez Jimenez, Sung-Hyun Son
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Exploiting Categorical Structure Using Tree-Based Methods (AISTATS 2020)**
+  - Brian Lucena
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **LdSM: Logarithm-depth Streaming Multi-label Decision Trees (AISTATS 2020)**
+  - Maryam Majzoubi, Anna Choromanska
+  - [[Paper]]( )
+  - [[Code]]( )
   
 ## 2019
 
