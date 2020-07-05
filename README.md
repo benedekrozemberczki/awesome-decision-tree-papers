@@ -76,7 +76,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Exploiting Categorical Structure Using Tree-Based Methods (AISTATS 2020)**
   - Brian Lucena
   - [[Paper]](https://arxiv.org/abs/2004.07383)
-  - [[Code]]( )
 
 - **LdSM: Logarithm-depth Streaming Multi-label Decision Trees (AISTATS 2020)**
   - Maryam Majzoubi, Anna Choromanska
