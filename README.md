@@ -65,10 +65,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://www.math.unipd.it/~ranzato/papers/aaai20.pdf)
   - [[Code]](https://github.com/abstract-machine-learning/silva)
 
-- **Scalable Feature Selection for %28Multitask%29 Gradient Boosted Trees (AISTATS 2020)**
+- **Scalable Feature Selection for (Multitask) Gradient Boosted Trees (AISTATS 2020)**
   - Cuize Han, Nikhil Rao, Daria Sorokina, Karthik Subbian
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v108/han20a.html)
 
 - **Additive Tree-Structured Covariance Function for Conditional Parameter Spaces in Bayesian Optimization (AISTATS 2020)**
   - Xingchen Ma, Matthew B. Blaschko
