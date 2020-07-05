@@ -80,8 +80,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **LdSM: Logarithm-depth Streaming Multi-label Decision Trees (AISTATS 2020)**
   - Maryam Majzoubi, Anna Choromanska
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1905.10428)
   
 ## 2019
 
