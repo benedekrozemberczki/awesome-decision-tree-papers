@@ -69,15 +69,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Cuize Han, Nikhil Rao, Daria Sorokina, Karthik Subbian
   - [[Paper]](http://proceedings.mlr.press/v108/han20a.html)
 
-- **Additive Tree-Structured Covariance Function for Conditional Parameter Spaces in Bayesian Optimization (AISTATS 2020)**
-  - Xingchen Ma, Matthew B. Blaschko
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **Optimization Methods for Interpretable Differentiable Decision Trees Applied to Reinforcement Learning (AISTATS 2020)**
   - Andrew Silva, Matthew C. Gombolay, Taylor W. Killian, Ivan Dario Jimenez Jimenez, Sung-Hyun Son
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1903.09338)
 
 - **Exploiting Categorical Structure Using Tree-Based Methods (AISTATS 2020)**
   - Brian Lucena
