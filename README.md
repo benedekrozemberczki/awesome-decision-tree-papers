@@ -42,6 +42,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## 2020
 
+- **Oblique Decision Trees from Derivatives of ReLU Networks (ICLR 2020)**
+  - Guang-He Lee, Tommi S. Jaakkola
+  - [[Paper]](https://openreview.net/pdf?id=Bke8UR4FPB)
+  - [[Code]](https://github.com/guanghelee/iclr20-lcn)
+
 - **Privacy-Preserving Gradient Boosting Decision Trees (AAAI 2020)**
   - Qinbin Li, Zhaomin Wu, Zeyi Wen, Bingsheng He
   - [[Paper]](https://arxiv.org/abs/1911.04209)
@@ -140,6 +145,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Vincent Grari, Boris Ruf, Sylvain Lamprier, Marcin Detyniecki
   - [[Paper]](https://arxiv.org/abs/1911.05369)
 
+- **Functional Transparency for Structured Data: a Game-Theoretic Approach (ICML 2019)**
+  - Guang-He Lee, Wengong Jin, David Alvarez-Melis, Tommi S. Jaakkola
+  - [[Paper]](http://proceedings.mlr.press/v97/lee19b/lee19b.pdf)
+  
 - **Incorporating Grouping Information into Bayesian Decision Tree Ensembles (ICML 2019)**
   - Junliang Du, Antonio R. Linero
   - [[Paper]](http://proceedings.mlr.press/v97/du19d.html)
@@ -182,6 +191,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Pan Li, Zhen Qin, Xuanhui Wang, Donald Metzler
   - [[Paper]](https://ai.google/research/pubs/pub48133/)
   
+- **Tight Certificates of Adversarial Robustness for Randomly Smoothed Classifiers (NeurIPS 2019)**
+  - Guang-He Lee, Yang Yuan, Shiyu Chang, Tommi S. Jaakkola
+  - [[Paper]](https://papers.nips.cc/paper/8737-tight-certificates-of-adversarial-robustness-for-randomly-smoothed-classifiers.pdf)
+  - [[Code]](https://github.com/guanghelee/Randomized_Smoothing)
+
 - **Partitioning Structure Learning for Segmented Linear Regression Trees (NeurIPS 2019)**
   - Xiangyu Zheng, Song Xi Chen
   - [[Paper]](https://papers.nips.cc/paper/8494-partitioning-structure-learning-for-segmented-linear-regression-trees)
