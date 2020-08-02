@@ -92,8 +92,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Speeding up Very Fast Decision Tree with Low Computational Cost (IJCAI 2020)**
   - Jian Sun, Hongyu Jia, Bo Hu, Xiao Huang, Hao Zhang, Hai Wan, Xibin Zhao
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/2020/0177.pdf)
 
 - **PyDL8.5: a Library for Learning Optimal Decision Trees (IJCAI 2020)**
   - Gaël Aglin, Siegfried Nijssen, Pierre Schaus
