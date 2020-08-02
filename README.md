@@ -101,6 +101,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]]( )
   - [[Code]]( )
   
+- **Evidence Weighted Tree Ensembles for Text Classification (SIGIR 2020)**
+  - Md. Zahidul Islam, Jixue Liu, Jiuyong Li, Lin Liu, Wei Kang
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 ## 2019
 
 - **Multi-Level Deep Cascade Trees for Conversion Rate Prediction in Recommendation System (AAAI 2019)**
