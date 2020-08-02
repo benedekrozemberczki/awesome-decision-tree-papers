@@ -86,6 +86,21 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Maryam Majzoubi, Anna Choromanska
   - [[Paper]](https://arxiv.org/abs/1905.10428)
   
+- **Learning Optimal Decision Trees with MaxSAT and its Integration in AdaBoost (IJCAI 2020)**
+  - Hao Hu, Mohamed Siala, Emmanuel Hebrard, Marie-José Huguet
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Speeding up Very Fast Decision Tree with Low Computational Cost (IJCAI 2020)**
+  - Jian Sun, Hongyu Jia, Bo Hu, Xiao Huang, Hao Zhang, Hai Wan, Xibin Zhao
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **PyDL8.5: a Library for Learning Optimal Decision Trees (IJCAI 2020)**
+  - Gaël Aglin, Siegfried Nijssen, Pierre Schaus
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 ## 2019
 
 - **Multi-Level Deep Cascade Trees for Conversion Rate Prediction in Recommendation System (AAAI 2019)**
