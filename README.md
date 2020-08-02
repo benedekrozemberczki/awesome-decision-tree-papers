@@ -88,8 +88,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 - **Learning Optimal Decision Trees with MaxSAT and its Integration in AdaBoost (IJCAI 2020)**
   - Hao Hu, Mohamed Siala, Emmanuel Hebrard, Marie-José Huguet
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/2020/0177.pdf)
 
 - **Speeding up Very Fast Decision Tree with Low Computational Cost (IJCAI 2020)**
   - Jian Sun, Hongyu Jia, Bo Hu, Xiao Huang, Hao Zhang, Hai Wan, Xibin Zhao
