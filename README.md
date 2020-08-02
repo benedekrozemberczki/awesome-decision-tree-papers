@@ -42,11 +42,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## 2020
 
-- **Oblique Decision Trees from Derivatives of ReLU Networks (ICLR 2020)**
-  - Guang-He Lee, Tommi S. Jaakkola
-  - [[Paper]](https://openreview.net/pdf?id=Bke8UR4FPB)
-  - [[Code]](https://github.com/guanghelee/iclr20-lcn)
-
 - **Privacy-Preserving Gradient Boosting Decision Trees (AAAI 2020)**
   - Qinbin Li, Zhaomin Wu, Zeyi Wen, Bingsheng He
   - [[Paper]](https://arxiv.org/abs/1911.04209)
@@ -85,6 +80,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **LdSM: Logarithm-depth Streaming Multi-label Decision Trees (AISTATS 2020)**
   - Maryam Majzoubi, Anna Choromanska
   - [[Paper]](https://arxiv.org/abs/1905.10428)
+  
+- **Oblique Decision Trees from Derivatives of ReLU Networks (ICLR 2020)**
+  - Guang-He Lee, Tommi S. Jaakkola
+  - [[Paper]](https://openreview.net/pdf?id=Bke8UR4FPB)
+  - [[Code]](https://github.com/guanghelee/iclr20-lcn)
   
 - **Learning Optimal Decision Trees with MaxSAT and its Integration in AdaBoost (IJCAI 2020)**
   - Hao Hu, Mohamed Siala, Emmanuel Hebrard, Marie-José Huguet
