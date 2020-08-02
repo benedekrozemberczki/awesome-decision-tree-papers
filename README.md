@@ -98,13 +98,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **PyDL8.5: a Library for Learning Optimal Decision Trees (IJCAI 2020)**
   - Gaël Aglin, Siegfried Nijssen, Pierre Schaus
-  - [[Paper]]( )
+  - [[Paper]]()
   - [[Code]]( )
   
 - **Evidence Weighted Tree Ensembles for Text Classification (SIGIR 2020)**
   - Md. Zahidul Islam, Jixue Liu, Jiuyong Li, Lin Liu, Wei Kang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3397271.3401229)
   
 ## 2019
 
