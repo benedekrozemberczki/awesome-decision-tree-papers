@@ -42,6 +42,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## 2020
 
+- **DTCA: Decision Tree-based Co-Attention Networks for Explainable Claim Verification (ACL 2020)**
+  - Lianwei Wu, Yuan Rao, Yongqiang Zhao, Hao Liang, Ambreen Nazir
+  - [[Paper]](https://arxiv.org/abs/2004.13455)
+
 - **Privacy-Preserving Gradient Boosting Decision Trees (AAAI 2020)**
   - Qinbin Li, Zhaomin Wu, Zeyi Wen, Bingsheng He
   - [[Paper]](https://arxiv.org/abs/1911.04209)
