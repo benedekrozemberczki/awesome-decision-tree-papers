@@ -90,6 +90,41 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://openreview.net/pdf?id=Bke8UR4FPB)
   - [[Code]](https://github.com/guanghelee/iclr20-lcn)
   
+- **Provable Guarantees for Decision Tree Induction: the Agnostic Setting (ICML 2020)**
+  - Guy Blanc, Jane Lange, Li-Yang Tan
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Decision Trees for Decision-Making under the Predict-then-Optimize Framework (ICML 2020)**
+  - Adam N. Elmachtoub, Jason Cheuk Nam Liang, Ryan McNellis
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **The Tree Ensemble Layer: Differentiability meets Conditional Computation (ICML 2020)**
+  - Hussein Hazimeh, Natalia Ponomareva, Petros Mol, Zhenyu Tan, Rahul Mazumder
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Generalized and Scalable Optimal Sparse Decision Trees (ICML 2020)**
+  - Jimmy Lin, Chudi Zhong, Diane Hu, Cynthia Rudin, Margo I. Seltzer
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Born-Again Tree Ensembles (ICML 2020)**
+  - Thibaut Vidal, Maximilian Schiffer
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **On Lp-norm Robustness of Ensemble Decision Stumps and Trees (ICML 2020)**
+  - Yihan Wang, Huan Zhang, Hongge Chen, Duane S. Boning, Cho-Jui Hsieh
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Smaller, More Accurate Regression Forests Using Tree Alternating Optimization (ICML 2020)**
+  - Arman Zharmagambetov, Miguel Á. Carreira-Perpinan
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 - **Learning Optimal Decision Trees with MaxSAT and its Integration in AdaBoost (IJCAI 2020)**
   - Hao Hu, Mohamed Siala, Emmanuel Hebrard, Marie-José Huguet
   - [[Paper]](https://www.ijcai.org/Proceedings/2020/163)
