@@ -118,8 +118,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Smaller, More Accurate Regression Forests Using Tree Alternating Optimization (ICML 2020)**
   - Arman Zharmagambetov, Miguel Á. Carreira-Perpinan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v119/zharmagambetov20a.html)
   
 - **Learning Optimal Decision Trees with MaxSAT and its Integration in AdaBoost (IJCAI 2020)**
   - Hao Hu, Mohamed Siala, Emmanuel Hebrard, Marie-José Huguet
