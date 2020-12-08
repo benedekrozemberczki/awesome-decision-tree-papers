@@ -105,7 +105,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Generalized and Scalable Optimal Sparse Decision Trees (ICML 2020)**
   - Jimmy Lin, Chudi Zhong, Diane Hu, Cynthia Rudin, Margo I. Seltzer
-  - [[Paper]]( )
+  - [[Paper]](https://arxiv.org/abs/2006.08690)
   - [[Code]]( )
 
 - **Born-Again Tree Ensembles (ICML 2020)**
