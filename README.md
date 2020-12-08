@@ -96,8 +96,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Decision Trees for Decision-Making under the Predict-then-Optimize Framework (ICML 2020)**
   - Adam N. Elmachtoub, Jason Cheuk Nam Liang, Ryan McNellis
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2003.00360)
 
 - **The Tree Ensemble Layer: Differentiability meets Conditional Computation (ICML 2020)**
   - Hussein Hazimeh, Natalia Ponomareva, Petros Mol, Zhenyu Tan, Rahul Mazumder
