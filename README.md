@@ -110,7 +110,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Born-Again Tree Ensembles (ICML 2020)**
   - Thibaut Vidal, Maximilian Schiffer
-  - [[Paper]]( )
+  - [[Paper]](https://arxiv.org/abs/2003.11132)
   - [[Code]]( )
 
 - **On Lp-norm Robustness of Ensemble Decision Stumps and Trees (ICML 2020)**
