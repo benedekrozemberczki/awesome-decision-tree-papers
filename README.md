@@ -92,8 +92,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 - **Provable Guarantees for Decision Tree Induction: the Agnostic Setting (ICML 2020)**
   - Guy Blanc, Jane Lange, Li-Yang Tan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2006.00743v1)
 
 - **Decision Trees for Decision-Making under the Predict-then-Optimize Framework (ICML 2020)**
   - Adam N. Elmachtoub, Jason Cheuk Nam Liang, Ryan McNellis
