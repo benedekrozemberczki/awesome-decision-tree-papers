@@ -114,8 +114,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **On Lp-norm Robustness of Ensemble Decision Stumps and Trees (ICML 2020)**
   - Yihan Wang, Huan Zhang, Hongge Chen, Duane S. Boning, Cho-Jui Hsieh
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2008.08755)
 
 - **Smaller, More Accurate Regression Forests Using Tree Alternating Optimization (ICML 2020)**
   - Arman Zharmagambetov, Miguel Á. Carreira-Perpinan
