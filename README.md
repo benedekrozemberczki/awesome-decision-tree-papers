@@ -100,7 +100,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **The Tree Ensemble Layer: Differentiability meets Conditional Computation (ICML 2020)**
   - Hussein Hazimeh, Natalia Ponomareva, Petros Mol, Zhenyu Tan, Rahul Mazumder
-  - [[Paper]]( )
+  - [[Paper]](https://arxiv.org/abs/2002.07772)
   - [[Code]]( )
 
 - **Generalized and Scalable Optimal Sparse Decision Trees (ICML 2020)**
