@@ -1407,3 +1407,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Decision Tree Induction Systems: A Bayesian Analysis (UAI 1987)**
   - Wray L. Buntine
   - [[Paper]](https://arxiv.org/abs/1304.2732)
+  
+--------------------------------------------------------------------------------
+
+**License**
+
+- [CC0 Universal](https://github.com/benedekrozemberczki/awesome-decision-tree-papers/blob/master/LICENSE)
