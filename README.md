@@ -46,7 +46,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Online Probabilistic Label Trees (AISTATS 2021)**
   - Kalina Jasinska-Kobus, Marek Wydmuch, Devanathan Thiruvenkatachari, Krzysztof Dembczyński
   - [[Paper]](https://arxiv.org/abs/2007.04451)
-  - [[Code]](https://pypi.org/project/dl8.5)
+  - [[Code]](https://github.com/mwydmuch/napkinXC)
 
 ## 2020
 
