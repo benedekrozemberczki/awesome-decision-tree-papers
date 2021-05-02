@@ -43,7 +43,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## 2021
 
-- **Scalable Feature Selection for (Multitask) Gradient Boosted Trees (AISTATS 2020)**
+- **Online Probabilistic Label Trees (AISTATS 2020)**
   - Cuize Han, Nikhil Rao, Daria Sorokina, Karthik Subbian
   - [[Paper]](http://proceedings.mlr.press/v108/han20a.html)
   - [[Code]](https://pypi.org/project/dl8.5/)
