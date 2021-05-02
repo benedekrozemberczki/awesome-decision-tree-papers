@@ -43,7 +43,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## 2021
 
-- **Online Probabilistic Label Trees (AISTATS 2020)**
+- **Online Probabilistic Label Trees (AISTATS 2021)**
   - Cuize Han, Nikhil Rao, Daria Sorokina, Karthik Subbian
   - [[Paper]](https://arxiv.org/abs/2007.04451)
   - [[Code]](https://pypi.org/project/dl8.5)
