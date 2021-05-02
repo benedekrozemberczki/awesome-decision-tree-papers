@@ -41,6 +41,13 @@ A curated list of decision, classification and regression tree research papers w
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 
+## 2021
+
+- **Scalable Feature Selection for (Multitask) Gradient Boosted Trees (AISTATS 2020)**
+  - Cuize Han, Nikhil Rao, Daria Sorokina, Karthik Subbian
+  - [[Paper]](http://proceedings.mlr.press/v108/han20a.html)
+  - [[Code]](https://pypi.org/project/dl8.5/)
+
 ## 2020
 
 - **DTCA: Decision Tree-based Co-Attention Networks for Explainable Claim Verification (ACL 2020)**
