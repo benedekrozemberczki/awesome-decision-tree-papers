@@ -142,23 +142,8 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://www.ijcai.org/Proceedings/2020/0750.pdf)
   - [[Code]](https://github.com/aia-uclouvain/pydl8.5)
 
-- **Tree%21 I am no Tree%21 I am a low dimensional Hyperbolic Embedding (NIPS 2020)**
-  - Rishi Sonthalia, Anna C. Gilbert
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **A Scalable MIP-based Method for Learning Optimal Multivariate Decision Trees (NIPS 2020)**
   - Haoran Zhu, Pavankumar Murali, Dzung T. Phan, Lam M. Nguyen, Jayant Kalagnanam
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Rethinking Learnable Tree Filter for Generic Feature Transform (NIPS 2020)**
-  - Lin Song, Yanwei Li, Zhengkai Jiang, Zeming Li, Xiangyu Zhang, Hongbin Sun, Jian Sun, Nanning Zheng
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Bayesian Probabilistic Numerical Integration with Tree-Based Models (NIPS 2020)**
-  - Harrison Zhu, Xing Liu, Ruya Kang, Zhichao Shen, Seth Flaxman, François-Xavier Briol
   - [[Paper]]( )
   - [[Code]]( )
 
@@ -166,24 +151,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Guy Blanc, Neha Gupta, Jane Lange, Li-Yang Tan
   - [[Paper]]( )
   - [[Code]]( )
-
-- **Barking up the right tree: an approach to search over molecule synthesis DAGs (NIPS 2020)**
-  - John Bradshaw, Brooks Paige, Matt J. Kusner, Marwin H. S. Segler, José Miguel Hernández-Lobato
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **UCSG-NET- Unsupervised Discovering of Constructive Solid Geometry Tree (NIPS 2020)**
-  - Kacper Kania, Maciej Zieba, Tomasz Kajdanowicz
-  - [[Paper]]( )
-  - [[Code]]( )
-
+ 
 - **Universal guarantees for decision tree induction via a higher-order splitting criterion (NIPS 2020)**
   - Guy Blanc, Neha Gupta, Jane Lange, Li-Yang Tan
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Mix and Match: An Optimistic Tree-Search Approach for Learning Models from Mixture Distributions (NIPS 2020)**
-  - Matthew Faw, Rajat Sen, Karthikeyan Shanmugam, Constantine Caramanis, Sanjay Shakkottai
   - [[Paper]]( )
   - [[Code]]( )
 
@@ -192,18 +162,8 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]]( )
   - [[Code]]( )
 
-- **From Trees to Continuous Embeddings and Back: Hyperbolic Hierarchical Clustering (NIPS 2020)**
-  - Ines Chami, Albert Gu, Vaggos Chatziafratis, Christopher Ré
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **An Efficient Adversarial Attack for Tree Ensembles (NIPS 2020)**
   - Chong Zhang, Huan Zhang, Cho-Jui Hsieh
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Efficient Nonmyopic Bayesian Optimization via One-Shot Multi-Step Trees (NIPS 2020)**
-  - Shali Jiang, Daniel R. Jiang, Maximilian Balandat, Brian Karrer, Jacob R. Gardner, Roman Garnett
   - [[Paper]]( )
   - [[Code]]( )
 
