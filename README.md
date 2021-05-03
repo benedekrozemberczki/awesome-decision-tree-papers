@@ -165,8 +165,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Decision Trees as Partitioning Machines to Characterize their Generalization Properties (NeurIPS 2020)**
   - Jean-Samuel Leboeuf, Frédéric Leblanc, Mario Marchand
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/2020/file/d2a10b0bd670e442b1d3caa3fbf9e695-Paper.pdf)
   
 - **Evidence Weighted Tree Ensembles for Text Classification (SIGIR 2020)**
   - Md. Zahidul Islam, Jixue Liu, Jiuyong Li, Lin Liu, Wei Kang
