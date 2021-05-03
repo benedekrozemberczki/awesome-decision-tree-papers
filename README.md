@@ -144,10 +144,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **A Scalable MIP-based Method for Learning Optimal Multivariate Decision Trees (NeurIPS 2020)**
   - Haoran Zhu, Pavankumar Murali, Dzung T. Phan, Lam M. Nguyen, Jayant Kalagnanam
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2011.03375)
 
-- **Estimating decision tree learnability with polylogarithmic sample complexity (NeurIPS 2020)**
+- **Estimating Decision Tree Learnability with Polylogarithmic Sample Complexity (NeurIPS 2020)**
   - Guy Blanc, Neha Gupta, Jane Lange, Li-Yang Tan
   - [[Paper]]( )
   - [[Code]]( )
