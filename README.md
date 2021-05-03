@@ -163,7 +163,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://arxiv.org/abs/2010.11598)
   - [[Code]](https://github.com/chong-z/tree-ensemble-attack)
 
-- **Decision trees as partitioning machines to characterize their generalization properties (NeurIPS 2020)**
+- **Decision Trees as Partitioning Machines to Characterize their Generalization Properties (NeurIPS 2020)**
   - Jean-Samuel Leboeuf, Frédéric Leblanc, Mario Marchand
   - [[Paper]]( )
   - [[Code]]( )
