@@ -142,32 +142,32 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://www.ijcai.org/Proceedings/2020/0750.pdf)
   - [[Code]](https://github.com/aia-uclouvain/pydl8.5)
 
-- **A Scalable MIP-based Method for Learning Optimal Multivariate Decision Trees (NIPS 2020)**
+- **A Scalable MIP-based Method for Learning Optimal Multivariate Decision Trees (NeurIPS 2020)**
   - Haoran Zhu, Pavankumar Murali, Dzung T. Phan, Lam M. Nguyen, Jayant Kalagnanam
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Estimating decision tree learnability with polylogarithmic sample complexity (NIPS 2020)**
+- **Estimating decision tree learnability with polylogarithmic sample complexity (NeurIPS 2020)**
   - Guy Blanc, Neha Gupta, Jane Lange, Li-Yang Tan
   - [[Paper]]( )
   - [[Code]]( )
  
-- **Universal guarantees for decision tree induction via a higher-order splitting criterion (NIPS 2020)**
+- **Universal guarantees for decision tree induction via a higher-order splitting criterion (NeurIPS 2020)**
   - Guy Blanc, Neha Gupta, Jane Lange, Li-Yang Tan
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Smooth And Consistent Probabilistic Regression Trees (NIPS 2020)**
+- **Smooth And Consistent Probabilistic Regression Trees (NeurIPS 2020)**
   - Sami Alkhoury, Emilie Devijver, Marianne Clausel, Myriam Tami, Éric Gaussier, Georges Oppenheim
   - [[Paper]]( )
   - [[Code]]( )
 
-- **An Efficient Adversarial Attack for Tree Ensembles (NIPS 2020)**
+- **An Efficient Adversarial Attack for Tree Ensembles (NeurIPS 2020)**
   - Chong Zhang, Huan Zhang, Cho-Jui Hsieh
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Decision trees as partitioning machines to characterize their generalization properties (NIPS 2020)**
+- **Decision trees as partitioning machines to characterize their generalization properties (NeurIPS 2020)**
   - Jean-Samuel Leboeuf, Frédéric Leblanc, Mario Marchand
   - [[Paper]]( )
   - [[Code]]( )
