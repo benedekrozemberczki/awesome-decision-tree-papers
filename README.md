@@ -156,8 +156,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Smooth And Consistent Probabilistic Regression Trees (NeurIPS 2020)**
   - Sami Alkhoury, Emilie Devijver, Marianne Clausel, Myriam Tami, Éric Gaussier, Georges Oppenheim
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/2020/file/8289889263db4a40463e3f358bb7c7a1-Paper.pdf)
 
 - **An Efficient Adversarial Attack for Tree Ensembles (NeurIPS 2020)**
   - Chong Zhang, Huan Zhang, Cho-Jui Hsieh
