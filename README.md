@@ -160,8 +160,8 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **An Efficient Adversarial Attack for Tree Ensembles (NeurIPS 2020)**
   - Chong Zhang, Huan Zhang, Cho-Jui Hsieh
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2010.11598)
+  - [[Code]](https://github.com/chong-z/tree-ensemble-attack)
 
 - **Decision trees as partitioning machines to characterize their generalization properties (NeurIPS 2020)**
   - Jean-Samuel Leboeuf, Frédéric Leblanc, Mario Marchand
