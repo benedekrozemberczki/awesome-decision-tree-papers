@@ -150,10 +150,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Guy Blanc, Neha Gupta, Jane Lange, Li-Yang Tan
   - [[Paper]](https://arxiv.org/abs/2011.01584)
  
-- **Universal guarantees for decision tree induction via a higher-order splitting criterion (NeurIPS 2020)**
+- **Universal Guarantees for Decision Tree Induction via a Higher-Order Splitting Criterion (NeurIPS 2020)**
   - Guy Blanc, Neha Gupta, Jane Lange, Li-Yang Tan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2010.08633)
 
 - **Smooth And Consistent Probabilistic Regression Trees (NeurIPS 2020)**
   - Sami Alkhoury, Emilie Devijver, Marianne Clausel, Myriam Tami, Éric Gaussier, Georges Oppenheim
