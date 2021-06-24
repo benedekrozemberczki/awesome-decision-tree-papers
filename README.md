@@ -7,7 +7,7 @@
   <img width="300" src="tree.png">
 </p>
 
-A curated list of decision, classification and regression tree research papers with implementations from the following conferences:
+A curated list of classification and regression tree research papers with implementations from the following conferences:
 
 - Machine learning
    * [NeurIPS](https://nips.cc/) 
