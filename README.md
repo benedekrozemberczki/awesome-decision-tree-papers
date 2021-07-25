@@ -77,8 +77,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Versatile Verification of Tree Ensembles (ICML 2021)**
   - Laurens Devos, Wannes Meert, Jesse Davis
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2010.13880)
 
 - **Connecting Interpretability and Robustness in Decision Trees through Separation (ICML 2021)**
   - Michal Moshkovitz, Yao-Yuan Yang, Kamalika Chaudhuri
