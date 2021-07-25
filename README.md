@@ -62,18 +62,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Counterfactual Explanations for Oblique Decision Trees: Exact - Efficient Algorithms (AAAI 2021)**
   - Miguel Á. Carreira-Perpiñán, Suryabhan Singh Hada
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2103.01096)
 
 - **Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees (ICLR 2021)**
   - Zhen Qin, Le Yan, Honglei Zhuang, Yi Tay, Rama Kumar Pasumarthi, Xuanhui Wang, Michael Bendersky, Marc Najork
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://openreview.net/forum?id=Ut1vF_q_vC)
 
 - **NBDT: Neural-Backed Decision Tree (ICLR 2021)**
   - Alvin Wan, Lisa Dunlap, Daniel Ho, Jihan Yin, Scott Lee, Suzanne Petryk, Sarah Adel Bargal, Joseph E. Gonzalez
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2004.00221)
 
 - **Versatile Verification of Tree Ensembles (ICML 2021)**
   - Laurens Devos, Wannes Meert, Jesse Davis
