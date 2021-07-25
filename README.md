@@ -50,13 +50,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Optimal Decision Trees for Nonlinear Metrics (AAAI 2021)**
   - Emir Demirovic, Peter J. Stuckey
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2009.06921)
 
 - **SAT-based Decision Tree Learning for Large Data Sets (AAAI 2021)**
   - André Schidler, Stefan Szeider
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]]()
 
 - **Parameterized Complexity of Small Decision Tree Learning (AAAI 2021)**
   - Sebastian Ordyniak, Stefan Szeider
