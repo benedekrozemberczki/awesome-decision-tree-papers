@@ -58,8 +58,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Parameterized Complexity of Small Decision Tree Learning (AAAI 2021)**
   - Sebastian Ordyniak, Stefan Szeider
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ac.tuwien.ac.at/files/tr/ac-tr-21-002.pdf)
 
 - **Counterfactual Explanations for Oblique Decision Trees: Exact%2C Efficient Algorithms (AAAI 2021)**
   - Miguel Á. Carreira-Perpiñán, Suryabhan Singh Hada
@@ -98,8 +97,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Learning Binary Decision Trees by Argmin Differentiation (ICML 2021)**
   - Valentina Zantedeschi, Matt J. Kusner, Vlad Niculae
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/pdf/2010.04627.pdf)
 
 ## 2020
 
