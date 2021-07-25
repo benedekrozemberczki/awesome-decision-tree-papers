@@ -47,6 +47,271 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Kalina Jasinska-Kobus, Marek Wydmuch, Devanathan Thiruvenkatachari, Krzysztof Dembczyński
   - [[Paper]](https://arxiv.org/abs/2007.04451)
   - [[Code]](https://github.com/mwydmuch/napkinXC)
+## 2021
+- **TreeCaps: Tree-Based Capsule Networks for Source Code Processing (AAAI 2021)**
+  - Nghi D. Q. Bui, Yijun Yu, Lingxiao Jiang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Diagnose Like A Pathologist: Weakly-Supervised Pathologist-Tree Network for Slide-Level Immunohistochemical Scoring (AAAI 2021)**
+  - Zhen Chen, Jun Zhang, Shuanlong Che, Junzhou Huang, Xiao Han, Yixuan Yuan
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Learning to Stop: Dynamic Simulation Monte-Carlo Tree Search (AAAI 2021)**
+  - Li-Cheng Lan, Ti-Rong Wu, I-Chen Wu, Cho-Jui Hsieh
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Predicting Livelihood Indicators from Community-Generated Street-Level Imagery (AAAI 2021)**
+  - Jihyeon Janel Lee, Dylan Grosz, Burak Uzkent, Sicheng Zeng, Marshall Burke, David B. Lobell, Stefano Ermon
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Optimal Decision Trees for Nonlinear Metrics (AAAI 2021)**
+  - Emir Demirovic, Peter J. Stuckey
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Finding Diverse Trees%2C Paths%2C and More (AAAI 2021)**
+  - Tesshu Hanaka, Yasuaki Kobayashi, Kazuhiro Kurita, Yota Otachi
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Turbocharging Treewidth-Bounded Bayesian Network Structure Learning (AAAI 2021)**
+  - Vaidyanathan Peruvemba Ramaswamy, Stefan Szeider
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **SAT-based Decision Tree Learning for Large Data Sets (AAAI 2021)**
+  - André Schidler, Stefan Szeider
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Parameterizing Branch-and-Bound Search Trees to Learn Branching Policies (AAAI 2021)**
+  - Giulia Zarpellon, Jason Jo, Andrea Lodi, Yoshua Bengio
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Efficient Optimal Selection for Composited Advertising Creatives with Tree Structure (AAAI 2021)**
+  - Jin Chen, Tiezheng Ge, Gangwei Jiang, Zhiqiang Zhang, Defu Lian, Kai Zheng
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **BT Expansion: a Sound and Complete Algorithm for Behavior Planning of Intelligent Robots with Behavior Trees (AAAI 2021)**
+  - Zhongxuan Cai, Minglong Li, Wanrong Huang, Wenjing Yang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Treewidth-Aware Complexity in ASP: Not all Positive Cycles are Equally Hard (AAAI 2021)**
+  - Jorge Fandinno, Markus Hecher
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Parameterized Complexity of Small Decision Tree Learning (AAAI 2021)**
+  - Sebastian Ordyniak, Stefan Szeider
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **eTREE: Learning Tree-structured Embeddings (AAAI 2021)**
+  - Faisal M. Almutairi, Yunlong Wang, Dong Wang, Emily Zhao, Nicholas D. Sidiropoulos
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Ordinal Historical Dependence in Graphical Event Models with Tree Representations (AAAI 2021)**
+  - Debarun Bhattacharjya, Tian Gao, Dharmashankar Subramanian
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Counterfactual Explanations for Oblique Decision Trees: Exact%2C Efficient Algorithms (AAAI 2021)**
+  - Miguel Á. Carreira-Perpiñán, Suryabhan Singh Hada
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **High-Dimensional Bayesian Optimization via Tree-Structured Additive Models (AAAI 2021)**
+  - Eric Han, Ishank Arora, Jonathan Scarlett
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **GoT: a Growing Tree Model for Clustering Ensemble (AAAI 2021)**
+  - Feijiang Li, Yuhua Qian, Jieting Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **PAC Learning of Causal Trees with Latent Variables (AAAI 2021)**
+  - Prasad Tadepalli, Stuart J. Russell
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Dec-SGTS: Decentralized Sub-Goal Tree Search for Multi-Agent Coordination (AAAI 2021)**
+  - Minglong Li, Zhongxuan Cai, Wenjing Yang, Lixia Wu, Yinghui Xu, Ji Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **TripleTree: A Versatile Interpretable Representation of Black Box Agents and their Environments (AAAI 2021)**
+  - Tom Bewley, Jonathan Lawry
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Improved POMDP Tree Search Planning with Prioritized Action Branching (AAAI 2021)**
+  - John Mern, Anil Yildiz, Lawrence Bush, Tapan Mukerji, Mykel J. Kochenderfer
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Dynamic Automaton-Guided Reward Shaping for Monte Carlo Tree Search (AAAI 2021)**
+  - Alvaro Velasquez, Brett Bissey, Lior Barak, Andre Beckus, Ismail Alkhouri, Daniel Melcer, George K. Atia
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Parameterized Algorithms for MILPs with Small Treedepth (AAAI 2021)**
+  - Cornelius Brand, Martin Koutecký, Sebastian Ordyniak
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Single Player Monte-Carlo Tree Search Based on the Plackett-Luce Model (AAAI 2021)**
+  - Felix Mohr, Viktor Bengs, Eyke Hüllermeier
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Nested Named Entity Recognition with Partially-Observed TreeCRFs (AAAI 2021)**
+  - Yao Fu, Chuanqi Tan, Mosha Chen, Songfang Huang, Fei Huang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Story Ending Generation with Multi-Level Graph Convolutional Networks over Dependency Trees (AAAI 2021)**
+  - Qingbao Huang, Linzhang Mo, Pijian Li, Yi Cai, Qingguang Liu, Jielong Wei, Qing Li, Ho-fung Leung
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Unsupervised Learning of Discourse Structures using a Tree Autoencoder (AAAI 2021)**
+  - Patrick Huber, Giuseppe Carenini
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Code Completion by Modeling Flattened Abstract Syntax Trees as Graphs (AAAI 2021)**
+  - Yanlin Wang, Hui Li
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Improving Tree-Structured Decoder Training for Code Generation via Mutual Learning (AAAI 2021)**
+  - Binbin Xie, Jinsong Su, Yubin Ge, Xiang Li, Jianwei Cui, Junfeng Yao, Bin Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Building Interpretable Interaction Trees for Deep NLP Models (AAAI 2021)**
+  - Die Zhang, Hao Zhang, Huilin Zhou, Xiaoyi Bao, Da Huo, Ruizhao Chen, Xu Cheng, Mengyue Wu, Quanshi Zhang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Clustering Partial Lexicographic Preference Trees %28Student Abstract%29 (AAAI 2021)**
+  - Joseph Allen, Xudong Liu, Karthikeyan Umapathy, Sandeep Reddivari
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Online probabilistic label trees (AISTATS 2021)**
+  - Marek Wydmuch, Kalina Jasinska-Kobus, Devanathan Thiruvenkatachari, Krzysztof Dembczynski
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Entropy Partial Transport with Tree Metrics: Theory and Practice (AISTATS 2021)**
+  - Tam Le, Truyen Nguyen
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees (ICLR 2021)**
+  - Zhen Qin, Le Yan, Honglei Zhuang, Yi Tay, Rama Kumar Pasumarthi, Xuanhui Wang, Michael Bendersky, Marc Najork
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Mathematical Reasoning via Self-supervised Skip-tree Training (ICLR 2021)**
+  - Markus Norman Rabe, Dennis Lee, Kshitij Bansal, Christian Szegedy
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Practical Massively Parallel Monte-Carlo Tree Search Applied to Molecular Design (ICLR 2021)**
+  - Xiufeng Yang, Tanuj Kr Aasawat, Kazuki Yoshizoe
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Learning Structural Edits via Incremental Tree Transformations (ICLR 2021)**
+  - Ziyu Yao, Frank F. Xu, Pengcheng Yin, Huan Sun, Graham Neubig
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **NBDT: Neural-Backed Decision Tree (ICLR 2021)**
+  - Alvin Wan, Lisa Dunlap, Daniel Ho, Jihan Yin, Scott Lee, Suzanne Petryk, Sarah Adel Bargal, Joseph E. Gonzalez
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **GP-Tree: A Gaussian Process Classifier for Few-Shot Incremental Learning (ICML 2021)**
+  - Idan Achituve, Aviv Navon, Yochai Yemini, Gal Chechik, Ethan Fetaya
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Analyzing the tree-layer structure of Deep Forests (ICML 2021)**
+  - Ludovic Arnould, Claire Boyer, Erwan Scornet
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Convex Regularization in Monte-Carlo Tree Search (ICML 2021)**
+  - Tuan Dam, Carlo D'Eramo, Jan Peters, Joni Pajarinen
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Versatile Verification of Tree Ensembles (ICML 2021)**
+  - Laurens Devos, Wannes Meert, Jesse Davis
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Trees with Attention for Set Prediction Tasks (ICML 2021)**
+  - Roy Hirsch, Ran Gilad-Bachrach
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Connecting Interpretability and Robustness in Decision Trees through Separation (ICML 2021)**
+  - Michal Moshkovitz, Yao-Yuan Yang, Kamalika Chaudhuri
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Optimal Counterfactual Explanations in Tree Ensembles (ICML 2021)**
+  - Axel Parmentier, Thibaut Vidal
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Supervised Tree-Wasserstein Distance (ICML 2021)**
+  - Yuki Takezawa, Ryoma Sato, Makoto Yamada
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **SGA: A Robust Algorithm for Partial Recovery of Tree-Structured Graphical Models with Noisy Samples (ICML 2021)**
+  - Anshoo Tandon, Aldric H. J. Han, Vincent Y. F. Tan
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Efficient Training of Robust Decision Trees Against Adversarial Examples (ICML 2021)**
+  - Daniël Vos, Sicco Verwer
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Learning Binary Decision Trees by Argmin Differentiation (ICML 2021)**
+  - Valentina Zantedeschi, Matt J. Kusner, Vlad Niculae
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Improving Neural RST Parsing Model with Silver Agreement Subtrees (NAACL 2021)**
+  - Naoki Kobayashi, Tsutomu Hirao, Hidetaka Kamigaito, Manabu Okumura, Masaaki Nagata
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Graph Ensemble Learning over Multiple Dependency Trees for Aspect-level Sentiment Classification (NAACL 2021)**
+  - Xiaochen Hou, Peng Qi, Guangtao Wang, Rex Ying, Jing Huang, Xiaodong He, Bowen Zhou
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots (NAACL 2021)**
+  - Samson Tan, Shafiq R. Joty
+  - [[Paper]]( )
+  - [[Code]]( )
 
 ## 2020
 
