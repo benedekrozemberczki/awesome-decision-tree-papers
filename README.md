@@ -54,7 +54,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **SAT-based Decision Tree Learning for Large Data Sets (AAAI 2021)**
   - André Schidler, Stefan Szeider
-  - [[Paper]]()
+  - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16509)
 
 - **Parameterized Complexity of Small Decision Tree Learning (AAAI 2021)**
   - Sebastian Ordyniak, Stefan Szeider
