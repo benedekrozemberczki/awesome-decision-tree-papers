@@ -60,7 +60,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Sebastian Ordyniak, Stefan Szeider
   - [[Paper]](https://www.ac.tuwien.ac.at/files/tr/ac-tr-21-002.pdf)
 
-- **Counterfactual Explanations for Oblique Decision Trees: Exact%2C Efficient Algorithms (AAAI 2021)**
+- **Counterfactual Explanations for Oblique Decision Trees: Exact - Efficient Algorithms (AAAI 2021)**
   - Miguel Á. Carreira-Perpiñán, Suryabhan Singh Hada
   - [[Paper]]( )
   - [[Code]]( )
@@ -82,8 +82,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Connecting Interpretability and Robustness in Decision Trees through Separation (ICML 2021)**
   - Michal Moshkovitz, Yao-Yuan Yang, Kamalika Chaudhuri
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2102.07048)
 
 - **Optimal Counterfactual Explanations in Tree Ensembles (ICML 2021)**
   - Axel Parmentier, Thibaut Vidal
