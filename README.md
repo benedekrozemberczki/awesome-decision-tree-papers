@@ -87,13 +87,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Optimal Counterfactual Explanations in Tree Ensembles (ICML 2021)**
   - Axel Parmentier, Thibaut Vidal
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2106.06631)
 
 - **Efficient Training of Robust Decision Trees Against Adversarial Examples (ICML 2021)**
   - Daniël Vos, Sicco Verwer
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2012.10438)
 
 - **Learning Binary Decision Trees by Argmin Differentiation (ICML 2021)**
   - Valentina Zantedeschi, Matt J. Kusner, Vlad Niculae
