@@ -91,6 +91,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Learning Binary Decision Trees by Argmin Differentiation (ICML 2021)**
   - Valentina Zantedeschi, Matt J. Kusner, Vlad Niculae
   - [[Paper]](https://arxiv.org/pdf/2010.04627.pdf)
+ 
+ - **Verifying Tree Ensembles by Reasoning about Potential Instances (SDM 2021)**
+  - Laurens Devos, Wannes Meert, Jesse Davis
+  - [[Paper]](https://arxiv.org/abs/2001.11905)
 
 ## 2020
 
