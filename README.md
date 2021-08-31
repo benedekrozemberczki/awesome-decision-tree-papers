@@ -92,7 +92,19 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Valentina Zantedeschi, Matt J. Kusner, Vlad Niculae
   - [[Paper]](https://arxiv.org/pdf/2010.04627.pdf)
  
- - **Verifying Tree Ensembles by Reasoning about Potential Instances (SDM 2021)**
+- **BLOCKSET (Block-Aligned Serialized Trees): Reducing Inference Latency for Tree ensemble Deployment (KDD 2021)**
+  - Meghana Madhyastha, Kunal Lillaney, James Browne, Joshua T. Vogelstein, Randal Burns
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467368)
+
+- **ControlBurn: Feature Selection by Sparse Forests (KDD 2021)**
+  - Brian Liu, Miaolan Xie, Madeleine Udell
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467387?sid=SCITRUS)
+
+- **Probabilistic Gradient Boosting Machines for Large-Scale Probabilistic Regression (KDD 2021)**
+  - Olivier Sprangers, Sebastian Schelter, Maarten de Rijke
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3447548.3467278)
+
+- **Verifying Tree Ensembles by Reasoning about Potential Instances (SDM 2021)**
   - Laurens Devos, Wannes Meert, Jesse Davis
   - [[Paper]](https://arxiv.org/abs/2001.11905)
 
@@ -189,6 +201,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Gaël Aglin, Siegfried Nijssen, Pierre Schaus
   - [[Paper]](https://www.ijcai.org/Proceedings/2020/0750.pdf)
   - [[Code]](https://github.com/aia-uclouvain/pydl8.5)
+
+- **Geodesic Forests (KDD 2020)**
+  - Meghana Madhyastha, Gongkai Li, Veronika Strnadova-Neeley, James Browne, Joshua T. Vogelstein, Randal Burns
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403094)
 
 - **A Scalable MIP-based Method for Learning Optimal Multivariate Decision Trees (NeurIPS 2020)**
   - Haoran Zhu, Pavankumar Murali, Dzung T. Phan, Lam M. Nguyen, Jayant Kalagnanam
@@ -364,6 +380,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Fast Training for Large-Scale One-versus-All Linear Classifiers using Tree-Structured Initialization (SDM 2019)**
   - Huang Fang, Minhao Cheng, Cho-Jui Hsieh, Michael P. Friedlander
   - [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975673.32)
+
+- **Forest Packing: Fast Parallel, Decision Forests (SDM 2019)**
+  - James Browne, Disa Mhembere, Tyler M. Tomita, Joshua T. Vogelstein, Randal Burns
+  - [[Paper]](https://epubs.siam.org/doi/abs/10.1137/1.9781611975673.6)
   
 - **Block-distributed Gradient Boosted Trees (SIGIR 2019)**
   - Theodore Vasiloudis, Hyunsu Cho, Henrik Boström
