@@ -66,15 +66,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Geometric Heuristics for Transfer Learning in Decision Trees (CIKM 2021)**
   - Siddhesh Chaubal, Mateusz Rzepecki, Patrick K. Nicholson, Guangyuan Piao, Alessandra Sala
-  - [[Paper]]( )
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482259)
 
 - **Fairness-Aware Training of Decision Trees by Abstract Interpretation (CIKM 2021)**
   - Francesco Ranzato, Caterina Urban, Marco Zanella
-  - [[Paper]]( )
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482342)
 
 - **Enabling Efficiency-Precision Trade-offs for Label Trees in Extreme Classification (CIKM 2021)**
   - Tavor Z. Baharav, Daniel L. Jiang, Kedarnath Kolluri, Sujay Sanghavi, Inderjit S. Dhillon
-  - [[Paper]]( )
+  - [[Paper]](https://arxiv.org/abs/2106.00730)
 
 - **Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees (ICLR 2021)**
   - Zhen Qin, Le Yan, Honglei Zhuang, Yi Tay, Rama Kumar Pasumarthi, Xuanhui Wang, Michael Bendersky, Marc Najork
