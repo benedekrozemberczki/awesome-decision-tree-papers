@@ -40,6 +40,33 @@ A curated list of classification and regression tree research papers with implem
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
+## 2022
+
+- **Counterfactual Explanation Trees: Transparent and Consistent Actionable Recourse with Decision Trees (AISTATS 2022)**
+  - Kentaro Kanamori, Takuya Takagi, Ken Kobayashi, Yuichi Ike
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Accurate Shapley Values for explaining tree-based models (AISTATS 2022)**
+  - Salim I. Amoukou, Tangi Salaün, Nicolas J.-B. Brunel
+  - [[Paper]]( )
+  - [[Code]]( )
+
+
+- **A cautionary tale on fitting decision trees to data from additive models: generalization lower bounds (AISTATS 2022)**
+  - Yan Shuo Tan, Abhineet Agarwal, Bin Yu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Enterprise-Scale Search: Accelerating Inference for Sparse Extreme Multi-Label Ranking Trees (WWW 2022)**
+  - Philip A. Etter, Kai Zhong, Hsiang-Fu Yu, Lexing Ying, Inderjit S. Dhillon
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **MBCT: Tree-Based Feature-Aware Binning for Individual Uncertainty Calibration (WWW 2022)**
+  - Siguang Huang, Yunli Wang, Lili Mou, Huayue Zhang, Han Zhu, Chuan Yu, Bo Zheng
+  - [[Paper]]( )
+  - [[Code]]( )
 
 ## 2021
 
