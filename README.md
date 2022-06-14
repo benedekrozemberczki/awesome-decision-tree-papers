@@ -44,29 +44,24 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Counterfactual Explanation Trees: Transparent and Consistent Actionable Recourse with Decision Trees (AISTATS 2022)**
   - Kentaro Kanamori, Takuya Takagi, Ken Kobayashi, Yuichi Ike
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://proceedings.mlr.press/v151/kanamori22a.html)
 
 - **Accurate Shapley Values for explaining tree-based models (AISTATS 2022)**
   - Salim I. Amoukou, Tangi Salaün, Nicolas J.-B. Brunel
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](https://arxiv.org/abs/2106.03820)
 
 - **A cautionary tale on fitting decision trees to data from additive models: generalization lower bounds (AISTATS 2022)**
   - Yan Shuo Tan, Abhineet Agarwal, Bin Yu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2110.09626)
+  - [[Code]](https://github.com/aagarwal1996/additive_trees)
 
 - **Enterprise-Scale Search: Accelerating Inference for Sparse Extreme Multi-Label Ranking Trees (WWW 2022)**
   - Philip A. Etter, Kai Zhong, Hsiang-Fu Yu, Lexing Ying, Inderjit S. Dhillon
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2106.02697)
 
 - **MBCT: Tree-Based Feature-Aware Binning for Individual Uncertainty Calibration (WWW 2022)**
   - Siguang Huang, Yunli Wang, Lili Mou, Huayue Zhang, Han Zhu, Chuan Yu, Bo Zheng
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2202.04348)
 
 ## 2021
 
