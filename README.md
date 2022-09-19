@@ -271,7 +271,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 ## 2019
 
-- **Multi-Level Deep Cascade Trees for Conversion Rate Prediction in Recommendation System (AAAI 2019)**
+- **Multi Level Deep Cascade Trees for Conversion Rate Prediction in Recommendation System (AAAI 2019)**
   - Hong Wen, Jing Zhang, Quan Lin, Keping Yang, Pipei Huang
   - [[Paper]](https://arxiv.org/pdf/1805.09484.pdf)
   
