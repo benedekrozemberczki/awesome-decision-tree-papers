@@ -63,6 +63,101 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Siguang Huang, Yunli Wang, Lili Mou, Huayue Zhang, Han Zhu, Chuan Yu, Bo Zheng
   - [[Paper]](https://arxiv.org/abs/2202.04348)
 
+- **Rethinking Conversational Recommendations: Is Decision Tree All You Need (CIKM 2022)**
+  - A S. M. Ahsan-Ul-Haque, Hongning Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **A Neural Tangent Kernel Perspective of Infinite Tree Ensembles (ICLR 2022)**
+  - Ryuichi Kanoh, Mahito Sugiyama
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **POETREE: Interpretable Policy Learning with Adaptive Decision Trees (ICLR 2022)**
+  - Alizée Pace, Alex Chan, Mihaela van der Schaar
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Hierarchical Shrinkage: Improving the accuracy and interpretability of tree-based models (ICML 2022)**
+  - Abhineet Agarwal, Yan Shuo Tan, Omer Ronen, Chandan Singh, Bin Yu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Popular decision tree algorithms are provably noise tolerant (ICML 2022)**
+  - Guy Blanc, Jane Lange, Ali Malik, Li-Yang Tan
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Robust Counterfactual Explanations for Tree-Based Ensembles (ICML 2022)**
+  - Sanghamitra Dutta, Jason Long, Saumitra Mishra, Cecilia Tilli, Daniele Magazzeni
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Fast Provably Robust Decision Trees and Boosting (ICML 2022)**
+  - Jun-Qi Guo, Ming-Zhuo Teng, Wei Gao, Zhi-Hua Zhou
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **BAMDT: Bayesian Additive Semi-Multivariate Decision Trees for Nonparametric Regression (ICML 2022)**
+  - Zhao Tang Luo, Huiyan Sang, Bani K. Mallick
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Quant-BnB: A Scalable Branch-and-Bound Method for Optimal Decision Trees with Continuous Features (ICML 2022)**
+  - Rahul Mazumder, Xiang Meng, Haoyue Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **A Tree-based Model Averaging Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources (ICML 2022)**
+  - Xiaoqing Tan, Chung-Chou H. Chang, Ling Zhou, Lu Tang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **On Preferred Abductive Explanations for Decision Trees and Random Forests (IJCAI 2022)**
+  - Gilles Audemard, Steve Bellart, Louenas Bounia, Frédéric Koriche, Jean-Marie Lagniez, Pierre Marquis
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Aspect-based Sentiment Analysis with Opinion Tree Generation (IJCAI 2022)**
+  - Xiaoyi Bao, Zhongqing Wang, Xiaotong Jiang, Rong Xiao, Shoushan Li
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Utilizing Treewidth for Quantitative Reasoning on Epistemic Logic Programs %28Extended Abstract%29 (IJCAI 2022)**
+  - Viktor Besin, Markus Hecher, Stefan Woltran
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Extending Decision Tree to Handle Multiple Fairness Criteria (IJCAI 2022)**
+  - Alessandro Castelnovo
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Flexible Modeling and Multitask Learning using Differentiable Tree Ensembles (KDD 2022)**
+  - Shibal Ibrahim, Hussein Hazimeh, Rahul Mazumder
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Integrity Authentication in Tree Models (KDD 2022)**
+  - Weijie Zhao, Yingjie Lao, Ping Li
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Retrieval-Based Gradient Boosting Decision Trees for Disease Risk Assessment (KDD 2022)**
+  - Handong Ma, Jiahang Cao, Yuchen Fang, Weinan Zhang, Wenbo Sheng, Shaodian Zhang, Yong Yu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Improved feature importance computation for tree models based on the Banzhaf value (UAI 2022)**
+  - Adam Karczmarz, Tomasz Michalak, Anish Mukherjee, Piotr Sankowski, Piotr Wygocki
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Learning linear non-Gaussian polytree models (UAI 2022)**
+  - Daniele Tramontano, Anthea Monod, Mathias Drton
+  - [[Paper]]( )
+  - [[Code]]( )
+
 ## 2021
 
 - **Online Probabilistic Label Trees (AISTATS 2021)**
