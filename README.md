@@ -150,13 +150,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Improved feature importance computation for tree models based on the Banzhaf value (UAI 2022)**
   - Adam Karczmarz, Tomasz Michalak, Anish Mukherjee, Piotr Sankowski, Piotr Wygocki
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://proceedings.mlr.press/v180/karczmarz22a.html)
 
 - **Learning linear non-Gaussian polytree models (UAI 2022)**
   - Daniele Tramontano, Anthea Monod, Mathias Drton
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2208.06701)
 
 ## 2021
 
