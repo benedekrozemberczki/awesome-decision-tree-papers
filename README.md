@@ -118,16 +118,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Aspect-based Sentiment Analysis with Opinion Tree Generation (IJCAI 2022)**
-  - Xiaoyi Bao, Zhongqing Wang, Xiaotong Jiang, Rong Xiao, Shoushan Li
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Utilizing Treewidth for Quantitative Reasoning on Epistemic Logic Programs %28Extended Abstract%29 (IJCAI 2022)**
-  - Viktor Besin, Markus Hecher, Stefan Woltran
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **Extending Decision Tree to Handle Multiple Fairness Criteria (IJCAI 2022)**
   - Alessandro Castelnovo
   - [[Paper]](https://www.ijcai.org/proceedings/2022/0822.pdf)
