@@ -110,13 +110,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **A Tree-based Model Averaging Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources (ICML 2022)**
   - Xiaoqing Tan, Chung-Chou H. Chang, Ling Zhou, Lu Tang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2103.06261)
 
 - **On Preferred Abductive Explanations for Decision Trees and Random Forests (IJCAI 2022)**
   - Gilles Audemard, Steve Bellart, Louenas Bounia, Frédéric Koriche, Jean-Marie Lagniez, Pierre Marquis
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0091.pdf)
 
 - **Extending Decision Tree to Handle Multiple Fairness Criteria (IJCAI 2022)**
   - Alessandro Castelnovo
