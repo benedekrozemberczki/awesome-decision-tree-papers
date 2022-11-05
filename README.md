@@ -130,23 +130,19 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Extending Decision Tree to Handle Multiple Fairness Criteria (IJCAI 2022)**
   - Alessandro Castelnovo
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/0822.pdf)
 
 - **Flexible Modeling and Multitask Learning using Differentiable Tree Ensembles (KDD 2022)**
   - Shibal Ibrahim, Hussein Hazimeh, Rahul Mazumder
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2205.09717)
 
 - **Integrity Authentication in Tree Models (KDD 2022)**
   - Weijie Zhao, Yingjie Lao, Ping Li
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539428)
 
 - **Retrieval-Based Gradient Boosting Decision Trees for Disease Risk Assessment (KDD 2022)**
   - Handong Ma, Jiahang Cao, Yuchen Fang, Weinan Zhang, Wenbo Sheng, Shaodian Zhang, Yong Yu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539052)
 
 - **Improved feature importance computation for tree models based on the Banzhaf value (UAI 2022)**
   - Adam Karczmarz, Tomasz Michalak, Anish Mukherjee, Piotr Sankowski, Piotr Wygocki
