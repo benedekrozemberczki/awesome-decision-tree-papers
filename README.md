@@ -73,23 +73,19 @@ Similar collections about [graph classification](https://github.com/benedekrozem
  
 - **POETREE: Interpretable Policy Learning with Adaptive Decision Trees (ICLR 2022)**
   - Alizée Pace, Alex Chan, Mihaela van der Schaar
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2203.08057)
 
 - **Hierarchical Shrinkage: Improving the accuracy and interpretability of tree-based models (ICML 2022)**
   - Abhineet Agarwal, Yan Shuo Tan, Omer Ronen, Chandan Singh, Bin Yu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2202.00858)
 
 - **Popular decision tree algorithms are provably noise tolerant (ICML 2022)**
   - Guy Blanc, Jane Lange, Ali Malik, Li-Yang Tan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2206.08899)
 
 - **Robust Counterfactual Explanations for Tree-Based Ensembles (ICML 2022)**
   - Sanghamitra Dutta, Jason Long, Saumitra Mishra, Cecilia Tilli, Daniele Magazzeni
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://proceedings.mlr.press/v162/dutta22a.html)
 
 - **Fast Provably Robust Decision Trees and Boosting (ICML 2022)**
   - Jun-Qi Guo, Ming-Zhuo Teng, Wei Gao, Zhi-Hua Zhou
