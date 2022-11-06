@@ -89,18 +89,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Fast Provably Robust Decision Trees and Boosting (ICML 2022)**
   - Jun-Qi Guo, Ming-Zhuo Teng, Wei Gao, Zhi-Hua Zhou
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://proceedings.mlr.press/v162/guo22h.html)
 
 - **BAMDT: Bayesian Additive Semi-Multivariate Decision Trees for Nonparametric Regression (ICML 2022)**
   - Zhao Tang Luo, Huiyan Sang, Bani K. Mallick
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://proceedings.mlr.press/v162/luo22a.html)
 
 - **Quant-BnB: A Scalable Branch-and-Bound Method for Optimal Decision Trees with Continuous Features (ICML 2022)**
   - Rahul Mazumder, Xiang Meng, Haoyue Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2206.11844)
 
 - **A Tree-based Model Averaging Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources (ICML 2022)**
   - Xiaoqing Tan, Chung-Chou H. Chang, Ling Zhou, Lu Tang
