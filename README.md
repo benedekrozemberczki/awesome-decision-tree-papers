@@ -65,8 +65,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Rethinking Conversational Recommendations: Is Decision Tree All You Need (CIKM 2022)**
   - A S. M. Ahsan-Ul-Haque, Hongning Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2208.14614)
 
 - **A Neural Tangent Kernel Perspective of Infinite Tree Ensembles (ICLR 2022)**
   - Ryuichi Kanoh, Mahito Sugiyama
