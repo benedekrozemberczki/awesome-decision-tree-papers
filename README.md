@@ -69,9 +69,8 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **A Neural Tangent Kernel Perspective of Infinite Tree Ensembles (ICLR 2022)**
   - Ryuichi Kanoh, Mahito Sugiyama
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](https://openreview.net/forum?id=vUH85MOXO7h)
+ 
 - **POETREE: Interpretable Policy Learning with Adaptive Decision Trees (ICLR 2022)**
   - Alizée Pace, Alex Chan, Mihaela van der Schaar
   - [[Paper]]( )
