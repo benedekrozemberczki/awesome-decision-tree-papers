@@ -131,11 +131,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Daniele Tramontano, Anthea Monod, Mathias Drton
   - [[Paper]](https://arxiv.org/abs/2208.06701)
 
-- **Enterprise-Scale Search: Accelerating Inference for Sparse Extreme Multi-Label Ranking Trees (WWW 2022)**
-  - Philip A. Etter, Kai Zhong, Hsiang-Fu Yu, Lexing Ying, Inderjit S. Dhillon
-  - [[Paper]]( )
-  - [[Code]]( )
-
 ## 2021
 
 - **Online Probabilistic Label Trees (AISTATS 2021)**
