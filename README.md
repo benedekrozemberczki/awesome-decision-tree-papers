@@ -42,6 +42,132 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## 2022
 
+- **OctAttention: Octree-Based Large-Scale Contexts Model for Point Cloud Compression (AAAI 2022)**
+  - Chunyang Fu, Ge Li, Rui Song, Wei Gao, Shan Liu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Social Interpretable Tree for Pedestrian Trajectory Prediction (AAAI 2022)**
+  - Liushuai Shi, Le Wang, Chengjiang Long, Sanping Zhou, Fang Zheng, Nanning Zheng, Gang Hua
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **TDv2: A Novel Tree-Structured Decoder for Offline Mathematical Expression Recognition (AAAI 2022)**
+  - Changjie Wu, Jun Du, Yunqing Li, Jianshu Zhang, Chen Yang, Bo Ren, Yiqing Hu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Using MaxSAT for Efficient Explanations of Tree Ensembles (AAAI 2022)**
+  - Alexey Ignatiev, Yacine Izza, Peter J. Stuckey, João Marques-Silva
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Finding Backdoors to Integer Programs: A Monte Carlo Tree Search Framework (AAAI 2022)**
+  - Elias B. Khalil, Pashootan Vaezipoor, Bistra Dilkina
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Encoding Multi-Valued Decision Diagram Constraints as Binary Constraint Trees (AAAI 2022)**
+  - Ruiwei Wang, Roland H. C. Yap
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting (AAAI 2022)**
+  - Hui He, Qi Zhang, Simeng Bai, Kun Yi, Zhendong Niu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Constrained Prescriptive Trees via Column Generation (AAAI 2022)**
+  - Shivaram Subramanian, Wei Sun, Youssef Drissi, Markus Ettl
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **NSGZero: Efficiently Learning Non-exploitable Policy in Large-Scale Network Security Games with Neural Monte Carlo Tree Search (AAAI 2022)**
+  - Wanqi Xue, Bo An, Chai Kiat Yeo
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Team Correlated Equilibria in Zero-Sum Extensive-Form Games via Tree Decompositions (AAAI 2022)**
+  - Brian Hu Zhang, Tuomas Sandholm
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **FOCUS: Flexible Optimizable Counterfactual Explanations for Tree Ensembles (AAAI 2022)**
+  - Ana Lucic, Harrie Oosterhuis, Hinda Haned, Maarten de Rijke
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Tractable Abstract Argumentation via Backdoor-Treewidth (AAAI 2022)**
+  - Wolfgang Dvorák, Markus Hecher, Matthias König, André Schidler, Stefan Szeider, Stefan Woltran
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Explainable and Local Correction of Classification Models Using Decision Trees (AAAI 2022)**
+  - Hirofumi Suzuki, Hiroaki Iwashita, Takuya Takagi, Keisuke Goto, Yuta Fujishige, Satoshi Hara
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Robust Optimal Classification Trees against Adversarial Examples (AAAI 2022)**
+  - Daniël Vos, Sicco Verwer
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Learning-Augmented Algorithms for Online Steiner Tree (AAAI 2022)**
+  - Chenyang Xu, Benjamin Moseley
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Fairness without Imputation: A Decision Tree Approach for Fair Prediction with Missing Values (AAAI 2022)**
+  - Haewon Jeong, Hao Wang, Flávio P. Calmon
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Fast Sparse Decision Tree Optimization via Reference Ensembles (AAAI 2022)**
+  - Hayden McTavish, Chudi Zhong, Reto Achermann, Ilias Karimalis, Jacques Chen, Cynthia Rudin, Margo I. Seltzer
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Extended Goal Recognition Design with First-Order Computation Tree Logic (AAAI 2022)**
+  - Tsz-Chiu Au
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Solving Disjunctive Temporal Networks with Uncertainty under Restricted Time-Based Controllability Using Tree Search and Graph Neural Networks (AAAI 2022)**
+  - Kevin Osanlou, Jeremy Frank, Andrei Bursuc, Tristan Cazenave, Eric Jacopin, Christophe Guettier, J. Benton
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Qubit Routing Using Graph Neural Network Aided Monte Carlo Tree Search (AAAI 2022)**
+  - Animesh Sinha, Utkarsh Azad, Harjinder Singh
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Split Moves for Monte-Carlo Tree Search (AAAI 2022)**
+  - Jakub Kowalski, Maksymilian Mika, Wojciech Pawlik, Jakub Sutowicz, Marek Szykula, Mark H. M. Winands
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Procrastinated Tree Search: Black-Box Optimization with Delayed%2C Noisy%2C and Multi-Fidelity Feedback (AAAI 2022)**
+  - Junxiong Wang, Debabrota Basu, Immanuel Trummer
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **ReforesTree: A Dataset for Estimating Tropical Forest Carbon Stock with Deep Learning and Aerial Imagery (AAAI 2022)**
+  - Gyri Reiersen, David Dao, Björn Lütjens, Konstantin Klemmer, Kenza Amara, Attila Steinegger, Ce Zhang, Xiaoxiang Zhu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **TransBoost: A Boosting-Tree Kernel Transfer Learning Algorithm for Improving Financial Inclusion (AAAI 2022)**
+  - Yiheng Sun, Tian Lu, Cong Wang, Yuan Li, Huaiyu Fu, Jingran Dong, Yunjie Xu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Detecting Neighborhood Gentrification at Scale via Street Views and POIs %28Student Abstract%29 (AAAI 2022)**
+  - Tianyuan Huang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+
 - **Counterfactual Explanation Trees: Transparent and Consistent Actionable Recourse with Decision Trees (AISTATS 2022)**
   - Kentaro Kanamori, Takuya Takagi, Ken Kobayashi, Yuichi Ike
   - [[Paper]](https://proceedings.mlr.press/v151/kanamori22a.html)
