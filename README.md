@@ -44,39 +44,33 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Using MaxSAT for Efficient Explanations of Tree Ensembles (AAAI 2022)**
   - Alexey Ignatiev, Yacine Izza, Peter J. Stuckey, João Marques-Silva
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://alexeyignatiev.github.io/assets/pdf/iisms-aaai22-preprint.pdf)
 
 - **FOCUS: Flexible Optimizable Counterfactual Explanations for Tree Ensembles (AAAI 2022)**
   - Ana Lucic, Harrie Oosterhuis, Hinda Haned, Maarten de Rijke
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://a-lucic.github.io/talks/ICML_SMRL_focus.pdf)
 
 - **Explainable and Local Correction of Classification Models Using Decision Trees (AAAI 2022)**
   - Hirofumi Suzuki, Hiroaki Iwashita, Takuya Takagi, Keisuke Goto, Yuta Fujishige, Satoshi Hara
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20816)
 
 - **Robust Optimal Classification Trees against Adversarial Examples (AAAI 2022)**
   - Daniël Vos, Sicco Verwer
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2109.03857)
 
 - **Fairness without Imputation: A Decision Tree Approach for Fair Prediction with Missing Values (AAAI 2022)**
   - Haewon Jeong, Hao Wang, Flávio P. Calmon
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2109.10431)
 
 - **Fast Sparse Decision Tree Optimization via Reference Ensembles (AAAI 2022)**
   - Hayden McTavish, Chudi Zhong, Reto Achermann, Ilias Karimalis, Jacques Chen, Cynthia Rudin, Margo I. Seltzer
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2112.00798)
+  - [[Code]](https://pypi.org/project/gosdt/)
 
 - **TransBoost: A Boosting-Tree Kernel Transfer Learning Algorithm for Improving Financial Inclusion (AAAI 2022)**
   - Yiheng Sun, Tian Lu, Cong Wang, Yuan Li, Huaiyu Fu, Jingran Dong, Yunjie Xu
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](https://arxiv.org/abs/2112.02365)
+  - [[Code]](https://github.com/yihengsun/TransBoost)
 
 - **Counterfactual Explanation Trees: Transparent and Consistent Actionable Recourse with Decision Trees (AISTATS 2022)**
   - Kentaro Kanamori, Takuya Takagi, Ken Kobayashi, Yuichi Ike
