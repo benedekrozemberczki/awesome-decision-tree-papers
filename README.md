@@ -1640,7 +1640,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Wray L. Buntine
   - [[Paper]](https://arxiv.org/abs/1304.2732)
   
-----------------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 **License**
 
