@@ -1,0 +1,57 @@
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.preprocessing import FunctionTransformer
+from sklearn.compose import ColumnTransformer
+
+train_inputs_data['Travel'].value_counts()
+train_feature = (train_inputs_data
+.replace({'Travel':{'5-10':'1'}})
+.replace({'Travel':{'10-15':'1'}})
+.replace({'Travel':{'1-5':'1'}}))
+# Identify the numeric and categorical columns
+numeric_cols = train_inputs_data.select_dtypes(include=[np.number]).columns.to_list()
+print("Numeric columns: \n", numeric_cols)
+
+categorical_cols = train_inputs_data.select_dtypes('object').columns.to_list()
+print("\nCategorical columns: \n", categorical_cols)
+# Pipeline
+numeric_transformer = Pipeline(
+    steps=[ ('scaler', StandardScaler())])
+
+categorical_transformer = Pipeline(
+    steps=[('onehot', OneHotEncoder(handle_unknown='ignore'))])
+
+preprocessor = ColumnTransformer([('num', numeric_transformer, numeric_cols), 
+                                  ('cat', categorical_transformer, categorical_cols),], 
+    remainder='passthrough')
+    
+    
+    # Fit and transform the train structured data
+train_x_structured = preprocessor.fit_transform(train_inputs_data)
+
+train_x_structured
+
+print("train_x_structured: ", train_x_structured.shape,
+      "\ntrain_x_structured: ", test_x_structured.shape)
+      
+# Transform the test structured data
+test_x_structured = preprocessor.transform(test_inputs_data)
+
+test_x_structured
+
+print("test_x_structured: ", test_x_structured.shape,
+      "\ntest_x_structured: ", train_x_structured.shape)
+      
+#SK Learning
+# pre-processing, tokenization, filtering stop words
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.decomposition import TruncatedSVD
+
+tfidf_vect = TfidfVectorizer(stop_words='english')
+train_x_tr = tfidf_vect.fit_transform(train_inputs_text_data.squeeze())
+test_x_tr = tfidf_vect.transform(test_inputs_text_data.squeeze())
+
+print("train_x_tr: ", train_x_tr.shape, 
+      "\ntest_x_tr: ", test_x_tr.shape)
+      train_x_tr.toarray()
