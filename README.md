@@ -71,6 +71,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Yiheng Sun, Tian Lu, Cong Wang, Yuan Li, Huaiyu Fu, Jingran Dong, Yunjie Xu
   - [[Paper]](https://arxiv.org/abs/2112.02365)
   - [[Code]](https://github.com/yihengsun/TransBoost)
+  
+- **A Scalable Deterministic Global Optimization Algorithm for Training Optimal Decision Tree (NIPS 2022)**
+  - Kaixun Hua, Jiayang Ren, Yankai Cao
+  - [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/37771cc0be272368102a37f202bb88d8-Abstract-Conference.html)
+  - [[Code]](https://github.com/YankaiGroup/optimal_decision_tree)
 
 - **Counterfactual Explanation Trees: Transparent and Consistent Actionable Recourse with Decision Trees (AISTATS 2022)**
   - Kentaro Kanamori, Takuya Takagi, Ken Kobayashi, Yuichi Ike
