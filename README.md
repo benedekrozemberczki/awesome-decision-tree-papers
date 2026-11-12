@@ -41,6 +41,16 @@ A curated list of classification and regression tree research papers with implem
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
+## 2025
+
+- **Aligning Agent Policies with Preferences: Human-Centered Interpretable Reinforcement Learning (AIES 2025)**
+  - Stephanie Milani, Zhicheng Zhang, Nicholay Topin, Lirong Xia, Fei Fang
+  - [[Paper]](https://doi.org/10.1609/aies.v8i2.36668)
+
+- **Making Teams and Influencing Agents: Efficiently Coordinating Decision Trees for Interpretable Multi-Agent Reinforcement Learning (AIES 2025)**
+  - Rex Chen, Stephanie Milani, Zhicheng Zhang, Norman Sadeh, Fei Fang
+  - [[Paper]](https://arxiv.org/abs/2505.19316)
+
 ## 2022
 
 - **Using MaxSAT for Efficient Explanations of Tree Ensembles (AAAI 2022)**
@@ -97,6 +107,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Rethinking Conversational Recommendations: Is Decision Tree All You Need (CIKM 2022)**
   - A S. M. Ahsan-Ul-Haque, Hongning Wang
   - [[Paper]](https://arxiv.org/abs/2208.14614)
+
+- **MAVIPER: Learning Decision Tree Policies for Interpretable Multi-Agent Reinforcement Learning (ECML PKDD 2022)**
+  - Stephanie Milani, Zhicheng Zhang, Nicholay Topin, Zheyuan Ryan Shi, Charles Kamhoua, Evangelos E. Papalexakis, Fei Fang
+  - [[Paper]](https://arxiv.org/abs/2205.12449)
 
 - **A Neural Tangent Kernel Perspective of Infinite Tree Ensembles (ICLR 2022)**
   - Ryuichi Kanoh, Mahito Sugiyama
@@ -184,6 +198,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Counterfactual Explanations for Oblique Decision Trees: Exact - Efficient Algorithms (AAAI 2021)**
   - Miguel Á. Carreira-Perpiñán, Suryabhan Singh Hada
   - [[Paper]](https://arxiv.org/abs/2103.01096)
+
+- **Iterative Bounding MDPs: Learning Interpretable Policies via Non-Interpretable Methods (AAAI 2021)**
+  - Nicholay Topin, Stephanie Milani, Fei Fang, Manuela Veloso
+  - [[Paper]](https://arxiv.org/abs/2102.13045)
 
 - **Geometric Heuristics for Transfer Learning in Decision Trees (CIKM 2021)**
   - Siddhesh Chaubal, Mateusz Rzepecki, Patrick K. Nicholson, Guangyuan Piao, Alessandra Sala
